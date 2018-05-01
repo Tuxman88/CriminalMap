@@ -28,7 +28,9 @@ SOURCES += \
     src/gui/windows/mainwindow.cc \
     src/gui/components/panelmain.cc \
     src/gui/components/panelmap.cc \
-    src/gui/components/paneloptions.cc
+    src/gui/components/paneloptions.cc \
+    src/core/maincore.cc \
+    src/core/sitesscanner.cc
 
 HEADERS += \
    src/base/base.hh \
@@ -37,4 +39,6 @@ HEADERS += \
     src/gui/windows/mainwindow.hh \
     src/gui/components/panelmain.hh \
     src/gui/components/panelmap.hh \
-    src/gui/components/paneloptions.hh
+    src/gui/components/paneloptions.hh \
+    src/core/maincore.hh \
+    src/core/sitesscanner.hh

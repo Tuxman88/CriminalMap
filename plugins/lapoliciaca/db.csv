@@ -1,637 +1,388 @@
-Chihuahua,Ciudad Juárez,2017-11-05T20:07:28-07:00,0001,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesinan-a-jovencita-y-abandonan-su-cadaver-en-un-campo-de-futbol/
-Puebla,Zacatlán,2017-11-05T18:53:38-07:00,0002,,http://www.lapoliciaca.com/nota-roja/nino-de-2-anos-reportado-raptado-fue-hallado-ahogado-en-arroyo-cerca-de-su-casa/
-Oaxaca,San Juan Cacahuatepec,2017-11-04T10:39:15-07:00,0003,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-una-familia-y-su-bebe/
-Nayarit,Acaponeta,2017-11-04T10:05:16-07:00,0004,DISPAROS,http://www.lapoliciaca.com/nota-roja/dispara-contra-su-hijo-pero-termino-matando-a-su-esposa/
-Veracruz,Las Choapas,2017-11-04T07:06:33-07:00,0006,SECUESTRO:DISPAROS,http://www.lapoliciaca.com/nota-roja/desalmados-asesinan-a-abuelita-y-su-nieta-de-12-anos-pretendian-raptarlas-y-violarlas/
-Chihuahua,Ciudad Juárez,2017-11-04T07:06:18-07:00,0007,ASESINATO,http://www.lapoliciaca.com/nota-roja/le-gustaba-subir-frases-de-narcocorridos-a-su-facebook-fue-hallada-ejecutada/
-Aguascalientes,Aguascalientes,2017-11-04T06:35:51-07:00,0008,,http://www.lapoliciaca.com/nota-roja/amenaza-con-matar-a-su-hija-de-2-anos-despues-de-pelea-marital-video/
-Yucatán,Buctzotz,2017-11-03T22:28:28-07:00,0009,,http://www.lapoliciaca.com/nota-roja/casi-mueren-por-culpa-de-fantasmas-de-una-mujer-y-un-nino/
-Durango,Canatlán,2017-11-03T21:37:19-07:00,0010,,http://www.lapoliciaca.com/nota-roja/mata-a-su-hijo-de-11-anos-y-luego-se-suicida/
-Guanajuato,Celaya,2017-11-03T20:09:41-07:00,0011,,http://www.lapoliciaca.com/nota-roja/se-va-de-puebla-por-desamor-y-unos-perros-lo-matan-en-guanajuato/
-Veracruz,Coatzacoalcos,2017-11-03T07:19:13-07:00,0012,,http://www.lapoliciaca.com/nota-roja/dracula-y-calaveras-asaltan-a-comensales-de-taqueria/
-Sonora,Hermosillo,2017-11-03T07:08:49-07:00,0013,,http://www.lapoliciaca.com/nota-roja/ladron-roba-caballo-y-ambos-terminan-muertos/
-Puebla,Puebla,2017-11-03T06:18:23-07:00,0014,ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/lider-huachicolero-se-iba-a-cambiar-el-rostro-y-huellas-dactilares-cuando-lo-ejecutaron/
-Nuevo León,Monterrey,2017-11-02T10:06:26-07:00,0015,ASESINATO,http://www.lapoliciaca.com/nota-roja/murio-asesinado-a-manos-del-amante-de-su-mujer/
-Guerrero,Acapulco,2017-11-01T20:21:00-07:00,0016,,http://www.lapoliciaca.com/nota-roja/fueron-al-mar-a-depositar-una-ofrenda-florar-por-el-dia-de-muertos-y-ahi-se-suicidaron/
-Estado de México,Naucalpan,2017-11-01T19:35:46-07:00,0017,ASESINATO,http://www.lapoliciaca.com/nota-roja/angelita-fue-hallada-asesinada-hace-siete-meses-y-nadie-reclamo-su-cuerpo/
-Jalisco,Guadalajara,2017-11-01T18:53:35-07:00,0018,ASESINATO,http://www.lapoliciaca.com/nota-roja/su-esposo-la-golpeaba-y-lo-denuncio-aparecio-desollada/
-Jalisco,Guadalajara,2017-11-01T18:49:09-07:00,0019,ASALTO:DISPAROS,http://www.lapoliciaca.com/nota-roja/se-defendio-al-ser-asaltado-y-mato-al-ladron-video/
-Guanajuato,Celaya,2017-11-01T18:15:00-07:00,0020,,http://www.lapoliciaca.com/nota-roja/muje-asesino-y-enterro-a-su-madre-en-el-patio-de-su-vivienda/
-Puebla,Tepeaca,2017-11-01T17:11:13-07:00,0021,SECUESTRO,http://www.lapoliciaca.com/nota-roja/por-amor-subdirectora-de-penal-planeo-secuestro-del-director-del-reclusorio-y-fuga-de-reos/
-Nuevo León,Monterrey,2017-11-01T17:05:22-07:00,0022,,http://www.lapoliciaca.com/nota-roja/causa-polemica-en-redes-sociales-nina-disfrazada-de-frida-sofia/
-Sinaloa,Culiacán,2017-11-01T09:25:05-07:00,0023,,http://www.lapoliciaca.com/nota-roja/dos-bebes-y-una-joven-mujer-mueren-en-un-voraz-incendio-que-consumio-su-casa/
-Estado de México,Zinacantepec,2017-11-01T07:45:23-07:00,0024,,http://www.lapoliciaca.com/nota-roja/mueren-cuatro-adultos-y-un-bebe-que-intentaban-calentarse-con-un-anafre/
-Jalisco,Guadalajara,2017-10-31T06:36:26-07:00,0028,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-mujer-fue-desollada-y-aparentemente-agredida-sexualmente/
-Guerrero,Chilpancingo,2017-10-30T21:36:20-07:00,0029,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-balazos-a-testigo-de-jehova/
-Estados Unidos,California,2017-10-30T19:14:11-07:00,0030,DISPAROS,http://www.lapoliciaca.com/nota-roja/matrimonio-sobrevive-tiroteo-en-las-vegas-y-dias-despues-muere-en-accidente-automovilistico/
-Puebla,Puebla,2017-10-30T18:13:06-07:00,0033,,http://www.lapoliciaca.com/nota-roja/muere-en-su-moto-a-unos-dias-de-haberla-comprado/
-Chiapas,Reforma,2017-10-30T18:03:24-07:00,0034,,http://www.lapoliciaca.com/nota-roja/madre-intenta-quitarse-la-vida-con-raticida-y-sus-hijos-tambien-se-envenenan/
-Baja California,Tijuana,2017-10-30T07:05:26-07:00,0035,,http://www.lapoliciaca.com/nota-roja/abuelito-queria-morir-y-le-prendio-fuego-a-su-habitacion-en-un-asilo-de-ancianos-mueren-seis/
-España,Madrid,2017-10-30T06:05:26-07:00,0036,SECUESTRO,http://www.lapoliciaca.com/nota-roja/detienen-a-la-secuestradora-del-ataud-huyo-de-mexico-la-capturan-en-espana/
-Chihuahua,Chihuahua,2017-10-30T05:55:56-07:00,0037,,http://www.lapoliciaca.com/nota-roja/yo-solo-trataba-de-calmarla-la-sujete-abrazandola-pero-la-aprete-mucho-y-la-asfixie/
-Veracruz,Tuxpan,2017-10-30T05:55:12-07:00,0038,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/la-mataron-cuando-regresaba-de-pagar-el-rescate-de-su-marido/
-Sinaloa,Navolato,2017-10-30T02:30:24-07:00,0039,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-muerta-a-nina-de-6-anos-que-fue-raptada-cuando-iba-a-la-tienda-a-comprar-dulces/
-Estado de México,Ecatepec,2017-10-26T05:58:10-07:00,0041,,http://www.lapoliciaca.com/nota-roja/nino-de-11-anos-decide-quitarse-la-vida-porque-su-mama-no-lo-queria/
-Guanajuato,Apaseo el Grande,2017-10-26T05:55:34-07:00,0042,,http://www.lapoliciaca.com/nota-roja/travesura-le-costo-la-vida-a-un-nino-de-11-anos/
-San Luis Potosí,Tamazunchale,2017-10-26T03:23:51-07:00,0043,,http://www.lapoliciaca.com/nota-roja/profesor-violo-a-una-alumna-en-la-biblioteca-de-la-escuela/
-Hidalgo,Pachuca,2017-10-25T06:28:18-07:00,0045,,http://www.lapoliciaca.com/nota-roja/queria-ver-a-su-hija-y-termino-muerto/
-Veracruz,San Pedro Soteapan,2017-10-25T06:12:23-07:00,0046,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-estudiante-de-secundaria-que-desaparecio-al-salir-a-comprar-a-la-papeleria/
-Estado de México,Toluca,2017-10-24T22:04:51-07:00,0047,,http://www.lapoliciaca.com/nota-roja/desaparecio-el-dia-que-discutio-con-su-novio-fue-hallada-ahogada/
-Tlaxcala,Mazatecohco,2017-10-24T22:01:35-07:00,0048,,http://www.lapoliciaca.com/nota-roja/asi-fue-el-secuestro-y-homicidio-de-jazmin-video/
-Tlaxcala,Tlaxcala,2017-10-24T13:49:32-07:00,0049,,http://www.lapoliciaca.com/nota-roja/adorno-de-dia-de-muertos-provoca-persecucion-policiaca/
-Tlaxcala,Mazatecochco,2017-10-23T07:24:25-07:00,0051,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/mataron-a-joven-de-19-anos-por-machistas/
-Estado de México,Coacalco,2017-10-20T04:03:22-07:00,0052,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-un-nino-una-mujer-y-a-un-hombre-dentro-de-un-departamento/
-Estado de México,Tlalnepantla,2017-10-20T03:05:14-07:00,0053,,http://www.lapoliciaca.com/nota-roja/desalmado-sujeto-asesino-a-golpes-a-su-hija-de-2-anitos/
-Nuevo León,San Pedro,2017-10-20T03:04:00-07:00,0054,DISPAROS:ASESINATO,http://www.lapoliciaca.com/nota-roja/graban-asesinato-a-sangre-fria-de-dos-policias-en-una-gasolinera-video/
-Nuevo León,China,2017-10-20T03:02:13-07:00,0055,DISPAROS,http://www.lapoliciaca.com/nota-roja/camaras-de-seguridad-de-negocio-captan-ejecucion-de-un-hombre-video/
-Tabasco,Villahermosa,2017-10-20T03:01:55-07:00,0056,ASESINATO,http://www.lapoliciaca.com/nota-roja/captan-en-video-agonia-de-cuatro-personas-acribilladas-a-balazos-video/
-Jalisco,Guadalajara,2017-10-20T03:01:39-07:00,0057,ASESINATO,http://www.lapoliciaca.com/nota-roja/captan-camaras-de-seguridad-asesinato-de-dos-policias-video/
-Estado de México,Tecámac,2017-10-20T03:01:21-07:00,0058,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-su-exnovia-a-la-mama-de-esta-y-a-un-nino-de-10-anos-casi-muere-linchado/
-Sinaloa,Navolato,2017-10-20T02:59:36-07:00,0060,,http://www.lapoliciaca.com/nota-roja/grupo-armado-obliga-a-joven-a-caminar-desnudo-en-la-calle-por-rata-video/
-Nayarit,Tepic,2017-10-20T02:59:21-07:00,0061,ASESINATO,http://www.lapoliciaca.com/nota-roja/captan-camaras-de-seguridad-asesinato-de-mujer-a-manos-de-su-pareja-video/
-Guanajuato,Apaseo el Alto,2017-10-20T02:59:09-07:00,0062,DISPAROS,http://www.lapoliciaca.com/nota-roja/difunden-video-de-ataque-de-sicarios-hay-siete-muertos-cuatro-eran-policias-video/
-Guanajuato,Irapuato,2017-10-20T02:58:51-07:00,0063,DISPAROS,http://www.lapoliciaca.com/nota-roja/camaras-de-seguridad-captan-ejecucion-de-cinco-personas-en-un-bar-video/
-Guanajuato,León,2017-10-20T02:58:38-07:00,0064,,http://www.lapoliciaca.com/nota-roja/mujer-herida-toma-un-arma-y-persigue-al-sicario-que-asesino-a-su-padre-video/
-Chihuahua,Cuauhtémoc,2017-10-20T02:49:33-07:00,0065,,http://www.lapoliciaca.com/nota-roja/furiosa-madre-golpea-a-companera-de-escuela-de-su-hija-porque-le-hizo-un-meme-video/
-Jalisco,Tamazula de Gordiano,2017-10-20T02:47:18-07:00,0067,,http://www.lapoliciaca.com/nota-roja/dejan-cuerpo-desmembrado-colgando-de-un-puente-peatonal/
-Veracruz,Coatzacoalcos,2017-10-20T02:45:43-07:00,0069,,http://www.lapoliciaca.com/nota-roja/captan-los-ultimos-momentos-de-vida-de-un-padre-de-familia/
-Durango,Cuencamé,2017-10-19T20:38:18-07:00,0070,,http://www.lapoliciaca.com/nota-roja/nino-de-2-anos-se-ahorca-jugando/
-Estado de México,Nicolás Romero,2017-10-19T18:25:41-07:00,0071,,http://www.lapoliciaca.com/nota-roja/asesino-a-nino-de-10-anos-que-era-su-vecino-lo-degollo-y-escondio-el-cuerpo/
-Bolivia,La Paz,2017-10-19T17:58:53-07:00,0072,,http://www.lapoliciaca.com/nota-roja/sorprende-a-enfermero-en-la-morgue-sosteniendo-relaciones-con-el-cadaver-de-su-esposa/
-Estado de México,Huixquilucan,2017-10-16T16:27:52-07:00,0074,ASESINATO,http://www.lapoliciaca.com/nota-roja/la-arrojaron-a-la-carretera-tras-haber-sido-asesinada/
-Jalisco,Tlajomulco de Zúñiga,2017-10-16T16:12:22-07:00,0075,,http://www.lapoliciaca.com/nota-roja/asesino-a-cuchilladas-a-su-pareja-sentimental-y-a-su-suegra/
-Coahuila,San Buenaventura,2017-10-16T14:05:01-07:00,0076,,http://www.lapoliciaca.com/nota-roja/se-ahorca-joven-abogada-y-madre-de-familia/
-Zacatecas,Guadalupe,2017-10-16T13:43:07-07:00,0077,,http://www.lapoliciaca.com/nota-roja/cinthia-se-dirigia-a-su-escuela-pero-nunca-llego-su-cuerpo-fue-hallado-en-un-arroyo/
-Oaxaca,Oaxaca,2017-10-13T09:44:55-07:00,0078,,http://www.lapoliciaca.com/nota-roja/a-dafne-la-mato-su-novio-por-celos-lo-condenan-a-78-anos-de-prision/
-Jalisco,Guadalajara,2017-10-13T07:47:07-07:00,0079,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-en-su-domicilio-a-vocalista-de-la-banda-cuisillos/
-Estado de México,Tultepec,2017-10-12T10:14:23-07:00,0080,,http://www.lapoliciaca.com/nota-roja/hallan-a-familia-completa-muerta-y-semienterrada-dentro-de-su-domicilio/
-Durango,Durango,2017-10-12T07:09:53-07:00,0081,ASESINATO,http://www.lapoliciaca.com/nota-roja/se-suicida-en-prision-joven-que-asesino-a-golpes-a-su-pequena-hijastra/
-Tamaulipas,Reynosa,2017-10-11T11:20:46-07:00,0082,,http://www.lapoliciaca.com/nota-roja/hallan-violada-y-asesinada-a-una-jovencita/
-Nuevo León,Cadereyta,2017-10-11T09:27:05-07:00,0084,SECUESTRO,http://www.lapoliciaca.com/nota-roja/reos-captan-con-celular-rina-dentro-del-penal-de-cadereyta-que-dejo-16-muertos-video/
-Aguascalientes,Aguascalientes,2017-10-11T08:38:19-07:00,0085,ASALTO:ASESINATO,http://www.lapoliciaca.com/nota-roja/asesino-a-nina-de-13-anos-y-despues-consolo-a-la-mama-de-la-victima-ya-fue-sentenciado-video/
-Estado de México,Toluca,2017-10-11T07:42:26-07:00,0086,,http://www.lapoliciaca.com/nota-roja/adolescente-asesino-a-su-novia-porque-no-soporto-que-lo-rechazara/
-Yucatán,Mérida,2017-10-10T06:39:22-07:00,0087,,http://www.lapoliciaca.com/nota-roja/creia-que-su-novia-lo-enganaba-con-el-ex-marido-y-la-asesino/
-Durango,Durango,2017-10-10T06:00:34-07:00,0088,,http://www.lapoliciaca.com/nota-roja/a-golpes-mata-a-su-hijastra-de-tan-solo-un-ano/
-Hidalgo,Pachuca,2017-10-10T05:51:48-07:00,0089,,http://www.lapoliciaca.com/nota-roja/violo-a-su-hijastra-de-11-anos-con-el-consentimiento-de-la-madre-ambos-fueron-sentenciados/
-Tamaulipas,Tampico,2017-10-10T04:19:05-07:00,0090,,http://www.lapoliciaca.com/nota-roja/asesino-a-una-mujer-porque-esta-no-le-correspondia-el-amor/
-Sonora,Hermosillo,2017-10-07T03:55:28-07:00,0094,,http://www.lapoliciaca.com/nota-roja/si-se-muere-el-delincuente-lo-siento-mucho-de-que-se-muera-el-a-que-me-muera-yo-que-se-muera-el/
-Oaxaca,Oaxaca,2017-10-07T03:41:02-07:00,0095,SECUESTRO,http://www.lapoliciaca.com/nota-roja/por-20-anos-abuso-de-una-mujer-con-la-que-procreo-9-hijos/
-Quintana Roo,Cancún,2017-10-06T07:46:03-07:00,0096,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/la-matan-a-balazos-cuando-salia-de-su-domicilio-dejo-en-la-orfandad-a-dos-menores/
-Tabasco,Villahermosa,2017-10-06T05:56:13-07:00,0097,ASESINATO,http://www.lapoliciaca.com/nota-roja/la-mata-a-punaladas-el-padre-de-su-hija/
-Aguascalientes,Aguascalientes,2017-10-06T00:56:13-07:00,0098,,http://www.lapoliciaca.com/nota-roja/celos-malditos-lo-llevan-a-asesinar-a-su-pareja-y-luego-suicidarse/
-Jalisco,Guadalajara,2017-10-06T00:55:52-07:00,0099,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/fingio-estar-muerto-para-sobrevivir-a-una-ejecucion/
-Estado de México,Ecatepec,2017-10-06T00:55:34-07:00,0100,ASESINATO,http://www.lapoliciaca.com/nota-roja/desmiembran-a-cuatro-hombres-y-una-mujer-por-andar-matando-microbuseros/
-Michoacán,Uruapan,2017-10-06T00:55:13-07:00,0101,,http://www.lapoliciaca.com/nota-roja/asesino-a-mujer-con-siete-meses-de-embarazo-y-a-una-nina-de-12-anos/
-Sonora,Guaymas,2017-10-06T00:55:00-07:00,0102,,http://www.lapoliciaca.com/nota-roja/mujer-se-suicida-porque-su-pareja-agrego-a-una-chica-como-amiga-en-facebook/
-Veracruz,Papantla,2017-10-06T00:54:47-07:00,0103,,http://www.lapoliciaca.com/nota-roja/exhiben-a-maestro-del-conalep-teniendo-relaciones-con-alumna-fue-cesado/
-Durango,Durango,2017-10-05T05:28:37-07:00,0104,,http://www.lapoliciaca.com/nota-roja/nina-de-12-anos-se-ahorca-en-su-habitacion-vestida-con-el-uniforme-escolar/
-Estado de México,Axapusco,2017-10-05T05:10:55-07:00,0105,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-ejecutadas-a-dos-jovencitas-a-bordo-de-un-auto/
-Baja California,Tijuana,2017-10-04T20:49:33-07:00,0106,,http://www.lapoliciaca.com/nota-roja/por-celos-quemo-con-un-soplete-a-su-pareja-y-a-su-hijastro-fue-detenido/
-Tamaulipas,San Fernando,2017-10-04T19:10:36-07:00,0107,SECUESTRO,http://www.lapoliciaca.com/nota-roja/estoy-muerta-en-vida-asegura-madre-le-secuestraron-a-su-hija-hace-5-anos/
-Quintana Roo,Cancún,2017-10-04T10:22:47-07:00,0108,ASESINATO,http://www.lapoliciaca.com/nota-roja/lo-asesinan-toman-el-control-de-su-facebook-y-lo-exhiben-en-pedazos/
-Puebla,Puebla,2017-10-04T06:56:53-07:00,0109,ASESINATO,http://www.lapoliciaca.com/nota-roja/yo-solo-me-defendi-me-dijo-que-tenia-sida-y-que-iba-a-violar-a-mis-hijas/
-Aguascalientes,Aguascalientes,2017-10-04T06:54:35-07:00,0110,DISPAROS,http://www.lapoliciaca.com/nota-roja/se-suicido-con-dos-balazos-en-la-cabeza/
-Morelos,Emiliano Zapata,2017-10-04T05:52:51-07:00,0111,,http://www.lapoliciaca.com/nota-roja/mato-a-balazos-a-su-cunado-al-ver-que-este-superaba-a-golpes-a-su-esposo/
-Durango,Tlahualilo,2017-10-03T21:26:46-07:00,0112,,http://www.lapoliciaca.com/nota-roja/incineran-casa-infestada-de-garrapatas-tras-muerte-de-tres-miembros-de-una-familia/
-Coahuila,Saltillo,2017-10-03T19:46:28-07:00,0113,DISPAROS,http://www.lapoliciaca.com/nota-roja/no-soporto-estar-sin-su-ex-esposa-y-la-mato-luego-se-quito-la-vida/
-Guerrero,Acapulco,2017-10-03T18:05:19-07:00,0114,,http://www.lapoliciaca.com/nota-roja/descuartizan-y-le-sacan-los-organos-a-supuesto-violador-con-sus-visceras-escriben-mensaje/
-Jalisco,Zapopan,2017-10-03T05:39:21-07:00,0115,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/llamo-a-su-hermano-para-decirle-que-mataria-a-su-esposa-y-se-suicidaria/
-Sonora,Navojoa,2017-10-02T20:00:08-07:00,0118,,http://www.lapoliciaca.com/nota-roja/asesino-a-un-hombre-por-no-dejar-bailar-a-su-esposa/
-Puebla,Puebla,2017-10-02T19:08:58-07:00,0119,,http://www.lapoliciaca.com/nota-roja/asesinan-a-estudiante-universitaria-afuera-de-la-casa-de-sus-amigas/
-Puebla,Puebla,2017-10-02T06:21:38-07:00,0120,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-su-novio-a-una-semana-de-haberlo-conocido-en-facebook/
-Estados Unidos,Nevada,2017-10-02T03:56:27-07:00,0121,DISPAROS,http://www.lapoliciaca.com/nota-roja/tiroteo-en-las-vegas-deja-al-menos-50-muertos-y-mas-de-200-heridos-video/
-Coahuila,Saltillo,2017-09-30T16:41:29-07:00,0122,,http://www.lapoliciaca.com/nota-roja/asesino-a-su-tia-porque-le-rompio-su-guitarra-favorita/
-Jalisco,Guadalajara,2017-09-30T16:26:29-07:00,0123,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesinan-a-hombre-que-descubrio-a-supuesta-hada/
-Puebla,Atzitzihuacán,2017-09-28T02:45:42-07:00,0124,,http://www.lapoliciaca.com/nota-roja/jacinto-el-perro-que-aun-espera-a-su-dueno-fallecido-tras-el-sismo/
-Baja California,Rosarito,2017-09-28T02:30:10-07:00,0125,ASESINATO,http://www.lapoliciaca.com/nota-roja/encuentran-a-bebe-deambulando-por-calles-de-rosarito-su-madre-fue-asesinada/
-Coahuila,Saltillo,2017-09-27T19:52:22-07:00,0128,,http://www.lapoliciaca.com/nota-roja/mata-a-una-profesora-y-la-sepulta-debajo-de-su-cama/
-Aguascalientes,Aguascalientes,2017-09-27T15:31:59-07:00,0130,,http://www.lapoliciaca.com/nota-roja/pretendia-vender-su-bebe-a-un-matrimonio-pero-se-arrepintieron-y-la-echaron-a-la-calle/
-Chihuahua,Cuauhtémoc,2017-09-27T00:38:32-07:00,0131,ASALTO,http://www.lapoliciaca.com/nota-roja/el-calilla-el-adolescente-de-16-anos-al-que-le-cortaron-la-mano-por-ladron/
-Tabasco,Jalpa de Méndez,2017-09-27T00:38:19-07:00,0132,,http://www.lapoliciaca.com/nota-roja/psicosis-por-sismos-lo-llevo-a-la-muerte/
-Puebla,Huauchinango,2017-09-27T00:38:08-07:00,0133,DISPAROS,http://www.lapoliciaca.com/nota-roja/vengaron-la-muerte-de-un-familiar-y-asesinaron-a-cinco-miembros-de-una-familia/
-Coahuila,Castaños,2017-09-27T00:36:35-07:00,0134,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-tablazos-a-su-hijastro-de-3-anos-porque-se-hizo-del-bano-en-los-pantalones/
-Chihuahua,Chihuahua,2017-09-27T00:31:33-07:00,0135,DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-15-adictos-en-centro-de-rehabilitacion-en-chihuahua/
-San Luis Potosí,Villa de Reyes,2017-09-27T00:00:22-07:00,0136,,http://www.lapoliciaca.com/nota-roja/se-quito-la-vida-con-raticida-porque-el-novio-la-dejo-dejo-huerfano-a-un-nino-de-2-anos/
-Chihuahua,Ciudad Juárez,2017-09-26T16:18:04-07:00,0137,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-hombre-en-escuela-primaria-pero-antes-los-sicarios-pidieron-resguardar-a-ninos/
-Puebla,San Jerónimo Tecuanipan,2017-09-26T15:26:10-07:00,0138,ASESINATO,http://www.lapoliciaca.com/nota-roja/irais-tenia-4-trabajos-para-mantener-a-su-hijo-enfermo-fue-violada-y-asesinada/
-Morelos,Jojutla,2017-09-26T06:12:33-07:00,0139,,http://www.lapoliciaca.com/nota-roja/madre-pudo-salvarse-pero-murio-abrazando-a-su-nina-tras-terremoto/
-Chiapas,Tuxtla Gutiérrez,2017-09-26T03:46:54-07:00,0140,,http://www.lapoliciaca.com/nota-roja/mato-a-sus-padres-adoptivos-para-quedarse-con-la-herencia/
-Puebla,Tlatlauquitepec,2017-09-26T03:25:43-07:00,0141,,http://www.lapoliciaca.com/nota-roja/alumnos-muerden-golpean-y-violan-a-companera-de-clases-en-telesecundaria/
-Puebla,Tochimilco,2017-09-25T20:36:34-07:00,0142,,http://www.lapoliciaca.com/nota-roja/muere-joven-mientras-ayudaba-a-remover-escombros-tras-el-terremoto/
-Morelos,Jojutla,2017-09-25T20:03:30-07:00,0143,,http://www.lapoliciaca.com/nota-roja/soldado-llora-al-rescatar-cuerpos-de-madre-e-hija-esposo-le-agradece/
-Hidalgo,Mineral de la Reforma,2017-09-25T19:14:32-07:00,0144,,http://www.lapoliciaca.com/nota-roja/mujer-asesino-a-sus-hijos-recien-nacidos-a-uno-lo-conservo-en-formol/
-Coahuila,Saltillo,2017-09-25T18:41:53-07:00,0145,,http://www.lapoliciaca.com/nota-roja/discute-con-su-esposo-sale-enojada-de-su-vivienda-y-es-violada-por-un-grupo-de-pandilleros/
-Sinaloa,Navolato,2017-09-25T17:50:21-07:00,0146,,http://www.lapoliciaca.com/nota-roja/mujer-mata-a-su-bebe-recien-nacido-lo-entierra-junto-a-un-arbol/
-Aguascalientes,Aguascalientes,2017-09-25T17:22:03-07:00,0147,,http://www.lapoliciaca.com/nota-roja/muere-mientras-sostenia-relaciones-con-una-joven-en-un-motel-luego-llego-su-esposa/
-Sinaloa,Culiacán,2017-09-22T13:13:55-07:00,0149,,http://www.lapoliciaca.com/nota-roja/liberan-a-erandy-la-adolescente-que-hace-tres-anos-asesino-de-65-punaladas-a-su-amiga/
-Sonora,Caborca,2017-09-21T19:10:50-07:00,0152,ASESINATO,http://www.lapoliciaca.com/nota-roja/ejecutan-a-joven-por-agarrar-viejas-casadas/
-Coahuila,Saltillo,2017-09-21T10:32:18-07:00,0153,,http://www.lapoliciaca.com/nota-roja/abuelo-se-tomo-fotografias-abusando-de-sus-nietas-fue-detenido/
-Puebla,Atzala,2017-09-21T08:13:54-07:00,0154,,http://www.lapoliciaca.com/nota-roja/los-gritos-de-ayuda-de-los-feligreses-fueron-ignorados-por-su-pastor/
-Chiapas,Ocozocoautla,2017-09-20T16:38:37-07:00,0156,,http://www.lapoliciaca.com/nota-roja/se-quita-la-vida-por-deuda-con-elektra/
-Aguascalientes,El Llano,2017-09-20T15:39:25-07:00,0157,,http://www.lapoliciaca.com/nota-roja/mata-a-golpes-a-su-hijo-me-maltrataba-se-justifica/
-Puebla,Atzala,2017-09-20T09:39:33-07:00,0160,,http://www.lapoliciaca.com/nota-roja/bautizo-termina-en-tragedia-mueren-11-al-caerles-iglesia-por-el-terremoto/
-Tabasco,Centro,2017-09-19T12:18:41-07:00,0164,ASESINATO,http://www.lapoliciaca.com/nota-roja/mando-asesinar-a-su-patron-para-encubrir-un-fraude/
-Hidalgo,Tula de Allende,2017-09-19T11:01:45-07:00,0165,,http://www.lapoliciaca.com/nota-roja/hallan-flotando-en-canal-de-aguas-negras-el-cuerpo-de-una-jovencita/
-Guerrero,Acapulco,2017-09-19T11:01:33-07:00,0166,,http://www.lapoliciaca.com/nota-roja/lo-sacan-de-su-vivienda-y-en-plena-calle-y-vivo-le-cortan-los-pies-y-la-cabeza/
-Estado de México,San Mateo Atenco,2017-09-19T11:00:08-07:00,0168,ASALTO,http://www.lapoliciaca.com/nota-roja/no-ha-comido-esta-banado-espero-y-le-den-un-buen-hogar/
-Sonora,Ciudad Obregón,2017-09-19T07:59:38-07:00,0169,,http://www.lapoliciaca.com/nota-roja/la-muerte-de-mi-hija-devasto-a-mi-familia-y-me-destrozo/
-Puebla,Nealtican,2017-09-19T07:50:09-07:00,0170,,http://www.lapoliciaca.com/nota-roja/para-que-seguir-si-estoy-sola/
-Baca California,Mexicali,2017-09-19T06:57:06-07:00,0171,,http://www.lapoliciaca.com/nota-roja/murio-por-beber-7up-inyectado-con-metanfetaminas/
-Estado de México,Nicolás Romero,2017-09-19T06:44:19-07:00,0172,,http://www.lapoliciaca.com/nota-roja/hallan-enterrada-en-el-bano-de-su-casa-a-joven-reportada-desaparecida-hace-5-meses/
-Coahuila,Cuatrociénegas,2017-09-18T15:37:06-07:00,0173,,http://www.lapoliciaca.com/nota-roja/nino-tenia-curiosidad-por-saber-que-se-sentiria-ahorcarse-y-acabo-con-su-vida/
-Chihuahua,Ciudad Juárez,2017-09-18T05:37:50-07:00,0175,,http://www.lapoliciaca.com/nota-roja/apunalo-a-su-amiga-embarazada-por-robarle-el-novio/
-Aguascalientes,Aguascalientes,2017-09-18T05:35:53-07:00,0176,SECUESTRO,http://www.lapoliciaca.com/nota-roja/secuestraron-y-violaron-a-un-hombre-grabaron-el-abuso-y-enviaron-el-video-a-la-familia-de-la-victima/
-Baja California,Mexicali,2017-09-18T05:29:49-07:00,0177,,http://www.lapoliciaca.com/nota-roja/muere-hombre-por-ingerir-refresco-7up-contaminado-tres-personas-mas-estan-hospitalizadas-video/
-Durango,Durango,2017-09-18T05:24:03-07:00,0178,,http://www.lapoliciaca.com/nota-roja/lo-golpearon-hasta-matarlo-por-intentar-seducir-a-mujer-ajena/
-Puebla,Puebla,2017-09-15T15:16:49-07:00,0179,,http://www.lapoliciaca.com/nota-roja/tragedia-hallan-muerta-a-estudiante-que-desaparecio-tras-abordar-un-cabify/
-Chihuahua,Ciudad Juárez,2017-09-15T10:39:42-07:00,0180,ASESINATO,http://www.lapoliciaca.com/nota-roja/adolescente-fue-degollada-y-apunalada-dentro-de-su-domicilio/
-Michoacán,Morelia,2017-09-15T09:50:53-07:00,0181,SECUESTRO,http://www.lapoliciaca.com/nota-roja/mujer-embarazada-fingio-su-secuestro-para-llamar-la-atencion-de-su-novio/
-Sinaloa,Guamúchil,2017-09-15T09:33:57-07:00,0182,DISPAROS:ASALTO,http://www.lapoliciaca.com/nota-roja/sujetos-armados-matan-a-balazos-a-presunto-asaltante/
-San Luis Potosí,Ciudad Valles,2017-09-15T06:51:41-07:00,0183,,http://www.lapoliciaca.com/nota-roja/abuelita-muere-al-tratar-de-auxiliar-a-su-nieta-que-habia-sido-atropellada/
-Guerrero,Acapulco,2017-09-15T06:03:41-07:00,0184,,http://www.lapoliciaca.com/nota-roja/hallan-decapitado-en-la-cajuela-de-un-taxi-a-nino-de-14-anos/
-Estado de México,Naucalpan,2017-09-15T05:24:01-07:00,0186,,http://www.lapoliciaca.com/nota-roja/se-sienta-en-barandal-de-vidrio-de-una-plaza-comercial-pierde-el-equilibrio-cae-y-muere-video/
-Guanajuato,Irapuato,2017-09-15T05:23:39-07:00,0187,DISPAROS,http://www.lapoliciaca.com/nota-roja/camaras-de-seguridad-captan-momento-en-que-ejecutan-a-hombre-frente-a-sus-hijas-video/
-Guerrero,Coyuca de Benítez,2017-09-15T01:18:06-07:00,0189,,http://www.lapoliciaca.com/nota-roja/hallan-ejecutados-con-el-tiro-de-gracia-a-un-padre-y-sus-tres-hijos/
-Veracruz,Xalapa,2017-09-15T01:17:42-07:00,0190,,http://www.lapoliciaca.com/nota-roja/les-cortan-la-cabeza-y-les-colocan-sombreros-con-adornos-patrios/
-Puebla,Tlaltenango,2017-09-15T01:17:17-07:00,0192,ASESINATO,http://www.lapoliciaca.com/nota-roja/el-odio-que-le-tenia-a-la-familia-de-su-yerno-lo-llevo-a-cometer-un-asesinato/
-Yucatán,Mérida,2017-09-14T10:09:29-07:00,0193,ASESINATO,http://www.lapoliciaca.com/nota-roja/el-beso-de-la-muerte/
-Puebla,Puebla,2017-09-14T09:53:57-07:00,0194,,http://www.lapoliciaca.com/nota-roja/la-amo-y-no-parare-hasta-encontrarla-dice-madre-de-joven-desaparecida/
-Michoacán,Ciudad Hidalgo,2017-09-14T04:28:55-07:00,0195,,http://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-y-en-su-escape-se-enfrento-con-la-policia-fue-detenido/
-Baja California,Tijuana,2017-09-13T09:23:54-07:00,0196,,http://www.lapoliciaca.com/nota-roja/indignante-mujer-amarra-a-su-hija-a-poste-como-castigo/
-Sonora,San Luis Río Colorado,2017-09-13T08:37:48-07:00,0197,,http://www.lapoliciaca.com/nota-roja/abuelo-violaba-a-sus-nietecitas-mientras-la-madre-trabajaba/
-Hidalgo,Zacualtipán,2017-09-13T07:29:43-07:00,0198,,http://www.lapoliciaca.com/nota-roja/tragedia-muere-familia-completa-mientras-dormian/
-Estado de México,Ecatepec,2017-09-13T07:29:30-07:00,0199,,http://www.lapoliciaca.com/nota-roja/matan-a-quinceanera-cuando-arreglaba-la-tumba-de-un-familiar-video/
-Michoacán,Múgica,2017-09-13T07:07:00-07:00,0200,,http://www.lapoliciaca.com/nota-roja/hallan-desmembrado-a-paramedico-que-fue-levantado-cuando-transportaba-un-herido/
-Oaxaca,Asunción Ixtaltepec,2017-09-11T15:25:31-07:00,0202,,http://www.lapoliciaca.com/nota-roja/la-noche-del-terremoto-no-pudo-sacar-a-su-mama-de-la-casa/
-Durango,El Oro,2017-09-11T07:46:35-07:00,0203,,http://www.lapoliciaca.com/nota-roja/intento-violar-a-jovencita-pero-como-esta-se-desmayo-la-avento-a-un-rio-y-murio-ahogada/
-Oaxaca,Juchitán de Zaragoza,2017-09-11T06:56:16-07:00,0204,,http://www.lapoliciaca.com/nota-roja/murio-como-heroe-salvo-a-su-esposa-e-hijos-del-terremoto/
-Chiapas,San Cristóbal de las Casas,2017-09-11T06:55:00-07:00,0205,,http://www.lapoliciaca.com/nota-roja/una-sandalia-le-salvo-la-vida-sus-hijos-y-esposa-murieron-aplastados/
-Nuevo León,Juárez,2017-09-11T05:37:50-07:00,0206,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/adolescente-de-16-anos-asesino-a-su-novia-de-14-porque-lo-descubrio-con-drogas/
-Puebla,San Pedro Cholula,2017-09-11T04:00:08-07:00,0207,,http://www.lapoliciaca.com/nota-roja/muere-nino-mientras-jugaba-con-sus-hermanos-a-los-ahorcados/
-Estado de México,Tecámac,2017-09-10T04:13:04-07:00,0208,,http://www.lapoliciaca.com/nota-roja/poste-de-luz-le-quita-la-vida-a-una-jovencita/
-Estado de México,Ecatepec,2017-09-10T04:12:50-07:00,0209,SECUESTRO,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-estudiante-de-15-anos-que-fue-secuestrada-al-salir-de-su-casa/
-Aguascalientes,Aguascalientes,2017-09-08T19:19:50-07:00,0210,ASESINATO,http://www.lapoliciaca.com/nota-roja/querian-salvarlo-de-las-drogas-y-lo-llevaron-a-la-muerte/
-San Luis Potosí,San Luis Potosí,2017-09-08T19:05:26-07:00,0211,,http://www.lapoliciaca.com/nota-roja/anciano-es-acusado-de-violar-a-sus-propios-hijos/
-San Luis Potosí,Soledad de Graciano Sánchez,2017-09-08T18:51:00-07:00,0212,ASALTO,http://www.lapoliciaca.com/nota-roja/violo-a-una-mujer-por-ordenes-del-exmarido/
-Querétaro,Querétaro,2017-09-08T18:28:34-07:00,0213,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-su-novia-de-14-anos-y-llamo-a-la-policia-para-entregarse/
-Sinaloa,Culiacán,2017-09-08T17:57:38-07:00,0214,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-y-mutilada-a-estudiante-levantada/
-Estado de México,Ecatepec,2017-09-08T17:12:44-07:00,0215,,http://www.lapoliciaca.com/nota-roja/mujer-le-hace-una-broma-pesada-a-su-esposo-y-lo-mata/
-Estado de México,La Paz,2017-09-08T16:21:07-07:00,0216,,http://www.lapoliciaca.com/nota-roja/hombre-vive-5-dias-con-el-cadaver-de-su-hermano-sentado-en-un-sofa/
-Estado de México,Tlalnepantla,2017-09-07T16:00:30-07:00,0219,,http://www.lapoliciaca.com/nota-roja/encuentran-19-ataudes-debajo-de-puente-video/
-Chihuahua,Ciudad Juárez,2017-09-07T05:04:07-07:00,0220,,http://www.lapoliciaca.com/nota-roja/mando-asesinar-a-su-pareja-porque-sospechaba-que-habia-violado-a-su-hija/
-Guerrero,Zihuatanejo,2017-09-07T04:58:45-07:00,0221,,http://www.lapoliciaca.com/nota-roja/lo-ejecutan-y-lo-envuelven-con-una-bandera-de-mexico/
-Estado de México,Atizapán de Zaragoza,2017-09-07T04:58:19-07:00,0222,,http://www.lapoliciaca.com/nota-roja/lo-ejecutan-por-jugar-al-mafioso/
-Tamaulipas,Nuevo Laredo,2017-09-07T00:03:17-07:00,0223,,http://www.lapoliciaca.com/nota-roja/padrastro-mata-a-golpes-a-bebe-porque-se-parecia-al-padre-biologico/
-Tabasco,Villahermosa,2017-09-06T21:24:19-07:00,0224,ASALTO:DISPAROS,http://www.lapoliciaca.com/nota-roja/el-chelo-satan-masacro-en-2009-a-candidato-del-pri-y-su-familia-hoy-salio-libre/
-Jalisco,Zapopan,2017-09-06T14:52:16-07:00,0225,ASESINATO,http://www.lapoliciaca.com/nota-roja/ejecutan-a-dos-jovenes-mujeres-por-andar-cambiando-billetes-falsos/
-Jalisco,Tlajomulco de Zúñiga,2017-09-06T14:50:57-07:00,0226,,http://www.lapoliciaca.com/nota-roja/mata-a-golpes-a-su-hijastro-de-apenas-4-anos/
-Chihuahua,Chihuahua,2017-09-05T21:21:02-07:00,0227,,http://www.lapoliciaca.com/nota-roja/yo-no-la-viole-fue-venganza-asegura-joven-profugo/
-Michoacán,Quiroga,2017-09-05T15:56:31-07:00,0229,,http://www.lapoliciaca.com/nota-roja/detienen-a-mujer-que-por-venganza-asesino-a-la-esposa-y-los-hijos-de-su-amante/
-Puebla,Tecamachalco,2017-09-05T00:36:02-07:00,0230,DISPAROS,http://www.lapoliciaca.com/nota-roja/hallan-a-joven-mujer-ejecutada-y-desnuda-en-camino-de-terraceria/
-Jalisco,Zapopan,2017-09-05T00:34:14-07:00,0231,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/matan-a-mujer-junto-a-una-tumba-indagan-nexo-con-muerte-de-sus-hijos/
-Tamaulipas,San Fernando,2017-09-05T00:23:03-07:00,0232,,http://www.lapoliciaca.com/nota-roja/mujer-muere-en-el-sepelio-de-su-esposo-tras-lanzar-un-puno-de-tierra/
-Chihuahua,Chihuahua,2017-09-04T21:55:34-07:00,0233,ASALTO,http://www.lapoliciaca.com/nota-roja/nino-confundio-a-su-asaltante-con-un-zombi/
-Tamaulipas,Ciudad Madero,2017-09-04T21:09:29-07:00,0234,,http://www.lapoliciaca.com/nota-roja/matrimonio-se-pelea-y-abandona-a-su-bebe-recien-nacido/
-Oaxaca,San Pedro Pochutla,2017-09-04T19:42:38-07:00,0235,,http://www.lapoliciaca.com/nota-roja/un-celular-el-mudo-testigo-del-suicidio-de-la-pequena-alma-denisse/
-Baja California Sur,Los Cabos,2017-09-04T17:38:48-07:00,0236,,http://www.lapoliciaca.com/nota-roja/la-tormenta-arrastro-a-su-esposo-ahora-ella-lo-busca-en-arroyos/
-Chihuahua,Chihuahua,2017-09-04T15:05:36-07:00,0237,,http://www.lapoliciaca.com/nota-roja/joven-acusado-de-violacion-escapa-de-juzgado-a-mitad-de-la-audiencia-video/
-Aguascalientes,Jesús María,2017-09-04T13:27:28-07:00,0238,,http://www.lapoliciaca.com/nota-roja/adolescente-mato-a-bebe-porque-no-dejaba-de-llorar-y-ensucio-su-panal/
-Estado de México,Otumba,2017-09-04T02:10:19-07:00,0240,ASESINATO,http://www.lapoliciaca.com/nota-roja/adolescente-fue-violada-y-asesinada-tras-ir-a-una-fiesta-con-su-hermana/
-Michoacán,La Piedad,2017-09-04T02:07:00-07:00,0241,,http://www.lapoliciaca.com/nota-roja/sorprende-la-muerte-a-pareja-de-jovenes-mientras-dormian/
-Chihuahua,Ciudad Juárez,2017-09-01T20:42:17-07:00,0242,,http://www.lapoliciaca.com/nota-roja/le-dio-pastillas-para-dormir-a-su-hija-de-12-anos-y-despues-la-violo/
-Querétaro,San Juan Del Río,2017-09-01T16:17:43-07:00,0243,,http://www.lapoliciaca.com/nota-roja/asesino-a-tubazos-a-la-autora-de-sus-dias/
-Chihuahua,Parral,2017-09-01T14:44:41-07:00,0244,,http://www.lapoliciaca.com/nota-roja/siguio-a-su-novia-hasta-el-mas-alla/
-Chihuahua,Ciudad Juárez,2017-09-01T14:43:56-07:00,0245,ASESINATO,http://www.lapoliciaca.com/nota-roja/chofer-de-uber-mato-a-su-novia-embarazada-y-escondio-el-cadaver-en-la-cajuela-del-auto/
-Puebla,Tepexi de Rodríguez,2017-09-01T11:05:41-07:00,0246,,http://www.lapoliciaca.com/nota-roja/regreso-de-estados-unidos-para-matar-a-su-exesposa/
-Tamaulipas,Altamira,2017-08-31T20:27:45-07:00,0247,,http://www.lapoliciaca.com/nota-roja/nino-de-13-anos-es-sorprendido-violando-a-nino-de-5/
-Puebla,Puebla,2017-08-31T19:47:07-07:00,0248,,http://www.lapoliciaca.com/nota-roja/madre-muere-aplastada-por-una-barda-al-salvar-a-sus-hijos/
-Veracruz,Yanga,2017-08-31T19:15:51-07:00,0249,,http://www.lapoliciaca.com/nota-roja/menor-asesina-a-su-madre-a-punaladas-y-luego-la-arroja-a-un-pozo/
-Estado de México,Ecatepec,2017-08-31T12:59:29-07:00,0251,ASESINATO,http://www.lapoliciaca.com/nota-roja/violador-y-asesino-de-sus-primos-pasara-solo-5-anos-en-un-tutelar-de-menores/
-Estado de México,Cuautitlán Izcalli,2017-08-30T19:50:42-07:00,0253,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-a-mujer-colgada-sobre-la-autopista-mexico-queretaro/
-Zacatecas,Zacatecas,2017-08-30T18:08:53-07:00,0254,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-su-pareja-para-no-perder-residencia-estadounidense/
-Tamaulipas,Ciudad Victoria,2017-08-29T20:38:01-07:00,0255,SECUESTRO:ASESINATO,http://www.lapoliciaca.com/nota-roja/detienen-a-esposo-de-espanola-asesinada-en-tamaulipas-lo-acusan-del-homicidio/
-Estado de México,Ecatepec,2017-08-29T18:28:56-07:00,0256,,http://www.lapoliciaca.com/nota-roja/detienen-a-sujeto-por-quemar-a-perro-con-un-soplete/
-Hidalgo,Pachuca,2017-08-29T18:16:23-07:00,0257,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asaltantes-lo-mataron-porque-les-entrego-un-celular-viejo/
-Veracruz,Ciudad Mendoza,2017-08-29T17:37:34-07:00,0258,ASESINATO,http://www.lapoliciaca.com/nota-roja/mata-a-tubazos-al-asesino-de-su-padre/
-Chiapas,Tonalá,2017-08-29T17:37:11-07:00,0260,,http://www.lapoliciaca.com/nota-roja/la-pelea-acabo-cuando-una-de-las-estudiantes-se-convulsiono-tras-los-golpes-video/
-Querétaro,Querétaro,2017-08-29T17:35:43-07:00,0261,,http://www.lapoliciaca.com/nota-roja/huyo-de-accidente-que-causo-solo-para-encontrarse-con-la-muerte/
-Guerrero,Chilpancingo,2017-08-29T12:42:34-07:00,0262,DISPAROS,http://www.lapoliciaca.com/nota-roja/deprimido-por-la-muerte-de-su-esposa-mato-a-su-hijo-enfermo-y-luego-se-suicido/
-Puebla,Cuapiaxtla de Madero,2017-08-29T11:46:30-07:00,0263,,http://www.lapoliciaca.com/nota-roja/mujer-embarazada-es-asesinada-a-balazos-por-su-esposo/
-Guanajuato,Celaya,2017-08-29T11:16:04-07:00,0264,,http://www.lapoliciaca.com/nota-roja/mato-de-un-golpe-en-la-cabeza-a-nina-de-seis-anos-ya-fue-detenido/
-Tabasco,Cárdenas,2017-08-28T18:38:08-07:00,0265,,http://www.lapoliciaca.com/nota-roja/la-shakira-asesino-a-su-amado-cuando-este-le-confeso-que-tenia-novia/
-Zacatecas,Loreto,2017-08-28T18:12:58-07:00,0266,ASESINATO,http://www.lapoliciaca.com/nota-roja/se-entrega-a-las-autoridades-y-confiesa-que-asesino-a-su-novia-no-pudo-con-el-remordimiento/
-Sinaloa,El Fuerte,2017-08-28T11:48:41-07:00,0267,,http://www.lapoliciaca.com/nota-roja/encontro-a-su-hijo-3-anos-despues-en-una-fosa-clandestina/
-San Luis Potosí,Villa de Arriaga,2017-08-28T11:04:43-07:00,0268,ASALTO,http://www.lapoliciaca.com/nota-roja/degenerado-violo-y-embarazo-a-su-hija-menor-de-edad/
-Veracruz,Córdoba,2017-08-28T09:30:08-07:00,0269,DISPAROS:ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/grupo-armado-ejecuta-a-hombre-y-a-una-nina-de-cinco-anos-video/
-Guanajuato,Celaya,2017-08-28T07:45:55-07:00,0270,,http://www.lapoliciaca.com/nota-roja/hallan-muerta-y-violada-a-nina-de-6-anos-que-desaparecio-tras-salir-a-la-tienda-a-comprar-helados/
-Sinaloa,Culiacán,2017-08-28T07:36:00-07:00,0271,,http://www.lapoliciaca.com/nota-roja/se-quita-la-vida-mujer-que-el-jueves-pasado-fue-rescatada-cuando-intentaba-suicidarse/
-Puebla,Tlacotepec de Benito Juárez,2017-08-27T20:23:04-07:00,0272,,http://www.lapoliciaca.com/nota-roja/pobladores-enfurecidos-matan-a-cuatro-presuntos-ladrones/
-Veracruz,Cosamaloapan,2017-08-26T18:23:15-07:00,0273,,http://www.lapoliciaca.com/nota-roja/detienen-a-curandero-acusado-de-violar-a-dos-ninas/
-Sonora,Hermosillo,2017-08-26T18:20:49-07:00,0274,,http://www.lapoliciaca.com/nota-roja/asaltante-apunala-a-nino-de-diez-anos-por-no-entregarle-la-mochila/
-Coahuila,Saltillo,2017-08-25T12:29:36-07:00,0276,,http://www.lapoliciaca.com/nota-roja/jovencita-muerde-a-su-violador-y-escapa-de-agresion/
-Coahuila,Saltillo,2017-08-25T12:08:56-07:00,0277,,http://www.lapoliciaca.com/nota-roja/violo-a-su-esposa-y-despues-invito-a-su-amigo-a-que-hiciera-lo-mismo/
-Oaxaca,Oaxaca,2017-08-25T10:19:20-07:00,0278,,http://www.lapoliciaca.com/nota-roja/madre-le-inyecta-thiner-gasolina-y-raticida-a-su-hijo-de-5-anos-al-final-lo-estrangulo/
-Jalisco,Zapopan,2017-08-24T18:15:50-07:00,0279,,http://www.lapoliciaca.com/nota-roja/valiente-ciudadano-mata-a-asaltantes-de-camion-de-pasajeros/
-Coahuila,Saltillo,2017-08-24T15:30:49-07:00,0281,,http://www.lapoliciaca.com/nota-roja/joven-se-quita-la-vida-a-cuatro-dias-de-haberse-casado/
-Jalisco,Tonalá,2017-08-24T09:08:29-07:00,0282,DISPAROS,http://www.lapoliciaca.com/nota-roja/denuncio-violencia-familiar-hoy-esta-muerta/
-Jalisco,Puerto Vallarta,2017-08-23T06:51:01-07:00,0284,,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-y-semidesnuda-a-jovencita-de-14-anos-reportada-desaparecida/
-Veracruz,Veracruz,2017-08-22T18:50:03-07:00,0285,SECUESTRO,http://www.lapoliciaca.com/nota-roja/liberan-a-victima-de-tortura-sexual-tras-pasar-cinco-anos-en-prision/
-Jalisco,Tequila,2017-08-22T07:58:58-07:00,0286,,http://www.lapoliciaca.com/nota-roja/maestro-de-primaria-reprobo-a-alumna-para-abusar-de-ella-un-ano-mas/
-Veracruz,Minatitlán,2017-08-22T07:46:40-07:00,0287,ASESINATO:SECUESTRO:ASALTO,http://www.lapoliciaca.com/nota-roja/ejecutan-a-joven-madre-de-familia-afuera-de-la-escuela-de-sus-hijos/
-Nuevo León,San Pedro Garza García,2017-08-22T03:16:37-07:00,0289,ASESINATO,http://www.lapoliciaca.com/nota-roja/lo-mataron-y-colgaron-por-haber-golpeado-a-su-esposa/
-Tamaulipas,Río Bravo,2017-08-21T13:09:32-07:00,0290,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-mujer-con-mas-de-30-punaladas/
-San Luis Potosí,Soledad de Graciano Sánchez,2017-08-21T06:17:53-07:00,0291,,http://www.lapoliciaca.com/nota-roja/le-quito-la-vida-a-madre-e-hijo-por-unas-tierras/
-Estados Unidos,Texas,2017-08-21T06:15:03-07:00,0292,SECUESTRO,http://www.lapoliciaca.com/nota-roja/guanajuatense-recibira-inyeccion-letal-por-haber-violado-y-asesinado-a-su-prima-de-17-anos/
-Estado de México,Axapusco,2017-08-21T06:09:14-07:00,0293,,http://www.lapoliciaca.com/nota-roja/me-voy-nunca-pude-ser-lo-que-la-sociedad-espero-de-mi/
-Tlaxcala,Calpulalpan,2017-08-21T05:54:09-07:00,0295,,http://www.lapoliciaca.com/nota-roja/se-quita-la-vida-junto-a-la-tumba-de-su-esposa/
-Querétaro,Querétaro,2017-08-21T05:51:29-07:00,0296,,http://www.lapoliciaca.com/nota-roja/asesino-a-la-esposa-e-hijos-de-su-amante-porque-termino-la-relacion/
-Jalisco,Guadalajara,2017-08-21T05:48:58-07:00,0297,,http://www.lapoliciaca.com/nota-roja/muere-asaltante-al-intentar-robar-una-farmacia/
-Puebla,Tepeaca,2017-08-21T05:43:55-07:00,0298,,http://www.lapoliciaca.com/nota-roja/nina-de-14-anos-se-quita-la-vida-en-la-tienda-de-su-abuelo/
-San Luis Potosí,Tamazunchale,2017-08-21T01:53:54-07:00,0300,,http://www.lapoliciaca.com/nota-roja/detienen-a-profesor-acusado-de-violar-a-una-estudiante/
-Guerrero,Acapulco,2017-08-20T20:31:20-07:00,0301,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-dos-estudiantes-de-14-anos-en-acapulco/
-Durango,Guadalupe Victoria,2017-08-20T19:34:58-07:00,0303,ASESINATO,http://www.lapoliciaca.com/nota-roja/encuentran-a-jovencita-salvajemente-asesinada-en-predio-baldio/
-Estado de México,Ecatepec,2017-08-19T19:31:21-07:00,0305,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-golpes-al-hijo-de-su-pareja-lo-odiaba-porque-no-era-su-hijo/
-Chihuahua,Ciudad Juárez,2017-08-19T17:24:40-07:00,0307,,http://www.lapoliciaca.com/nota-roja/violan-policias-municipales-a-una-mujer-fueron-detenidos/
-Aguascalientes,Aguascalientes,2017-08-19T16:42:07-07:00,0308,,http://www.lapoliciaca.com/nota-roja/fingio-estar-loca-para-no-ir-a-prision-por-haber-asesinado-a-su-hijastra/
-Aguascalientes,Aguascalientes,2017-08-19T16:41:19-07:00,0309,ASESINATO,http://www.lapoliciaca.com/nota-roja/madrastra-asesino-a-golpes-a-una-pequena-de-5-anos/
-Puebla,Puebla,2017-08-19T16:21:13-07:00,0310,,http://www.lapoliciaca.com/nota-roja/se-suicida-nino-de-11-anos-ya-habia-intentado-quitarse-la-vida/
-Nuevo León,Monterrey,2017-08-19T14:07:40-07:00,0311,,http://www.lapoliciaca.com/nota-roja/tres-ninos-mueren-de-forma-similar-y-misteriosa-su-piel-presentaba-ronchas-rojas/
-Guanajuato,Valle de Santiago,2017-08-19T12:50:30-07:00,0312,,http://www.lapoliciaca.com/nota-roja/violaron-y-mataron-a-golpes-a-su-amigo/
-Chihuahua,Ciudad Juárez,2017-08-19T11:47:38-07:00,0313,,http://www.lapoliciaca.com/nota-roja/sale-pequeno-de-3-anos-tras-su-mama-lo-arrolla-y-muere/
-Chihuahua,Chihuahua,2017-08-18T09:03:51-07:00,0314,,http://www.lapoliciaca.com/nota-roja/violo-en-varias-ocasiones-a-su-hijo-y-a-su-hijastro-de-4-y-10-anos-de-edad/
-Aguascalientes,Aguascalientes,2017-08-18T08:33:27-07:00,0315,,http://www.lapoliciaca.com/nota-roja/buscan-a-mujer-colombiana-que-vino-a-mexico-a-vender-a-su-bebe/
-Puebla,Cañada Morelos,2017-08-18T06:29:54-07:00,0316,,http://www.lapoliciaca.com/nota-roja/juego-de-ninos-termina-en-tragedia-hermanitos-mueren-asfixiados/
-San Luis Potosí,San Luis Potosí,2017-08-18T05:32:05-07:00,0317,,http://www.lapoliciaca.com/nota-roja/hace-9-anos-violo-a-su-hijo-y-ahora-lo-detienen-por-violar-a-su-exesposa/
-Coahuila,Torreón,2017-08-18T04:46:12-07:00,0319,,http://www.lapoliciaca.com/nota-roja/para-borrarlo-de-su-vida-joven-mujer-atropella-e-intenta-asesinar-a-su-exmarido/
-Quintana Roo,Playa del Carmen,2017-08-18T03:53:15-07:00,0320,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/atroz-crimen-de-una-estudiante-de-14-anos-la-violo-y-asesino-su-padrastro/
-Querétaro,Huimilpan,2017-08-18T01:32:22-07:00,0321,,http://www.lapoliciaca.com/nota-roja/loco-por-los-celos-mata-al-amante-de-su-mujer/
-Coahuila,Saltillo,2017-08-17T20:48:31-07:00,0322,,http://www.lapoliciaca.com/nota-roja/se-suicida-al-descubrir-que-su-esposa-tenia-conversaciones-con-un-viejo-amor/
-Aguascalientes,Aguascalientes,2017-08-17T20:25:52-07:00,0323,ASALTO,http://www.lapoliciaca.com/nota-roja/degenerado-albanil-violo-y-asalto-a-mujer-que-le-dio-trabajo/
-Estado de México,Tultitlán,2017-08-17T12:23:36-07:00,0324,,http://www.lapoliciaca.com/nota-roja/madre-se-arma-de-valor-y-confiesa-que-su-hijo-mato-y-enterro-a-un-joven-desaparecido/
-Yucatán,Progreso,2017-08-17T11:19:58-07:00,0325,,http://www.lapoliciaca.com/nota-roja/mientras-su-esposa-iba-de-compras-violo-a-su-nieta-de-ocho-anos/
-Estado de México,Ecatepec,2017-08-17T10:02:45-07:00,0326,,http://www.lapoliciaca.com/nota-roja/delincuente-es-golpeado-brutalmente-luego-de-asesinar-a-un-inocente-video/
-Baja California,Tijuana,2017-08-17T09:56:34-07:00,0327,DISPAROS,http://www.lapoliciaca.com/nota-roja/hallan-ejecutadas-a-dos-venezolanas-reportadas-desaparecidas/
-Veracruz,Misantla,2017-08-17T09:56:15-07:00,0329,DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-balazos-a-joven-mujer-en-veracruz/
-Sinaloa,Los Mochis,2017-08-17T09:53:34-07:00,0330,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-jovencita-junto-a-su-bebe-recien-nacido-buscan-al-esposo-como-responsable/
-Coahuila,Monclova,2017-08-17T09:00:20-07:00,0331,,http://www.lapoliciaca.com/nota-roja/mujer-se-quita-la-vida-porque-su-esposo-le-pidio-el-divorcio/
- Oaxaca,Tlacolula de Matamoros,2017-08-17T07:56:44-07:00,0332,,http://www.lapoliciaca.com/nota-roja/maestro-de-secundaria-amenazaba-con-expulsar-a-alumnas-si-no-se-dejaban-tocar/
-Coahuila,Monclova,2017-08-17T06:12:41-07:00,0333,,http://www.lapoliciaca.com/nota-roja/nino-de-13-anos-violo-a-su-prima-de-10/
-Chihuahua,Nuevo Casas Grandes,2017-08-16T21:14:27-07:00,0334,,http://www.lapoliciaca.com/nota-roja/nina-de-13-anos-intenta-matar-a-otras-dos-menores-atropellandolas/
-Yucatán,Mérida,2017-08-16T20:34:39-07:00,0335,ASESINATO,http://www.lapoliciaca.com/nota-roja/mata-a-su-vecino-y-se-entrega-a-la-policia-porque-no-dormia-tranquilo/
-Durango,El Oro,2017-08-16T19:47:52-07:00,0336,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-violada-y-asesinada-a-jovencita-de-16-anos-reportada-desaparecida/
-Tamaulipas,Tampico,2017-08-16T18:54:32-07:00,0337,,http://www.lapoliciaca.com/nota-roja/se-despidio-de-su-novia-y-minutos-despues-la-muerte-lo-sorprendio-a-bordo-de-su-auto/
-Jalisco,Tlaquepaque,2017-08-16T18:49:38-07:00,0338,,http://www.lapoliciaca.com/nota-roja/le-cortaron-la-cabeza-por-ladron/
-Estado de México,Ecatepec,2017-08-16T08:29:57-07:00,0339,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/encuentran-cuerpo-de-joven-asesinada-a-balazos/
-Morelos,Cuernavaca,2017-08-16T07:39:02-07:00,0340,,http://www.lapoliciaca.com/nota-roja/mujer-de-25-anos-asesino-a-cuchilladas-a-su-esposo-aleman-de-50-anos/
-Durango,Durango,2017-08-16T06:03:16-07:00,0341,,http://www.lapoliciaca.com/nota-roja/planeo-el-asesinato-de-su-pareja-sentimental-ya-fue-sentenciada/
-San Luis Potosí,San Luis Potosí,2017-08-16T05:56:51-07:00,0342,,http://www.lapoliciaca.com/nota-roja/detienen-a-entrenador-de-box-por-abusar-sexualmente-de-una-de-sus-alumnas/
-Aguascalientes,Aguascalientes,2017-08-16T05:37:56-07:00,0343,,http://www.lapoliciaca.com/nota-roja/compro-a-un-bebe-para-obligar-a-su-exnovio-a-regresar-con-ella/
-Veracruz,Amatlán de los Reyes,2017-08-16T05:36:42-07:00,0344,:SECUESTRO,http://www.lapoliciaca.com/nota-roja/mujer-asaltante-a-punto-de-ser-quemada-viva-por-robar-una-motocicleta/
-Querétaro,Querétaro,2017-08-16T05:25:50-07:00,0346,,http://www.lapoliciaca.com/nota-roja/se-toma-unas-cervezas-con-su-suegro-discuten-y-este-lo-mata-a-balazos/
-Chiapas,Reforma,2017-08-16T01:06:42-07:00,0347,,http://www.lapoliciaca.com/nota-roja/pobladores-le-prenden-fuego-a-presunto-violador-de-nina-video/
-Querétaro,Querétaro,2017-08-15T10:07:51-07:00,0348,,http://www.lapoliciaca.com/nota-roja/policia-discute-con-su-esposa-y-la-estrangula/
-Querétaro,Querétaro,2017-08-15T09:58:30-07:00,0349,ASESINATO,http://www.lapoliciaca.com/nota-roja/llega-a-su-casa-y-encuentra-asesinada-a-su-esposa-y-a-sus-dos-hijos-menores/
-Estado de México,Nezahualcóyotl,2017-08-15T09:54:59-07:00,0350,,http://www.lapoliciaca.com/nota-roja/vicente-asesino-a-su-novia-e-hirio-a-las-dos-hijas-de-esta-pasara-toda-su-vida-en-prision/
-Michoacán,Morelia,2017-08-15T05:46:58-07:00,0351,,http://www.lapoliciaca.com/nota-roja/permanecio-junto-al-cadaver-de-su-esposo-por-varios-dias-no-se-percato-que-habia-fallecido/
-Baja California,Tijuana,2017-08-15T05:21:09-07:00,0352,,http://www.lapoliciaca.com/nota-roja/yo-no-fui-dijo-erika-cuando-la-arrestaron-por-la-muerte-de-su-bebe/
-Aguascalientes,Aguascalientes,2017-08-15T04:29:56-07:00,0353,,http://www.lapoliciaca.com/nota-roja/encuentra-a-su-hija-ahorcada-y-en-estado-de-putrefaccion/
-Chihuahua,Chihuahua,2017-08-15T03:50:24-07:00,0354,,http://www.lapoliciaca.com/nota-roja/busco-morir-junto-a-sus-tres-hijos-en-la-cocina/
-Chihuahua,Parral,2017-08-15T03:33:23-07:00,0355,ASESINATO,http://www.lapoliciaca.com/nota-roja/atropello-y-mato-a-su-prometida-fue-detenido/
-Guanajuato,León,2017-08-14T04:10:55-07:00,0356,,http://www.lapoliciaca.com/nota-roja/rescata-a-sobrina-del-agua-y-muere-ahogado/
-Campeche,Escárcega,2017-08-14T04:01:12-07:00,0357,,http://www.lapoliciaca.com/nota-roja/se-quita-la-vida-a-unos-dias-de-casarse/
-Coahuila,Frontera,2017-08-14T03:39:10-07:00,0358,,http://www.lapoliciaca.com/nota-roja/adolescentes-plagiaron-y-violaron-a-excompanera-de-secundaria/
-Estado de México,Ixtapaluca,2017-08-14T01:48:21-07:00,0359,,http://www.lapoliciaca.com/nota-roja/su-suegro-y-su-esposo-la-asesinaron/
-Michoacán,Uruapan,2017-08-14T01:32:45-07:00,0360,ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/hallan-a-joven-mujer-golpeada-y-estrangulada-en-un-motel/
-Estado de México,Chalco,2017-08-14T01:32:04-07:00,0361,:DISPAROS,http://www.lapoliciaca.com/nota-roja/asaltante-muere-aplastado-por-el-mismo-trailer-que-robo/
-Nuevo León,Montemorelos,2017-08-13T22:45:02-07:00,0362,ASESINATO,http://www.lapoliciaca.com/nota-roja/llevaban-dos-meses-casados-y-estrangulo-a-su-esposa/
-Estado de México,Chalco,2017-08-13T21:35:15-07:00,0363,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-en-canal-gracias-a-una-mano-que-salio-a-la-superficie/
-Sinaloa,Mazatlán,2017-08-13T21:06:26-07:00,0364,ASALTO,http://www.lapoliciaca.com/nota-roja/enfermeras-del-imss-son-halladas-asesinadas-y-calcinadas/
-Estado de México,Ecatepec,2017-08-11T18:56:55-07:00,0365,:DISPAROS,http://www.lapoliciaca.com/nota-roja/karen-tenia-14-anos-y-era-parte-de-una-banda-de-asaltantes-hoy-esta-muerta/
-Coahuila,Torreón,2017-08-11T18:00:40-07:00,0366,DISPAROS,http://www.lapoliciaca.com/nota-roja/padre-mata-a-su-hijo-enfermo-y-luego-se-suicida/
-Guerrero,Chilpancingo,2017-08-11T16:45:44-07:00,0367,DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-estudiante-de-secundaria-junto-a-otros-dos-adolescentes/
-Hidalgo,Pachuca,2017-08-10T18:11:39-07:00,0368,,http://www.lapoliciaca.com/nota-roja/su-padrastro-la-violaba-y-su-madre-la-prostituia/
- Querétaro,Cadereyta de Montes,2017-08-10T16:16:25-07:00,0369,,http://www.lapoliciaca.com/nota-roja/jovencita-de-15-anos-mato-a-un-nino-de-13-porque-no-quiso-ser-su-chambelan/
-Coahuila,Escobedo,2017-08-10T05:28:21-07:00,0370,,http://www.lapoliciaca.com/nota-roja/paso-tres-noches-abrazada-del-cadaver-de-su-esposo/
-Estado de México,Ecatepec,2017-08-10T03:53:57-07:00,0371,ASALTO:DISPAROS,http://www.lapoliciaca.com/nota-roja/nina-de-14-anos-muere-en-balacera-con-policias-tras-robar-camioneta-a-punta-de-pistola-video/
-Guerrero,Zihuatanejo,2017-08-10T03:31:13-07:00,0372,,http://www.lapoliciaca.com/nota-roja/levantan-a-policia-de-transito-horas-despues-lo-hallan-decapitado/
-Hidalgo,Pachuca,2017-08-10T01:34:32-07:00,0373,,http://www.lapoliciaca.com/nota-roja/madre-salva-a-su-hijo-ladron-de-ser-linchado/
-Estado de México,Tlalnepantla,2017-08-10T01:08:23-07:00,0374,ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/asaltantes-matan-a-pasajero-de-autobus-porque-parecia-militar/
-Durango,Mezquital,2017-08-09T21:07:35-07:00,0375,,http://www.lapoliciaca.com/nota-roja/encuentran-cadaver-de-un-bebe-en-bote-de-basura-madre-es-detenida/
-Estado de México,Zacualpan,2017-08-09T20:45:26-07:00,0376,,http://www.lapoliciaca.com/nota-roja/muere-al-intentar-abrir-una-cerveza-con-una-pistola/
-Guerrero,Acapulco,2017-08-09T19:47:12-07:00,0377,,http://www.lapoliciaca.com/nota-roja/dejan-restos-humanos-en-la-entrada-de-una-iglesia-cristiana/
-Puebla,Amozoc,2017-08-09T14:27:43-07:00,0379,,http://www.lapoliciaca.com/nota-roja/madre-sorprende-a-su-hija-de-15-anos-teniendo-relaciones-con-un-profesor/
-Nayarit,Compostela,2017-08-03T21:31:38-07:00,0381,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/violo-a-una-joven-en-tijuana-y-huyo-a-nayarit-ahi-lo-fueron-a-matar/
-Puebla,Puebla,2017-08-03T20:52:22-07:00,0382,,http://www.lapoliciaca.com/nota-roja/televisor-cobra-la-vida-de-un-hombre/
-Estado de México,Ecatepec,2017-08-03T20:36:17-07:00,0383,,http://www.lapoliciaca.com/nota-roja/a-sus-nueve-anos-decide-quitarse-la-vida/
-Nuevo León,Escobedo,2017-08-03T19:05:20-07:00,0384,,http://www.lapoliciaca.com/nota-roja/robaron-densimetro-nuclear-ahora-lloran-pues-temen-morir-por-los-afectos-de-la-radiacion/
-Nuevo León,Monterrey,2017-08-03T18:57:35-07:00,0385,,http://www.lapoliciaca.com/nota-roja/difunden-video-de-maestra-sosteniendo-relaciones-con-alumno-de-secundaria/
-Estado de México,Tlalnepantla,2017-08-03T16:51:58-07:00,0386,,http://www.lapoliciaca.com/nota-roja/mueren-asaltantes-baleados-por-justiciero-en-autobus-de-pasajeros-graban-su-agonia-video/
-Querétaro,San Juan del Rio,2017-08-03T16:19:43-07:00,0387,,http://www.lapoliciaca.com/nota-roja/mato-a-sus-dos-hijos-para-vengarse-de-su-esposo-luego-se-quito-la-vida-video/
-Nuevo León,Escobedo,2017-08-02T21:23:11-07:00,0388,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesinan-a-mama-de-nino-abandonado-en-centro-comercial/
-Guerrero,Chilpancingo,2017-08-02T20:22:39-07:00,0389,DISPAROS,http://www.lapoliciaca.com/nota-roja/perro-llora-la-muerte-de-su-amo-asesinado-a-balazos-video/
-Guerrero,Malinaltepec,2017-08-02T10:41:01-07:00,0390,,http://www.lapoliciaca.com/nota-roja/mueren-3-ninos-por-comer-frituras-envenenadas/
-Aguascalientes,Jesús María,2017-08-01T21:07:42-07:00,0391,,http://www.lapoliciaca.com/nota-roja/se-le-olvido-su-bebe-dentro-de-su-vehiculo-y-muere-video/
-Chihuahua,Camargo,2017-08-01T18:32:33-07:00,0393,,http://www.lapoliciaca.com/nota-roja/mato-a-su-bebe-para-que-dejara-de-sufrir-por-una-enfermedad-y-se-suicido/
-Puebla,Amozoc,2017-08-01T17:20:03-07:00,0394,ASESINATO,http://www.lapoliciaca.com/nota-roja/detienen-a-feminicida-cuando-regreso-a-la-escena-del-crimen/
-Aguascalientes,Jesús María,2017-08-01T12:16:34-07:00,0395,,http://www.lapoliciaca.com/nota-roja/se-quito-la-vida-pero-antes-se-despidio-de-todos-en-facebook/
-Chiapas,Tuxtla Gutiérrez,2017-08-01T08:23:59-07:00,0396,,http://www.lapoliciaca.com/nota-roja/muere-ladron-al-intentar-entrar-a-robar-a-una-casa/
-Coahuila,Piedras Negras,2017-07-31T08:09:48-07:00,0398,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesina-a-balazos-a-su-ex-esposa-y-al-novio-de-esta-frente-a-su-hijo-de-2-anos/
-Veracruz,Córdoba,2017-07-31T06:58:28-07:00,0399,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-golpes-a-una-mujer-dentro-de-un-hotel/
-Durango,Durango,2017-07-30T11:23:40-07:00,0401,,http://www.lapoliciaca.com/nota-roja/mato-y-enterro-al-novio-de-su-hija-por-ser-casado/
-Estado de México,Tecámac,2017-07-30T09:41:36-07:00,0402,SECUESTRO,http://www.lapoliciaca.com/nota-roja/hallan-a-nina-de-11-anos-violada-y-asesinada-junto-con-su-padre/
-Guanajuato,Salvatierra,2017-07-30T07:03:02-07:00,0403,,http://www.lapoliciaca.com/nota-roja/asesino-a-mujer-en-navidad-porque-se-nego-a-tener-sexo-con-el/
-Estado de México,Ecatepec,2017-07-29T13:10:10-07:00,0404,ASESINATO,http://www.lapoliciaca.com/nota-roja/encuentran-violada-y-asesinada-a-jovencita-que-desaparecio-ayer/
-Sinaloa,Concordia,2017-07-29T13:09:47-07:00,0405,,http://www.lapoliciaca.com/nota-roja/masacre-en-la-sierra-de-sinaloa-5-decapitados-dos-ejecutados-y-un-colgado/
-Michoacán,Zamora,2017-07-29T13:09:37-07:00,0406,ASESINATO:ASALTO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-mujer-y-tiran-su-cuerpo-en-una-brecha/
-Guanajuato,León,2017-07-29T13:04:28-07:00,0407,,http://www.lapoliciaca.com/nota-roja/mato-a-su-rival-a-batazos-tras-partido-de-beisbol/
-Aguascalientes,Aguascalientes,2017-07-29T05:46:19-07:00,0409,,http://www.lapoliciaca.com/nota-roja/halla-a-su-exesposa-violada-y-asesinada/
-Hidalgo,Tepeji del Río,2017-07-29T05:06:38-07:00,0410,,http://www.lapoliciaca.com/nota-roja/muere-una-mujer-despues-de-que-lanzaran-piedras-al-autobus-en-el-que-viajaba/
-Morelos,Cuernavaca,2017-07-29T04:52:07-07:00,0411,,http://www.lapoliciaca.com/nota-roja/depravado-violo-a-sus-dos-hijos-y-a-un-sobrino/
-Veracruz,San Andrés Tuxtla,2017-07-29T04:37:00-07:00,0412,SECUESTRO,http://www.lapoliciaca.com/nota-roja/la-secuestraron-su-familia-pago-millonario-rescate-y-aun-asi-la-mataron/
-Veracruz,Isla,2017-07-28T10:45:57-07:00,0413,,http://www.lapoliciaca.com/nota-roja/pierde-sus-piernas-por-quedarse-dormido-en-las-vias-del-tren/
-Puebla,Vicente Guerrero,2017-07-28T09:41:27-07:00,0414,SECUESTRO,http://www.lapoliciaca.com/nota-roja/delincuentes-heridos-secuestran-a-enfermera-y-a-su-esposo-despues-los-asesinan/
-Morelos,Temixco,2017-07-28T08:26:03-07:00,0415,ASESINATO,http://www.lapoliciaca.com/nota-roja/adolescente-de-15-anos-mata-a-golpes-a-su-novia-de-21/
-Tamaulipas,Matamoros,2017-07-28T06:37:04-07:00,0416,ASESINATO,http://www.lapoliciaca.com/nota-roja/estudiante-de-derecho-asesino-a-su-novia-y-abandono-su-cadaver-en-una-casa-abandonada/
-Durango,Guadalupe Victoria,2017-07-28T06:35:57-07:00,0417,,http://www.lapoliciaca.com/nota-roja/muere-nina-mientras-jugaba-futbol-le-cayo-la-porteria-en-la-cabeza/
-Guerrero,Chilapa,2017-07-28T06:34:04-07:00,0418,,http://www.lapoliciaca.com/nota-roja/cortan-en-cachitos-a-jovencita-y-dejan-sus-restos-embolsados/
-Tamaulipas,Nuevo Laredo,2017-07-27T22:15:24-07:00,0419,,http://www.lapoliciaca.com/nota-roja/abandonan-nueve-personas-ejecutadas-al-exterior-de-una-vivienda/
-Baja California,Mexicali,2017-07-27T19:47:53-07:00,0420,,http://www.lapoliciaca.com/nota-roja/se-entrega-en-estados-unidos-el-mini-lic/
-Estado de México,Tultitlán,2017-07-27T08:43:38-07:00,0421,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-anahi-una-estudiante-de-medicina/
-Quintana Roo,Cancún,2017-07-27T08:43:15-07:00,0423,,http://www.lapoliciaca.com/nota-roja/encuentran-a-mujer-asesinada-desnuda-con-las-manos-atadas-a-la-espalda/
-Quintana Roo,Tulum,2017-07-27T08:37:28-07:00,0424,,http://www.lapoliciaca.com/nota-roja/mato-a-su-esposo-por-infiel-lo-sorprendio-en-su-casa-con-otra-mujer/
-Coahuila,Saltillo,2017-07-27T04:17:01-07:00,0425,,http://www.lapoliciaca.com/nota-roja/pelea-con-su-padre-y-lo-golpea-hasta-la-muerte-con-una-pesa/
-Puebla,Puebla,2017-07-26T21:03:46-07:00,0426,,http://www.lapoliciaca.com/nota-roja/matan-a-golpes-a-una-mujer-en-un-mercado-porque-la-sorprendieron-robando/
-Tamaulipas,Matamoros,2017-07-26T20:33:18-07:00,0427,,http://www.lapoliciaca.com/nota-roja/nino-se-quita-la-vida-porque-su-mama-no-le-hizo-de-comer/
-Nuevo León,Apodaca,2017-07-26T07:36:37-07:00,0428,,http://www.lapoliciaca.com/nota-roja/nino-se-suicido-porque-su-madre-lo-mando-a-banar/
-Morelos,Cuernavaca,2017-07-26T06:59:07-07:00,0429,,http://www.lapoliciaca.com/nota-roja/nina-y-su-tia-asesinaron-a-una-anciana-podrian-estar-involucradas-en-otros-homicidios/
-Coahuila,Ciudad Acuña,2017-07-26T06:56:33-07:00,0430,,http://www.lapoliciaca.com/nota-roja/muere-nino-de-12-anos-al-caer-del-techo-de-un-hotel/
-Tamaulipas,Matamoros,2017-07-26T06:16:31-07:00,0431,DISPAROS,http://www.lapoliciaca.com/nota-roja/no-soporto-ver-a-su-expareja-con-otro-y-la-asesino/
-Nayarit,Tepic,2017-07-26T03:55:36-07:00,0432,,http://www.lapoliciaca.com/nota-roja/encapuchados-violaron-a-mujer-policia/
-Guanajuato,Purísima del Rincón,2017-07-26T02:41:21-07:00,0433,ASESINATO,http://www.lapoliciaca.com/nota-roja/hombre-ingresa-con-su-novio-a-un-motel-lo-matan-y-calcinan-video/
-Estado de México,Ecatepec,2017-07-25T21:15:48-07:00,0434,,http://www.lapoliciaca.com/nota-roja/nina-de-13-anos-se-quita-la-vida-y-deja-en-carta-postuma-los-motivos/
-Sonora,Nogales,2017-07-25T20:47:14-07:00,0435,,http://www.lapoliciaca.com/nota-roja/nina-de-10-anos-intenta-suicidarse-se-lo-recomendaron-en-facebook/
-Veracruz,Minatitlán,2017-07-25T20:15:31-07:00,0436,DISPAROS,http://www.lapoliciaca.com/nota-roja/la-muerte-le-pasa-a-un-lado-a-ancianita-invidente/
-Durango,Durango,2017-07-25T19:37:04-07:00,0437,,http://www.lapoliciaca.com/nota-roja/sin-piedad-le-quito-la-vida-a-su-propia-madre/
-Guerrero,Acapulco,2017-07-25T08:07:46-07:00,0438,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/ejecutan-a-mecanico-porque-quedo-mal-con-un-trabajo/
-Nuevo León,Cadereyta,2017-07-25T07:57:42-07:00,0439,ASESINATO,http://www.lapoliciaca.com/nota-roja/ex-beisbolista-asesina-a-su-esposa-y-despues-se-quita-la-vida/
-Durango,Ciudad Lerdo,2017-07-25T06:16:57-07:00,0440,,http://www.lapoliciaca.com/nota-roja/descuido-de-una-madre-le-cuesta-la-vida-a-bebe/
-Chihuahua,Ciudad Juárez,2017-07-25T06:16:42-07:00,0441,,http://www.lapoliciaca.com/nota-roja/pasara-30-anos-de-carcel-por-matar-a-golpes-a-su-bebe/
-Estados Unidos,Texas,2017-07-25T06:14:43-07:00,0442,,http://www.lapoliciaca.com/nota-roja/del-sueno-a-la-pesadilla-americana-relato-de-un-sobreviviente/
-Oaxaca,Oaxaca,2017-07-25T04:17:04-07:00,0443,,http://www.lapoliciaca.com/nota-roja/se-matan-en-la-carcel-por-remordimiento-luego-de-golpear-a-sus-madres/
-Veracruz,Xalapa,2017-07-25T04:12:31-07:00,0444,DISPAROS,http://www.lapoliciaca.com/nota-roja/se-resistio-a-un-asalto-y-la-mataron/
-Guanajuato,Irapuato,2017-07-25T01:44:18-07:00,0445,,http://www.lapoliciaca.com/nota-roja/salio-de-su-casa-sin-decir-a-donde-se-dirigia-dos-semanas-despues-la-hallan-asesinada/
-Estados Unidos,Texas,2017-07-24T21:29:06-07:00,0446,,http://www.lapoliciaca.com/nota-roja/cuatro-mexicanos-murieron-dentro-del-trailer-en-texas-y-21-mas-estan-hospitalizados-confirma-sre/
-Estados Unidos,Texas,2017-07-24T21:07:00-07:00,0447,,http://www.lapoliciaca.com/nota-roja/mueren-9-personas-algunos-de-ellos-mexicanos-buscando-el-sueno-americano/
-Guanajuato,Celaya,2017-07-24T20:46:29-07:00,0448,,http://www.lapoliciaca.com/nota-roja/matan-a-mujer-y-esconden-su-cadaver-en-un-ropero/
-Morelos,Temixco,2017-07-24T20:26:02-07:00,0449,,http://www.lapoliciaca.com/nota-roja/les-costo-la-vida-a-motociclistas-jugar-carreritas/
-Estado de México,Atlautla,2017-07-24T20:25:12-07:00,0450,ASESINATO,http://www.lapoliciaca.com/nota-roja/matan-a-golpes-a-dos-mujeres-en-un-bosque-una-de-ellas-fue-violada/
-Puebla,Xicotepec de Juárez,2017-07-24T19:29:15-07:00,0451,ASESINATO,http://www.lapoliciaca.com/nota-roja/maria-salio-a-buscar-agua-la-ultrajaron-y-asesinaron/
-Sinaloa,Culiacán,2017-07-24T08:21:14-07:00,0452,,http://www.lapoliciaca.com/nota-roja/iban-a-salvar-una-vida-y-encuentran-la-muerte/
-Durango,Durango,2017-07-24T07:47:23-07:00,0453,ASESINATO,http://www.lapoliciaca.com/nota-roja/mujer-mato-a-su-propio-padre-por-el-dinero-de-un-seguro-de-vida/
-Guerrero,Taxco,2017-07-24T07:14:03-07:00,0454,,http://www.lapoliciaca.com/nota-roja/comando-armado-asesina-a-bebe-y-deja-lesionada-a-la-madre/
-Sonora,Hermosillo,2017-07-24T04:05:43-07:00,0456,,http://www.lapoliciaca.com/nota-roja/mujer-aborta-y-entierra-al-bebe-en-el-patio-de-su-casa/
-Querétaro,Querétaro,2017-07-24T01:17:49-07:00,0457,,http://www.lapoliciaca.com/nota-roja/no-lo-queria-matar-le-estaba-haciendo-un-exorcismo/
-San Luis Potosí,Ciudad valles,2017-07-23T21:11:30-07:00,0458,,http://www.lapoliciaca.com/nota-roja/en-el-nombre-de-dios-supuesto-pastor-religioso-violaba-a-un-nino/
-Sonora,Hermosillo,2017-07-23T20:41:08-07:00,0459,,http://www.lapoliciaca.com/nota-roja/encuentran-a-mujer-devorada-por-sus-perros/
-Baja California,Mexicali,2017-07-22T21:06:28-07:00,0460,ASALTO,http://www.lapoliciaca.com/nota-roja/lo-sentencian-a-25-anos-de-prision-por-matar-a-un-ladron/
-Yucatán,Mérida,2017-07-22T20:49:24-07:00,0461,,http://www.lapoliciaca.com/nota-roja/durante-dos-anos-violo-a-su-pequena-sobrina-hasta-que-la-embarazo/
-Baja California,Tijuana,2017-07-22T20:20:31-07:00,0462,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-tiros-a-joven-embarazada-salvan-a-su-bebe/
-Coahuila,Piedras Negras,2017-07-22T19:35:16-07:00,0463,,http://www.lapoliciaca.com/nota-roja/detienen-a-joven-que-violo-y-asesino-a-nina-de-12-anos/
-Estado de México,Aculco,2017-07-22T17:52:08-07:00,0464,,http://www.lapoliciaca.com/nota-roja/persigue-a-su-esposa-y-al-darle-alcance-la-mata-a-balazos-enseguida-se-suicido/
-San Luis Potosí,Rioverde,2017-07-22T17:32:12-07:00,0465,,http://www.lapoliciaca.com/nota-roja/desalmado-sujeto-mata-a-sangre-fria-a-un-nino-a-otro-lo-dejo-gravemente-herido/
-Baja California,Mexicali,2017-07-22T05:13:28-07:00,0466,,http://www.lapoliciaca.com/nota-roja/iba-a-una-fiesta-de-graduacion-y-desaparecio-la-hallan-muerta-dentro-de-su-auto-en-un-canal/
-Sinaloa,Culiacán,2017-07-22T02:43:30-07:00,0467,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-en-un-arroyo-cadaver-de-estudiante-universitaria-reportada-desaparecida/
-Estado de México,Coacalco,2017-07-22T02:41:14-07:00,0468,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-brutalmente-asesinados-a-cuatro-miembros-de-una-familia/
-Jalisco,Tala,2017-07-21T21:15:10-07:00,0469,ASESINATO,http://www.lapoliciaca.com/nota-roja/les-ofrecian-empleo-por-facebook-era-el-gancho-reclutarlos-como-sicarios/
-Aguascalientes,Aguascalientes,2017-07-21T19:45:32-07:00,0470,,http://www.lapoliciaca.com/nota-roja/asesino-a-su-amigo-al-pensar-que-era-el-amante-de-su-pareja/
-Aguascalientes,Aguascalientes,2017-07-21T19:14:01-07:00,0471,ASALTO,http://www.lapoliciaca.com/nota-roja/ladron-intenta-huir-tras-robar-un-auto-y-muere-atropellado/
-Coahuila,Torreón,2017-07-21T18:26:06-07:00,0472,,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-joven-en-una-funeraria-pero-en-los-ductos-de-refrigeracion/
-Jalisco,Tonalá,2017-07-21T16:48:04-07:00,0473,,http://www.lapoliciaca.com/nota-roja/maestro-de-secundaria-abuso-sexualmente-de-una-de-sus-alumnas/
-Nuevo León,Pesquería,2017-07-21T08:30:04-07:00,0474,,http://www.lapoliciaca.com/nota-roja/asesina-a-su-ex-esposa-en-una-fiesta-y-luego-se-suicida/
-Chihuahua,Chihuahua,2017-07-21T05:55:08-07:00,0475,,http://www.lapoliciaca.com/nota-roja/increible-sujeto-intoxica-y-luego-viola-a-su-hijo-de-3-anos/
-Veracruz,Minatitlán,2017-07-21T04:00:53-07:00,0476,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/hallan-decapitada-a-estudiante-reportada-desaparecida-la-confundieron-con-sobrina-de-narco/
-Aguascalientes,Aguascalientes,2017-07-21T03:57:38-07:00,0477,,http://www.lapoliciaca.com/nota-roja/la-mato-de-un-balazo-en-la-cabeza-y-lanzo-su-cadaver-desde-lo-alto-de-un-puente/
-Puebla,Chalchicomula de Sesma,2017-07-20T06:17:35-07:00,0478,SECUESTRO,http://www.lapoliciaca.com/nota-roja/familia-se-defiende-de-secuestro-y-matan-a-plagiarios/
-Guerrero,Acapulco,2017-07-20T05:29:42-07:00,0480,ASESINATO,http://www.lapoliciaca.com/nota-roja/hallan-a-mujer-muerta-y-desnuda-en-playa-de-acapulco/
-Baja California,Mexicali,2017-07-20T03:58:59-07:00,0482,,http://www.lapoliciaca.com/nota-roja/le-paso-varias-veces-el-auto-por-encima-a-su-mujer-hasta-matarla/
-Jalisco,Lagos De Moreno,2017-07-19T14:08:47-07:00,0484,,http://www.lapoliciaca.com/nota-roja/asesino-y-calcino-a-maestra-de-zumba-su-expareja-sentimental/
-Morelos,Cuernavaca,2017-07-19T05:29:11-07:00,0486,,http://www.lapoliciaca.com/nota-roja/hallan-a-una-bebe-muerta-en-vivienda-abandonada/
-Jalisco,Chapala,2017-07-19T04:27:24-07:00,0487,,http://www.lapoliciaca.com/nota-roja/detienen-a-maestra-acusada-de-abusar-de-11-ninos/
-Chihuahua,Ciudad Juárez,2017-07-19T04:01:37-07:00,0488,,http://www.lapoliciaca.com/nota-roja/mato-a-ocho-miembros-de-una-familia-por-deuda-de-mil-500-pesos/
-Estado de México,Tlalnepantla,2017-07-19T03:51:17-07:00,0489,,http://www.lapoliciaca.com/nota-roja/aparece-otro-justiciero-y-mata-a-ladron-de-pasajeros/
-Guerrero,Acapulco,2017-07-19T03:34:07-07:00,0490,,http://www.lapoliciaca.com/nota-roja/localizan-cadaver-de-mujer-lapidada-al-parecer-por-su-pareja-sentimental/
-San Luis Potosí,Villa de Reyes,2017-07-19T03:13:06-07:00,0491,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/asesinan-a-adolescente-de-14-anos-madre-de-dos-ninos/
-Guanajuato,León,2017-07-19T01:08:23-07:00,0492,,http://www.lapoliciaca.com/nota-roja/mato-a-golpes-a-su-hija-de-dos-anos-de-edad/
-Chihuahua,Ciudad Juárez,2017-07-18T20:45:05-07:00,0493,,http://www.lapoliciaca.com/nota-roja/emborracho-a-su-amigo-para-luego-violarlo-en-un-motel/
-Michoacán,Tarímbaro,2017-07-18T20:19:20-07:00,0494,,http://www.lapoliciaca.com/nota-roja/tiran-a-la-basura-el-cuerpo-de-un-bebe-recien-nacido/
-Arizona,Phoenix,2017-07-18T18:01:17-07:00,0495,,http://www.lapoliciaca.com/nota-roja/mueren-nueve-integrantes-de-familia-mexicana-en-arizona/
-Puebla,Tehuacán,2017-07-18T16:44:08-07:00,0496,,http://www.lapoliciaca.com/nota-roja/huia-con-el-cadaver-de-su-mujer/
-Michoacán,Ciudad Hidalgo,2017-07-18T16:14:24-07:00,0497,ASESINATO,http://www.lapoliciaca.com/nota-roja/nadie-se-explica-porque-asesino-a-su-esposo-y-a-cuatro-de-sus-hijos/
-Jalisco,Chapala,2017-07-18T14:55:39-07:00,0498,,http://www.lapoliciaca.com/nota-roja/acusan-a-maestra-de-violar-a-11-ninos-en-un-kinder/
-Estado de México,Ecatepec,2017-07-18T03:56:34-07:00,0500,ASESINATO,http://www.lapoliciaca.com/nota-roja/mata-y-decapita-a-su-padrastro-tras-una-discusion/
-Coahuila,Piedras Negras,2017-07-18T02:40:24-07:00,0501,ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-nina-de-12-anos-era-estudiante-de-secundaria/
-Tabasco,Centro,2017-07-17T15:23:18-07:00,0502,,http://www.lapoliciaca.com/nota-roja/encuentran-cadaver-de-joven-mujer-fue-violada-y-degollada/
-Guanajuato,Acámbaro,2017-07-17T14:58:11-07:00,0503,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesino-a-un-nino-de-6-anos-y-enterro-el-cadaver-en-su-casa/
-Tamaulipas,Matamoros,2017-07-17T14:39:48-07:00,0504,,http://www.lapoliciaca.com/nota-roja/hallan-violada-y-asesinada-a-estudiante-recien-graduada-reportada-como-desaparecida/
-Coahuila,Saltillo,2017-07-17T14:00:27-07:00,0505,,http://www.lapoliciaca.com/nota-roja/muere-nina-al-atragantarse-con-envoltura-de-chicle/
-Estado de México,Nicolás Romero,2017-07-17T02:05:21-07:00,0506,,http://www.lapoliciaca.com/nota-roja/mi-hija-era-muy-alegre/
-Puebla,San Pedro Cholula,2017-07-17T01:43:05-07:00,0507,,http://www.lapoliciaca.com/nota-roja/mato-a-su-esposo-porque-estaba-tomando-con-un-amigo/
-Veracruz,Veracruz,2017-07-17T01:41:08-07:00,0508,:SECUESTRO,http://www.lapoliciaca.com/nota-roja/mujer-fingio-secuestro-de-hijastro-para-ocultar-que-lo-habia-asesinado/
-Tabasco,Villahermosa,2017-07-14T16:36:21-07:00,0509,DISPAROS,http://www.lapoliciaca.com/nota-roja/adolescentes-sicarios-comian-los-cuerpos-de-sus-victimas-para-ser-mas-sanguinarios/
-Hidalgo,Tula de Allende,2017-07-10T22:27:23-07:00,0510,,http://www.lapoliciaca.com/nota-roja/violo-y-asalto-a-dos-empleadas-de-un-hotel/
-Michoacán,Chucándiro,2017-07-10T12:14:23-07:00,0511,,http://www.lapoliciaca.com/nota-roja/alocado-pasajero-incendia-autobus-y-muere-calcinado/
-Sonora,Ciudad Obregón,2017-07-10T11:20:24-07:00,0513,,http://www.lapoliciaca.com/nota-roja/brutal-asesinato-de-una-adolescente-de-17-anos/
-Chihuahua,Chihuahua,2017-07-10T00:46:58-07:00,0514,,http://www.lapoliciaca.com/nota-roja/ejecutan-de-14-tiros-a-una-joven-modelo/
-Veracruz,Atzacan,2017-07-09T19:22:27-07:00,0515,,http://www.lapoliciaca.com/nota-roja/salieron-a-trabajar-como-edecanes-las-encuentran-sepultadas-en-una-fosa-clandestina/
-Nuevo León,Guadalupe,2017-07-09T18:42:42-07:00,0516,,http://www.lapoliciaca.com/nota-roja/mujer-escapa-de-motel-en-el-que-querian-violarla/
-Guerrero,Acapulco,2017-07-09T17:54:20-07:00,0517,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/me-entregaron-sin-brazos-a-mi-esposo/
-La Paz, Estado de México,Los Reyes,2017-07-09T16:05:25-07:00,0518,:ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-sacerdote-por-las-limosnas/
-Tamaulipas,Reynosa,2017-07-09T16:02:01-07:00,0519,,http://www.lapoliciaca.com/nota-roja/la-encarcelaron-y-torturaron-casi-hasta-la-muerte-por-acusacion-falsa-de-militares/
-Michoacán,Zamora,2017-07-09T15:41:56-07:00,0520,,http://www.lapoliciaca.com/nota-roja/policia-saca-a-jovencita-de-los-separos-y-la-viola/
-Morelos,Jiutepec,2017-07-07T11:27:36-07:00,0521,,http://www.lapoliciaca.com/nota-roja/capturan-a-presunto-asesino-de-nina-de-5-anos-es-su-padrastro/
-San Luis Potosí,San Luis Potosí,2017-07-07T10:36:00-07:00,0522,,http://www.lapoliciaca.com/nota-roja/mato-al-bebe-que-cargaba-en-su-vientre-porque-no-podia-mantenerlo/
-Estado de México,Valle de Chalco,2017-07-07T10:17:52-07:00,0523,ASESINATO:DISPAROS,http://www.lapoliciaca.com/nota-roja/hallan-asesinadas-y-semidesnudas-a-dos-jovenes-reportadas-como-desaparecidas/
-Estado de México,Los Reyes La Paz,2017-07-06T11:28:17-07:00,0526,,http://www.lapoliciaca.com/nota-roja/asesinan-a-sacerdote-en-el-interior-de-su-iglesia/
-Veracruz,La Perla,2017-07-06T10:38:33-07:00,0527,,http://www.lapoliciaca.com/nota-roja/noche-de-pasion-termina-en-tragedia-muere-pareja-dentro-de-un-automovil/
-Guerrero,Acapulco,2017-07-06T10:04:13-07:00,0528,,http://www.lapoliciaca.com/nota-roja/rina-en-penal-de-acapulco-deja-al-menos-5-reos-muertos-fueron-decapitados/
-Guanajuato,Salamanca,2017-07-05T15:58:21-07:00,0529,,http://www.lapoliciaca.com/nota-roja/mujer-acuchilla-a-joven-que-golpeaba-a-su-hijo-y-lo-mata/
-Guanajuato,León,2017-07-05T13:56:50-07:00,0530,,http://www.lapoliciaca.com/nota-roja/doble-tragedia-se-ahoga-su-hija-y-por-intentar-llegar-rapido-al-hospital-mata-a-ciclista/
-Estado de México,Chimalhuacán,2017-07-05T11:52:19-07:00,0531,,http://www.lapoliciaca.com/nota-roja/condenan-a-20-anos-de-prision-a-la-degolladora-de-chimalhuacan/
-Estado de México,Tecámac,2017-07-05T02:48:50-07:00,0532,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/salio-a-una-fiesta-y-no-regreso-aparece-ejecutada-junto-a-sus-amigos/
-Aguascalientes,Aguascalientes,2017-07-05T00:48:08-07:00,0534,,http://www.lapoliciaca.com/nota-roja/ahogo-a-su-hija-en-una-cubeta-con-agua-y-luego-se-suicido/
-Nayarit,Xalisco,2017-07-04T16:47:12-07:00,0535,ASESINATO,http://www.lapoliciaca.com/nota-roja/mi-vecino-se-brinco-la-barda-ayudame-xitlalhi-antes-de-morir/
-Morelos,Cuernavaca,2017-07-04T15:54:25-07:00,0536,,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-nina-de-5-anos-dentro-de-un-automovil/
-San Luis Potosí,San Luis Potosí,2017-07-04T15:20:07-07:00,0537,ASESINATO,http://www.lapoliciaca.com/nota-roja/a-golpes-asesino-a-su-abuelo/
-Estado de México,Ecatepec,2017-07-04T12:18:38-07:00,0538,,http://www.lapoliciaca.com/nota-roja/sepultan-a-nina-desaparecida-por-mas-de-cinco-anos/
-Nayarit,Xalisco,2017-07-04T11:15:28-07:00,0539,,http://www.lapoliciaca.com/nota-roja/asesinan-a-jovencita-frente-a-su-bebe-de-un-ano/
-Estado de México,Temascalapa,2017-07-03T07:54:48-07:00,0540,,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-mujer-calcinado-en-un-camino-de-terraceria/
-Estado de México,Chalco,2017-07-03T07:23:57-07:00,0541,ASESINATO,http://www.lapoliciaca.com/nota-roja/violan-y-matan-a-mujer-y-arrojan-su-cadaver-en-un-canal-de-aguas-negras/
-Durango,Gómez Palacio,2017-07-03T07:04:23-07:00,0542,,http://www.lapoliciaca.com/nota-roja/horrible-muerte-encontro-septuagenaria-al-limpiar-el-exterior-de-su-casa/
-Guerreo,San Luis Acatlán,2017-07-03T06:15:23-07:00,0543,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-pedradas-a-su-novia-de-16-anos-tras-abusar-sexualmente-de-ella/
-Puebla,Puebla,2017-07-03T06:03:45-07:00,0544,,http://www.lapoliciaca.com/nota-roja/muere-nino-invidente-al-caer-en-una-cisterna/
-San Luis Potosí,San Luis Potosí,2017-07-02T21:24:04-07:00,0545,ASALTO,http://www.lapoliciaca.com/nota-roja/novios-adolescentes-fueron-violados-por-sujeto-que-se-hizo-pasar-por-narco/
-Chihuahua,Chihuahua,2017-07-02T21:13:12-07:00,0546,,http://www.lapoliciaca.com/nota-roja/pervertido-aprovecho-que-su-mama-estaba-dormida-y-la-violo/
-Nuevo León,Monterrey,2017-07-02T20:36:31-07:00,0547,,http://www.lapoliciaca.com/nota-roja/queria-adelgazar-consumio-unas-pastillas-que-compro-en-internet-y-murio/
-Tamaulipas,Matamoros,2017-07-02T19:47:44-07:00,0548,,http://www.lapoliciaca.com/nota-roja/jovencita-fingio-embarazo-e-invento-que-le-sacaron-al-bebe-todo-para-castigar-a-su-novio/
-Coahuila,Saltillo,2017-07-02T18:52:18-07:00,0549,,http://www.lapoliciaca.com/nota-roja/se-turnan-para-violar-a-jovencita-por-varias-horas-tres-policias/
-Estado de México,Ixtapaluca,2017-07-02T08:24:41-07:00,0550,,http://www.lapoliciaca.com/nota-roja/salio-al-doctor-y-al-regresar-a-casa-encontro-a-su-hija-muerta/
-Guanajuato,San Miguel De Allende,2017-06-29T05:34:46-07:00,0551,SECUESTRO:ASESINATO,http://www.lapoliciaca.com/nota-roja/secuestrador-usaba-musica-de-banda-como-tortura/
-Jalisco,Zapopan,2017-06-29T03:02:40-07:00,0552,,http://www.lapoliciaca.com/nota-roja/maestra-de-primaria-solapo-agresion-sexual-hacia-un-alumno-del-tercer-grado/
-Aguascalientes,Pabellón de Arteaga,2017-06-28T02:16:19-07:00,0555,,http://www.lapoliciaca.com/nota-roja/pierde-la-vida-por-una-sandalia/
-Durango,Durango,2017-06-28T01:47:26-07:00,0556,,http://www.lapoliciaca.com/nota-roja/se-le-murio-su-bebita-y-la-tiro-a-la-basura/
-Guerrero,Tlapa de Comonfort,2017-06-27T20:57:07-07:00,0557,,http://www.lapoliciaca.com/nota-roja/estudiantes-enterraron-vivo-a-su-companero-por-el-amor-de-una-jovencita/
-Puebla,San Andrés Cholula.,2017-06-27T16:08:22-07:00,0559,,http://www.lapoliciaca.com/nota-roja/se-suicida-y-pide-que-ser-enterrado-junto-a-su-perro/
-Estado de México,Chimalhuacán,2017-06-27T04:33:06-07:00,0563,,http://www.lapoliciaca.com/nota-roja/hallan-cadaver-de-mujer-sin-pierna-y-sin-rostro/
-Nuevo León,Monterrey,2017-06-27T03:49:22-07:00,0564,SECUESTRO,http://www.lapoliciaca.com/nota-roja/hallan-enterrada-en-el-patio-de-una-vivienda-a-jovencita-reportada-desaparecida/
-Chihuahua,Ciudad Juárez,2017-06-22T15:34:02-07:00,0565,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesinan-y-empalan-a-mujer-de-60-anos-dentro-de-su-vivienda/
-Guanajuato,Silao,2017-06-22T09:33:43-07:00,0566,DISPAROS,http://www.lapoliciaca.com/nota-roja/sicarios-asesinan-por-error-a-reina-infantil-y-a-su-padre/
-Nayarit,El Nayar,2017-06-21T20:52:45-07:00,0567,ASESINATO,http://www.lapoliciaca.com/nota-roja/nino-de-14-anos-tiene-relaciones-con-nina-de-13-y-luego-la-mata/
-Puebla,Puebla,2017-06-21T20:19:26-07:00,0568,,http://www.lapoliciaca.com/nota-roja/mata-a-su-esposa-se-toma-unas-cervezas-y-espera-a-la-policia-para-entregarse/
-Estado de México,Ayapango,2017-06-21T19:27:02-07:00,0569,,http://www.lapoliciaca.com/nota-roja/jovencita-se-quita-la-vida-y-deja-una-carta-postuma/
-Coahuila,Saltillo,2017-06-20T20:40:53-07:00,0571,,http://www.lapoliciaca.com/nota-roja/mata-a-su-bebe-y-pierde-la-vida-todo-se-origino-por-una-escena-de-celos/
-Estado de México,San Martín de las Pirámides,2017-06-20T19:26:19-07:00,0572,,http://www.lapoliciaca.com/nota-roja/encuentran-a-jovencita-sin-cabeza-y-semidesnuda-entre-la-basura/
-Estado de México,Lerma,2017-06-20T14:41:12-07:00,0573,,http://www.lapoliciaca.com/nota-roja/hermanos-violaron-y-asesinaron-a-nina-de-12-anos/
-Veracruz,Pajapan,2017-06-20T13:19:42-07:00,0574,,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-joven-con-siete-meses-de-embarazo/
-Yucatán,Mérida,2017-06-20T12:34:54-07:00,0575,,http://www.lapoliciaca.com/nota-roja/mujer-se-suicida-por-fuerte-depresion-tras-perder-a-sus-hijos/
-Coahuila,Ramos Arizpe,2017-06-20T11:57:48-07:00,0576,ASESINATO,http://www.lapoliciaca.com/nota-roja/sepulto-en-el-patio-de-su-casa-a-su-novia-de-16-anos-pero-asegura-que-el-no-la-mato/
-Nuevo León,Monterrey,2017-06-20T09:23:15-07:00,0578,,http://www.lapoliciaca.com/nota-roja/asesina-a-su-esposa-porque-no-queria-irse-de-una-fiesta-familiar/
-Tabasco,Centro,2017-06-20T08:22:04-07:00,0579,ASALTO,http://www.lapoliciaca.com/nota-roja/pobladores-rapinan-camioneta-volcada-frente-al-chofer-muerto/
-Zacatecas,Zacatecas,2017-06-19T12:08:24-07:00,0580,,http://www.lapoliciaca.com/nota-roja/en-pleno-dia-del-padre-mata-a-su-hijo-y-deja-herida-a-su-esposa/
-Tamaulipas,Río Bravo,2017-06-16T06:49:27-07:00,0583,DISPAROS,http://www.lapoliciaca.com/nota-roja/militares-confundieron-a-profesionistas-con-sicarios-y-los-asesinaron/
-Michoacán,Jacona,2017-06-16T04:58:53-07:00,0584,,http://www.lapoliciaca.com/nota-roja/indignante-abandonan-a-mujer-de-la-tercera-edad-y-muere-de-hambre/
-Guanajuato,Celaya,2017-06-16T02:58:15-07:00,0585,,http://www.lapoliciaca.com/nota-roja/mato-a-la-madre-de-su-hijo-y-su-hermano-le-ayudo-a-deshacerse-del-cadaver/
-Estado de México,Toluca,2017-06-16T02:08:02-07:00,0586,,http://www.lapoliciaca.com/nota-roja/hallan-muerto-a-bebe-recien-nacido-en-un-contenedor-de-basura/
-Aguascalientes,Asientos,2017-06-15T20:43:52-07:00,0587,,http://www.lapoliciaca.com/nota-roja/violo-a-su-hija-de-tan-solo-ocho-meses-de-edad-ya-fue-sentenciado/
-Estado de México,Nezahualcóyotl,2017-06-15T20:30:28-07:00,0588,,http://www.lapoliciaca.com/nota-roja/presunto-violador-y-asesino-de-la-nina-valeria-se-suicido-no-fue-violado-asegura-la-fiscalia/
-Puebla,Puebla,2017-06-15T11:37:18-07:00,0589,,http://www.lapoliciaca.com/nota-roja/adolescente-embarazada-es-violada-en-su-casa-por-cuatro-sujetos/
-Estado de México,Ecatzingo,2017-06-15T10:51:40-07:00,0590,ASESINATO,http://www.lapoliciaca.com/nota-roja/disputa-de-herencia-familiar-deja-5-muertos-y-dos-heridos/
- Estado de México,Nezahualcóyotl,2017-06-15T07:18:20-07:00,0591,ASESINATO,http://www.lapoliciaca.com/nota-roja/encuentran-muerto-en-su-celda-a-presunto-violador-y-asesino-de-la-nina-valeria/
-Baja California,Tijuana,2017-06-15T06:36:08-07:00,0592,,http://www.lapoliciaca.com/nota-roja/enloquecido-sujeto-apunala-a-expareja-y-a-los-tres-hijos-de-la-mujer-muere-un-bebe/
-Tamaulipas,Matamoros,2017-06-15T04:54:53-07:00,0593,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-y-tiro-su-cadaver-a-un-rio-despues-intento-asesinar-a-su-hija-recien-nacida/
-Tabasco,Centro,2017-06-15T04:44:24-07:00,0594,,http://www.lapoliciaca.com/nota-roja/el-precio-de-la-belleza-muere-en-su-casa-tras-realizarse-una-liposuccion/
-Puebla,Puebla,2017-06-15T04:11:00-07:00,0595,ASALTO,http://www.lapoliciaca.com/nota-roja/recluso-se-quita-la-vida-tras-ser-violado-por-otros-reos/
-Chihuahua,Ciudad Juárez,2017-06-15T02:37:47-07:00,0596,ASESINATO,http://www.lapoliciaca.com/nota-roja/mataron-a-su-companera-de-trabajo-porque-se-nego-a-tener-relaciones-con-ellos/
-Tabasco,Huimanguillo,2017-06-14T14:06:10-07:00,0597,SECUESTRO,http://www.lapoliciaca.com/nota-roja/intentan-robar-cadaveres-de-una-morgue-los-cachan-y-huyen/
-Guerrero,Chilpancingo,2017-06-14T13:10:49-07:00,0598,DISPAROS,http://www.lapoliciaca.com/nota-roja/encuentran-a-dos-mujeres-ejecutadas-en-guerrero/
-Estado de México,Nezahualcóyotl,2017-06-14T09:59:29-07:00,0599,ASESINATO,http://www.lapoliciaca.com/nota-roja/video-capto-momento-en-que-menor-violada-y-asesinada-subio-a-combi-video/
-Colombia,Cali,2017-06-14T09:40:41-07:00,0600,SECUESTRO,http://www.lapoliciaca.com/nota-roja/detienen-a-modelo-y-conductora-de-tv-por-secuestro-video/
-Baja California Sur,San José del Cabo,2017-06-14T00:39:17-07:00,0602,,http://www.lapoliciaca.com/nota-roja/nino-de-5-anos-atestigua-la-muerte-de-su-padre/
-Puebla,Puebla,2017-06-13T23:57:55-07:00,0603,ASESINATO:SECUESTRO,http://www.lapoliciaca.com/nota-roja/yuridia-la-mujer-que-fue-estrangulada-y-tirada-en-una-barranca-junto-al-cadaver-de-un-perro/
-Jalisco,Tepatitlán,2017-06-13T20:58:39-07:00,0604,,http://www.lapoliciaca.com/nota-roja/muere-nino-aplastado-por-una-estufa/
-San Luis Potosí,Tamazunchale,2017-06-13T19:49:06-07:00,0606,,http://www.lapoliciaca.com/nota-roja/hallan-asesinada-a-estudiante-de-16-anos-reportada-desaparecida/
-Chihuahua,Ciudad Juárez,2017-06-13T09:28:19-07:00,0607,,http://www.lapoliciaca.com/nota-roja/le-arranco-parte-del-labio-a-su-esposa-porque-le-nego-un-besito-de-buenas-noches/
-Chiapas,Oxchuc,2017-06-13T08:40:10-07:00,0608,,http://www.lapoliciaca.com/nota-roja/a-sus-11-anos-de-edad-la-pequena-leticia-decidio-quitarse-la-vida/
-Estado de México,Chimalhuacán,2017-06-13T06:14:20-07:00,0609,,http://www.lapoliciaca.com/nota-roja/mato-a-su-vecina-por-un-chisme/
-Guerrero,Chilpancingo,2017-06-13T04:48:17-07:00,0610,ASESINATO,http://www.lapoliciaca.com/nota-roja/atestigua-asesinato-y-muere-de-la-impresion/
-Coahuila,Torreón,2017-06-13T01:23:28-07:00,0611,,http://www.lapoliciaca.com/nota-roja/asesinan-a-joven-mujer-y-abandonan-su-cadaver-semidesnudo-en-plena-calle/
-Morelos,Cuernavaca,2017-06-12T18:59:33-07:00,0612,DISPAROS,http://www.lapoliciaca.com/nota-roja/mato-a-su-padre-golpeador-para-defender-a-su-madre/
-Guanajuato,Irapuato,2017-06-12T11:12:36-07:00,0613,,http://www.lapoliciaca.com/nota-roja/justicieros-le-cortan-las-orejas-a-dos-supuestos-ladrones/
-Veracruz,Amatitlán,2017-06-12T09:45:05-07:00,0614,,http://www.lapoliciaca.com/nota-roja/golpea-a-su-ex-mujer-huye-de-personas-que-lo-querian-linchar-y-muere/
-Morelos,Cuernavaca,2017-06-12T08:22:37-07:00,0616,,http://www.lapoliciaca.com/nota-roja/mato-a-hachazos-a-su-esposo-tras-una-discusion/
-Guerrero,Igualapa,2017-06-12T07:55:21-07:00,0617,,http://www.lapoliciaca.com/nota-roja/muere-por-comer-tamales-de-pollo-diez-mas-resultaron-intoxicados/
-Puebla,Amozoc,2017-06-12T07:19:56-07:00,0618,ASESINATO:ASALTO,http://www.lapoliciaca.com/nota-roja/sujeto-viola-golpea-y-deguella-a-su-hijastra-de-cinco-anos-con-el-consentimiento-de-la-madre/
-Baja California,Tijuana,2017-06-12T06:03:30-07:00,0619,,http://www.lapoliciaca.com/nota-roja/ya-cayo-sujeto-que-quemo-y-mato-a-su-esposa/
-Veracruz,Xalapa,2017-06-12T03:20:04-07:00,0620,,http://www.lapoliciaca.com/nota-roja/aborto-a-su-bebe-de-ocho-meses-de-gestacion-y-lo-mato-de-una-punalada-en-el-corazon/
-Hidalgo,Pachuca,2017-06-11T20:24:31-07:00,0621,,http://www.lapoliciaca.com/nota-roja/le-pone-fin-a-su-infierno-mata-a-su-esposo-infiel-y-se-suicida/
-Estado de México,Nezahualcóyotl,2017-06-11T16:13:44-07:00,0624,,http://www.lapoliciaca.com/nota-roja/esto-me-paso-porque-mi-patrona-me-dejo-morir/
-San Luis Potosí,Rioverde,2017-06-10T07:53:18-07:00,0625,,http://www.lapoliciaca.com/nota-roja/detienen-a-profesora-acusada-de-violar-a-su-alumna-menor-de-edad/
-Estado de México,Ecatepec,2017-06-10T07:25:28-07:00,0626,,http://www.lapoliciaca.com/nota-roja/difunden-video-del-asesinato-de-un-hombre-lo-mato-el-amante-de-su-ex-esposa/
-Veracruz,Huatusco,2017-06-10T06:41:43-07:00,0627,ASESINATO,http://www.lapoliciaca.com/nota-roja/adolescente-de-16-anos-fue-asesinada-por-su-pareja-estaba-embarazada/
-San Luis Potosí,Ciudad Fernández,2017-06-10T06:04:36-07:00,0628,,http://www.lapoliciaca.com/nota-roja/mato-a-un-hombre-porque-le-contaron-que-este-era-el-amante-su-esposa/
-Jalisco,Tlaquepaque,2017-06-10T05:37:31-07:00,0629,,http://www.lapoliciaca.com/nota-roja/desquiciado-sujeto-ataca-a-su-familia-y-mata-a-dos-de-sus-hijos/
-Estado de México,Nezahualcóyotl,2017-06-10T04:55:23-07:00,0630,,http://www.lapoliciaca.com/nota-roja/alumna-de-secundaria-fue-violada-y-asesinada-a-bordo-de-una-combi/
-Puebla,Puebla,2017-06-09T06:41:55-07:00,0632,SECUESTRO,http://www.lapoliciaca.com/nota-roja/casi-mueren-linchados-por-chistositos/
-Veracruz,Acayucan,2017-06-09T05:22:52-07:00,0633,,http://www.lapoliciaca.com/nota-roja/amor-de-madre-murio-por-salvar-a-sus-hijos/
-Estado de México,Tlalnepantla,2017-06-09T04:01:23-07:00,0634,,http://www.lapoliciaca.com/nota-roja/berrinche-le-costo-la-vida-a-empleado-de-un-banco-que-fue-despedido/
-Puebla,Puebla,2017-06-09T03:28:56-07:00,0635,,http://www.lapoliciaca.com/nota-roja/si-no-eres-mia-no-seras-de-nadie/
-Nayarit,Tecuala,2017-06-08T21:09:11-07:00,0636,DISPAROS,http://www.lapoliciaca.com/nota-roja/tu-papa-acaba-de-matar-a-tu-mama/
-Hidalgo,Mineral de la Reforma,2017-06-08T18:35:15-07:00,0638,,http://www.lapoliciaca.com/nota-roja/mata-a-su-esposo-no-aguanta-la-pena-y-se-suicida-de-un-tiro/
-Estado de México,Ecatepec,2017-06-08T17:08:13-07:00,0639,,http://www.lapoliciaca.com/nota-roja/pierde-la-vida-tragicamente-por-intentar-ganarle-el-paso-a-un-autobus/
-Puebla,Tulcingo de Valle,2017-06-08T06:58:06-07:00,0641,DISPAROS:ASESINATO,http://www.lapoliciaca.com/nota-roja/aurora-de-20-anos-fue-degollada-presuntamente-por-su-esposo-tras-descubrir-infidelidad/
-Puebla,Puebla,2017-06-08T03:42:13-07:00,0642,,http://www.lapoliciaca.com/nota-roja/encuentran-cuerpo-de-bebe-recien-nacido-lo-devoraron-los-perros/
-Nuevo León,Escobedo,2017-06-07T21:33:00-07:00,0644,SECUESTRO:DISPAROS,http://www.lapoliciaca.com/nota-roja/en-un-descuido-de-sus-secuestradores-los-mata-y-logra-escapar/
-Puebla,Tehuacán,2017-06-07T20:42:46-07:00,0645,,http://www.lapoliciaca.com/nota-roja/mi-hijo-era-inocente-madre-de-ladron-que-fue-linchado-y-quemado-vivo/
-Coahuila,Castaños,2017-06-07T20:12:20-07:00,0646,,http://www.lapoliciaca.com/nota-roja/tres-ninos-de-4-6-y-9-anos-fueron-violados-por-su-vecino-otro-nino-de-12/
-Baja California,Tijuana,2017-06-07T18:45:08-07:00,0647,,http://www.lapoliciaca.com/nota-roja/violo-a-su-hijastra-de-2-anos-y-grabo-los-hechos-en-video/
-Coahuila,Saltillo,2017-06-07T17:28:50-07:00,0648,,http://www.lapoliciaca.com/nota-roja/nino-de-10-anos-se-quita-la-vida-porque-sus-padres-lo-reganaron-y-le-quitaron-su-celular/
-Tabasco,Villahermosa,2017-06-07T16:39:10-07:00,0649,ASESINATO,http://www.lapoliciaca.com/nota-roja/asesinan-a-mujer-y-le-desfiguran-el-rostro/
-Chiapas,Reforma,2017-06-07T07:08:01-07:00,0650,,http://www.lapoliciaca.com/nota-roja/le-cerceno-las-manos-a-su-esposa-y-luego-la-asesino-de-un-machetazo/
-San Luis Potosí,San Luis Potosí,2017-06-07T06:04:07-07:00,0651,,http://www.lapoliciaca.com/nota-roja/pierde-todo-en-el-casino-incluyendo-su-vida/
-Oaxaca,Tuxtepec,2017-06-07T05:31:51-07:00,0652,,http://www.lapoliciaca.com/nota-roja/llego-borracho-a-su-casa-y-lo-mato-su-marrano/
-Estado de México,Nicolás Romero,2017-06-07T02:53:53-07:00,0803,,http://www.lapoliciaca.com/nota-roja/graban-a-mujeres-policias-desgrenandose-en-plena-via-publica-video/
-Estado de México,Tultepec,2017-06-07T02:52:21-07:00,0805,,http://www.lapoliciaca.com/nota-roja/mueren-al-menos-29-personas-y-quedan-70-heridas-tras-explosion-en-mercado-de-pirotecnia-video/
-Veracruz,Boca del Rio,2017-06-07T02:51:54-07:00,0806,ASALTO,http://www.lapoliciaca.com/nota-roja/ejecutan-y-le-cortan-las-manos-y-pies-a-presunto-delincuente-video/
-San Luis Potosí,La Joya,2017-06-07T02:51:29-07:00,0808,,http://www.lapoliciaca.com/nota-roja/queria-ganar-la-chiva-de-los-10-mil-pesos-en-los-quince-anos-de-rubi-y-encontro-la-muerte-video/
-Estado de México,Toluca,2017-06-07T02:51:19-07:00,0809,,http://www.lapoliciaca.com/nota-roja/graban-momento-en-que-trailer-arrolla-a-personas-en-autopista-mexico-toluca-video/
-Chihuahua,Ciudad Juárez,2017-06-07T02:51:04-07:00,0810,ASALTO,http://www.lapoliciaca.com/nota-roja/muere-bebe-que-nacio-con-dos-cabezas-en-ciudad-juarez-video/
-Tabasco,Comalcalco,2017-06-07T02:50:41-07:00,0812,,http://www.lapoliciaca.com/nota-roja/sorprenden-a-sujeto-violando-a-un-nino-en-los-banos-de-un-supermercado-video/
-Estado de México,Nezahualcóyotl,2017-06-07T02:40:03-07:00,0813,,http://www.lapoliciaca.com/nota-roja/captan-enfrentamiento-entre-policias-y-delincuentes-que-dejo-cinco-muertos-video/
-Estado de México,Ecatepec,2017-06-07T02:27:28-07:00,0837,,http://www.lapoliciaca.com/nota-roja/estudiantes-se-pelean-afuera-de-la-secundaria-y-uno-termina-atropellado-video/
-Guanajuato,León,2017-06-07T02:27:19-07:00,0838,,http://www.lapoliciaca.com/nota-roja/comerciantes-detienen-golpean-y-le-cortan-el-cabello-a-presunta-ladrona-video/
-Tlaxcala,Xicohtzinco,2017-06-07T02:27:04-07:00,0839,,http://www.lapoliciaca.com/nota-roja/madre-da-golpiza-a-estudiante-que-supuestamente-agredio-a-su-hija-video/
-Chiapas,Tuxtla Gutiérrez,2017-06-07T02:26:52-07:00,0840,,http://www.lapoliciaca.com/nota-roja/golpea-y-arrastra-a-su-esposa-ella-lo-perdona-y-sale-libre-video/
-Puebla,Puebla,2017-06-07T02:26:40-07:00,0841,,http://www.lapoliciaca.com/nota-roja/vas-a-ser-mia-o-aqui-te-vas-a-morir-video/
-Estado de México,Ecatepec,2017-06-07T02:26:25-07:00,0842,,http://www.lapoliciaca.com/nota-roja/capta-camara-de-seguridad-tragico-accidente-video/
-Chiapas,Tuxtla Gutiérrez,2017-06-07T02:24:20-07:00,0843,,http://www.lapoliciaca.com/nota-roja/exhiben-a-sujeto-abusando-de-una-nina-en-un-bar-video/
-Querétaro,Querétaro,2017-06-07T02:24:07-07:00,0844,,http://www.lapoliciaca.com/nota-roja/empleados-de-una-taqueria-someten-y-golpean-a-una-mujer-video/
-Querétaro,Querétaro,2017-06-07T02:23:44-07:00,0846,,http://www.lapoliciaca.com/nota-roja/solamente-hay-una-vida-le-dijo-a-su-ex-esposa-y-luego-la-asesino-a-balazos-video/
-Nayarit,Tepic,2017-06-07T02:23:18-07:00,0848,,http://www.lapoliciaca.com/nota-roja/hombre-entra-a-iglesia-con-todo-y-su-vehiculo-y-pasea-desnudo-con-sus-perras-video/
-Estado de México,Naucalpan,2017-06-07T02:23:06-07:00,0849,,http://www.lapoliciaca.com/nota-roja/intentan-linchar-a-joven-por-presunto-ataque-sexual-y-robo-video/
-Guerrero,Zihuatanejo,2017-06-07T02:22:27-07:00,0852,,http://www.lapoliciaca.com/nota-roja/ejecutan-y-calcinan-a-tres-policias-federales-video/
-Jalisco,Zapopan,2017-06-07T02:22:10-07:00,0853,,http://www.lapoliciaca.com/nota-roja/muere-jovencita-por-cruzar-la-calle-de-manera-imprudente-video/
-Quintana Roo,Playa del Carmen,2017-06-07T02:17:11-07:00,0855,,http://www.lapoliciaca.com/nota-roja/balacera-en-discoteca-de-playa-del-carmen-deja-5-muertos-y-15-lesionados-video/
-Nuevo León,Monterrey,2017-06-07T02:16:59-07:00,0856,,http://www.lapoliciaca.com/nota-roja/joven-agresor-presumio-el-arma-antes-de-disparar-en-escuela-de-monterrey/
-Nayarit,Tepic,2017-06-07T02:16:27-07:00,0858,,http://www.lapoliciaca.com/nota-roja/reportan-enfrentamiento-entre-marina-y-delincuentes-en-nayarit-video/
-Estado de México,Chimalhuacán,2017-06-07T02:15:55-07:00,0860,DISPAROS,http://www.lapoliciaca.com/nota-roja/balea-a-su-vecino-por-un-pleito-iniciado-por-mujeres-video/
-Chihuahua,Ciudad Juárez,2017-06-07T02:15:42-07:00,0861,,http://www.lapoliciaca.com/nota-roja/video-revela-muerte-de-detenido-en-estacion-de-policia-video/
-Puebla,Tehuacán,2017-06-07T02:15:30-07:00,0862,,http://www.lapoliciaca.com/nota-roja/mujer-se-arroja-al-paso-del-tren-y-termina-con-el-brazo-aplastado-ya-no-me-quiere-dijo/
- Estado de México,Atizapán de Zaragoza,2017-06-07T02:15:15-07:00,0863,,http://www.lapoliciaca.com/nota-roja/para-defender-a-su-hija-golpea-a-nina-de-15-anos-video/
-Quintana Roo,Playa del Carmen,2017-06-07T02:13:53-07:00,0864,,http://www.lapoliciaca.com/nota-roja/encuentra-a-ladron-en-su-casa-lo-golpea-y-transmite-todo-en-vivo-video/
-Nuevo León,Monterrey,2017-06-07T02:11:43-07:00,0865,SECUESTRO,http://www.lapoliciaca.com/nota-roja/exhiben-abusos-a-reclusos-del-penal-del-topo-chico-video/
-Nuevo León,Monterrey,2017-06-07T02:11:29-07:00,0866,DISPAROS,http://www.lapoliciaca.com/nota-roja/muere-maestra-que-fue-atacada-por-alumno-en-colegio-de-monterrey/
-Chihuahua,Ciudad Juárez,2017-06-07T02:10:54-07:00,0867,,http://www.lapoliciaca.com/nota-roja/abate-policia-encubierto-a-un-asaltante-en-tienda-oxxo-video/
-Puebla,Puebla,2017-06-07T02:10:29-07:00,0868,,http://www.lapoliciaca.com/nota-roja/torpe-ladron-mata-de-un-balazo-en-la-cabeza-a-su-complice-video/
-Estado de México,Chalco,2017-06-07T02:10:16-07:00,0869,,http://www.lapoliciaca.com/nota-roja/chofer-de-autobus-atropella-a-jovencito-recoge-pasaje-y-se-da-a-la-fuga-video/
-Puebla,Puebla,2017-06-07T02:08:55-07:00,0870,ASALTO:DISPAROS,http://www.lapoliciaca.com/nota-roja/difunden-video-del-momento-en-que-militares-ejecutan-a-un-civil-en-puebla-video/
-Tabasco,Cárdenas,2017-06-07T02:08:44-07:00,0871,,http://www.lapoliciaca.com/nota-roja/difunden-brutal-agresion-de-un-alumno-a-su-maestro-todo-porque-lo-reprobo-video/
-Jalisco,Guadalajara,2017-06-07T02:07:57-07:00,0872,,http://www.lapoliciaca.com/nota-roja/sorprenden-robando-a-dos-mujeres-las-trasquilan-y-las-golpean-video/
-Yucatán,Peto,2017-06-06T20:12:41-07:00,0874,ASESINATO,http://www.lapoliciaca.com/nota-roja/estudiante-asesina-a-su-novia-la-tira-en-una-cueva-y-luego-confiesa-el-crimen-a-su-padre/
-Guerrero,Tixtla,2017-06-06T19:40:33-07:00,0875,,http://www.lapoliciaca.com/nota-roja/policias-de-guerrero-matan-a-hombre-frente-a-su-familia-lo-hacen-pasar-por-narco/
-Puebla,Tehuacán,2017-06-06T19:40:17-07:00,0876,,http://www.lapoliciaca.com/nota-roja/linchan-y-queman-vivo-a-sujeto-que-presumia-en-facebook-su-carrera-criminal/
-Veracruz,Veracruz,2017-06-06T19:40:03-07:00,0877,,http://www.lapoliciaca.com/nota-roja/mujer-abandona-a-bebe-de-ocho-meses-de-gestacion-dentro-de-una-bolsa-murio-asfixiado/
-Tamaulipas,Ciudad Victoria,2017-06-06T18:13:41-07:00,0879,,http://www.lapoliciaca.com/nota-roja/captan-impresionante-balacera-dentro-del-penal-de-ciudad-victoria-video/
-Zacatecas,Tepechitlán,2017-06-06T05:59:02-07:00,0880,,http://www.lapoliciaca.com/nota-roja/se-ahogan-tres-hombres-en-una-presa-al-tratar-de-rescatar-a-un-menor/
-Sonora,Nogales,2017-06-06T05:36:47-07:00,0881,DISPAROS,http://www.lapoliciaca.com/nota-roja/mata-a-su-esposa-y-despues-se-suicida-delante-de-sus-hijos/
-Sonora,Cananea,2017-06-06T03:12:45-07:00,0882,,http://www.lapoliciaca.com/nota-roja/a-mi-nina-a-mi-nina-salven-a-mi-nina/
-Estado de México,Naucalpan,2017-06-05T21:08:08-07:00,0883,ASESINATO,http://www.lapoliciaca.com/nota-roja/le-costo-la-vida-meterse-con-una-mujer-casada/
-Oaxaca,Oaxaca,2017-06-05T21:08:02-07:00,0884,,http://www.lapoliciaca.com/nota-roja/hallan-cabeza-de-mujer-tirada-en-la-via-publica/
-Brasil,Minas Gerais,2017-06-05T07:28:37-07:00,0886,,http://www.lapoliciaca.com/nota-roja/desenterro-a-su-hermano-fallecido-y-lo-llevo-a-dar-un-paseo-en-bicicleta-video/
-Coahuila,Monclova,2017-06-05T04:22:06-07:00,0887,,http://www.lapoliciaca.com/nota-roja/dice-adios-a-su-esposa-le-da-un-beso-y-luego-se-suicida/
-Puebla,Puebla,2017-06-05T02:06:46-07:00,0889,,http://www.lapoliciaca.com/nota-roja/le-costo-la-vida-enamorarse-de-un-asesino/
-Baja California,Mexicali,2017-06-05T02:05:21-07:00,0891,,http://www.lapoliciaca.com/nota-roja/mujer-se-quita-la-vida-frente-a-las-tumbas-de-sus-familiares/
-Jalisco,Tlajomulco de Zúñiga,2017-06-05T02:05:03-07:00,0892,,http://www.lapoliciaca.com/nota-roja/hallan-el-cadaver-desnudo-de-una-mujer-cubierto-con-una-bolsa-negra/
-Guerrero,Acapulco,2017-06-05T01:45:40-07:00,0893,,http://www.lapoliciaca.com/nota-roja/muere-mientras-sostenia-relaciones-con-dos-mujeres/
-Guerrero,Chilpancingo,2017-06-02T21:01:25-07:00,0894,,http://www.lapoliciaca.com/nota-roja/ejecutan-a-balazos-a-joven-mujer-en-calles-de-chilpancingo/
-Chihuahua,Camargo,2017-06-02T18:08:37-07:00,0896,,http://www.lapoliciaca.com/nota-roja/violan-ninos-de-primero-de-primaria-a-su-companero-de-clases/
-Aguascalientes,Pabellón de Arteaga,2017-06-01T20:15:33-07:00,0899,,http://www.lapoliciaca.com/nota-roja/enloquecio-y-le-quito-la-vida-a-su-madre-y-a-su-hermanito-de-3-anos/
-Coahuila,Ramos Arizpe,2017-06-01T18:33:01-07:00,0900,,http://www.lapoliciaca.com/nota-roja/tenia-apenas-seis-anitos-la-mato-a-golpes-su-madre-adoptiva/
-Tamaulipas,Matamoros,2017-06-01T14:44:10-07:00,0901,,http://www.lapoliciaca.com/nota-roja/se-suicida-y-deja-mensaje-para-su-esposa-escrito-con-su-propia-sangre/
-Estados Unidos,California,2017-06-01T05:12:12-07:00,0902,,http://www.lapoliciaca.com/nota-roja/detienen-en-colima-a-sujeto-que-mato-a-su-exnovia-en-los-angeles-california/
-San Luis Potosí,Ciudad Valles,2017-06-01T04:30:34-07:00,0903,,http://www.lapoliciaca.com/nota-roja/se-suicido-joven-deprimido-por-la-muerte-su-mascota/
-Michoacán,Zitácuaro,2017-06-01T04:10:32-07:00,0904,,http://www.lapoliciaca.com/nota-roja/su-madre-queria-que-se-rehabilitara-por-eso-la-asesino/
-Guerrero,Chilapa,2017-05-31T21:49:41-07:00,0905,ASALTO,http://www.lapoliciaca.com/nota-roja/descuartizan-a-sujeto-y-tiran-sus-restos-dentro-de-una-telesecundaria-y-en-horario-de-clases/
-Veracruz,Cuitláhuac,2017-05-31T20:50:52-07:00,0906,ASESINATO,http://www.lapoliciaca.com/nota-roja/matan-a-mujer-y-a-su-hija-de-17-anos-en-un-restaurante/
-Puebla,Cholula,2017-05-31T20:22:50-07:00,0907,,http://www.lapoliciaca.com/nota-roja/apunala-a-su-esposa-y-se-suicida-un-dia-antes-de-que-esta-falleciera/
-Estado de México,Almoloya De Juárez,2017-05-31T16:03:57-07:00,0908,DISPAROS,http://www.lapoliciaca.com/nota-roja/jovencita-de-15-anos-se-suicida-de-un-disparo-mientras-cuidaba-a-sus-hermanos/
-Nuevo León,Cadereyta,2017-05-31T01:32:19-07:00,0909,ASALTO,http://www.lapoliciaca.com/nota-roja/asi-es-la-vida-ahora-de-diego-santoy-el-asesino-de-cumbres/
-Morelos,Cuautla,2017-05-31T01:25:20-07:00,0910,ASESINATO,http://www.lapoliciaca.com/nota-roja/mato-a-su-esposo-porque-la-encontro-en-la-cama-con-otro-hombre/
-Puebla,Puebla,2017-05-30T14:25:52-07:00,0911,ASALTO,http://www.lapoliciaca.com/nota-roja/reo-mata-su-pareja-en-visita-conyugal-porque-la-mujer-le-anuncio-su-separacion/
-Puebla,San Martín Texmelucan,2017-05-30T04:07:38-07:00,0912,:SECUESTRO,http://www.lapoliciaca.com/nota-roja/capturan-a-banda-que-mato-a-bebe-y-violo-a-dos-mujeres/
-Nayarit,Tepic,2017-05-29T21:39:55-07:00,0913,,http://www.lapoliciaca.com/nota-roja/mujeres-mueren-tragicamente-cuando-celebraban-el-triunfo-de-chivas/
-Coahuila,Saltillo,2017-05-29T20:56:02-07:00,0914,,http://www.lapoliciaca.com/nota-roja/mujer-mata-a-su-hija-al-obligarla-a-tomar-medicamento/
-Guanajuato,Comonfort,2017-05-29T19:14:01-07:00,0916,ASESINATO,http://www.lapoliciaca.com/nota-roja/nina-de-14-anos-salio-a-pasear-con-una-amiga-y-dos-hombres-y-desaparecio-la-hallan-asesinada/
-Guerrero,Chilpancingo,2017-05-29T18:17:21-07:00,0917,,http://www.lapoliciaca.com/nota-roja/ejecutan-a-mujer-y-le-dejan-narcomensaje/
-Coahuila,Saltillo,2017-05-29T15:45:19-07:00,0918,,http://www.lapoliciaca.com/nota-roja/seminarista-tomo-alcohol-con-unos-amigos-se-quedo-dormido-y-fue-violado/
-Puebla,Atlixco,2017-05-29T14:18:34-07:00,0919,ASALTO,http://www.lapoliciaca.com/nota-roja/nina-delata-a-su-padre-ahorco-y-enterro-a-su-madre-en-el-patio-de-su-casa/
-Aguascalientes,Asientos,2017-05-29T13:07:14-07:00,0920,,http://www.lapoliciaca.com/nota-roja/discutio-con-su-suegra-y-la-asesino-luego-le-prendio-fuego-al-cadaver/
-Estado de México,Cuautitlán Izcalli,2017-05-29T03:35:03-07:00,0921,,http://www.lapoliciaca.com/nota-roja/les-cortan-las-manos-y-les-sacan-los-ojos/
+Durango,Tlahualilo,2018-11-20T16:47:58-07:00,0001,,https://www.lapoliciaca.com/nota-roja/adolescente-mata-a-anciano-porque-le-hizo-propuestas-indecorosas/
+Coahuila,Ramos Arizpe,2018-11-19T09:31:17-07:00,0002,,https://www.lapoliciaca.com/nota-roja/no-soporto-mas-enganos-de-su-marido-infiel-y-se-quita-la-vida/
+Estado de México,Toluca,2018-11-19T08:41:26-07:00,0003,DISPAROS,https://www.lapoliciaca.com/nota-roja/muere-de-un-infarto-hector-beltran-leyva/
+Puebla,San Andrés Cholula,2018-11-17T17:56:02-07:00,0004,,https://www.lapoliciaca.com/nota-roja/se-acosto-con-la-novia-de-su-amigo-y-termino-muerto/
+Chihuahua,Chihuahua,2018-11-17T17:51:36-07:00,0005,,https://www.lapoliciaca.com/nota-roja/turista-estadounidense-fue-privado-de-la-vida-al-encontrarse-con-una-fiesta-de-malandros/
+Tamaulipas,Matamoros,2018-11-16T19:12:41-07:00,0007,,https://www.lapoliciaca.com/nota-roja/apunala-a-joven-por-supuestamente-subir-al-facebook-fotos-de-su-novia-sin-ropa/
+Veracruz,Tepetlán,2018-11-16T19:09:22-07:00,0008,,https://www.lapoliciaca.com/nota-roja/nina-de-10-anos-aparece-muerta-y-encostalada-flotando-en-una-laguna/
+Guanajuato,Jaral Del Progreso,2018-11-16T19:06:51-07:00,0009,,https://www.lapoliciaca.com/nota-roja/desentierran-cuerpo-de-mujer-para-violarlo/
+Estado de México,Ecatepec,2018-11-16T18:01:06-07:00,0010,,https://www.lapoliciaca.com/nota-roja/briayan-mato-a-su-mama-tras-una-discusion/
+Estado de México,Ecatepec,2018-11-16T17:23:08-07:00,0011,,https://www.lapoliciaca.com/nota-roja/asaltante-roba-a-una-mujer-justiciero-lo-sigue-y-lo-mata/
+Puebla,Puebla,2018-11-15T19:59:00-07:00,0013,,https://www.lapoliciaca.com/nota-roja/la-enamoran-por-facebook-la-graban-sosteniendo-relaciones-y-suben-el-video-a-internet/
+Estado de México,Tenancingo,2018-11-14T18:27:54-07:00,0016,,https://www.lapoliciaca.com/nota-roja/policia-municipal-mato-a-su-expareja-tras-una-discusion/
+Estado de Mexico,Acambay,2018-11-14T15:57:48-07:00,0017,,https://www.lapoliciaca.com/nota-roja/ernesto-mato-a-golpes-a-su-novia-y-luego-la-reporto-como-desaparecida/
+Estado de México,Cuautitlán,2018-11-14T14:21:42-07:00,0018,,https://www.lapoliciaca.com/nota-roja/ciudadano-desarma-a-ladron-y-lo-mata-con-la-misma-pistola/
+Estado de México,Ciudad Netzahualcóyotl,2018-11-13T20:37:09-07:00,0019,,https://www.lapoliciaca.com/nota-roja/violan-a-un-hombre-y-lo-matan/
+Yucatán,Felipe Carrillo Puerto,2018-11-13T14:55:29-07:00,0021,,https://www.lapoliciaca.com/nota-roja/se-despide-de-su-pareja-por-facebook-y-luego-se-suicida/
+Tamaulipas,Altamira,2018-11-12T17:21:13-07:00,0022,,https://www.lapoliciaca.com/nota-roja/la-muerte-les-cayo-del-cielo/
+Coahuila,Torreón,2018-11-12T17:19:14-07:00,0023,,https://www.lapoliciaca.com/nota-roja/erik-el-pequeno-monstruo-que-mato-a-una-jovencita-de-19-anos/
+Durango,Guanaceví,2018-11-09T19:01:09-07:00,0026,,https://www.lapoliciaca.com/nota-roja/dejo-a-su-hijo-de-3-anos-solo-en-casa-al-regresar-lo-hallo-muerto/
+Coahuila,Saltillo,2018-11-09T18:12:58-07:00,0027,,https://www.lapoliciaca.com/nota-roja/se-cuelga-con-audifonos-por-haber-reprobado-examen/
+Estado de México,Nezahualcóyotl,2018-11-08T14:18:34-07:00,0029,DISPAROS,https://www.lapoliciaca.com/nota-roja/pasa-la-noche-con-una-mujer-en-un-hotel-al-amanecer-se-suicida/
+Estado de México,Nezahualcóyotl,2018-11-07T16:43:41-07:00,0030,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-estudiante-que-acudio-a-una-fiesta-de-halloween-y-desaparecio/
+Puebla,Puebla,2018-11-07T15:27:29-07:00,0031,,https://www.lapoliciaca.com/nota-roja/matan-a-joven-estudiante-y-su-hermano-al-defenderse-en-un-asalto-video/
+Guerrero,Cuajinicuilapa,2018-11-06T15:28:43-07:00,0032,,https://www.lapoliciaca.com/nota-roja/mato-a-brujo-porque-le-quedo-mal-con-un-trabajo-de-brujeria/
+Sinaloa,Mocorito,2018-11-06T15:26:10-07:00,0034,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-maestra-de-bachilleres-reportada-desaparecida/
+Tabasco,Villahermosa,2018-11-06T15:06:44-07:00,0035,,https://www.lapoliciaca.com/nota-roja/mato-a-su-mujer-y-luego-se-colgo-de-un-arbol/
+Estado de México,Chalco,2018-11-06T14:22:06-07:00,0036,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-adolescente-reportada-desaparecida/
+Guerrero,Iguala,2018-11-04T13:03:43-07:00,0037,,https://www.lapoliciaca.com/nota-roja/matan-a-cuatro-personas-cuando-reclamaban-el-cuerpo-de-un-familiar-en-el-semefo/
+Estado de México,Chalco,2018-10-31T16:55:51-07:00,0038,,https://www.lapoliciaca.com/nota-roja/hallan-violada-y-privada-de-la-vida-a-una-joven-estudiante/
+Puebla,Chiconcuautla,2018-10-31T15:46:56-07:00,0039,SECUESTRO,https://www.lapoliciaca.com/nota-roja/tias-secuestraron-y-mataron-a-nina-de-6-anos/
+Tabasco,Villahermosa,2018-10-31T15:28:29-07:00,0040,SECUESTRO,https://www.lapoliciaca.com/nota-roja/mata-a-tres-mujeres-hiere-a-una-mas-e-intenta-robarse-a-un-menor/
+Michoacán,Morelia,2018-10-30T09:26:40-07:00,0041,,https://www.lapoliciaca.com/nota-roja/pierde-la-vida-por-unas-palomitas-de-maiz/
+Puebla,Tehuacán,2018-10-16T15:36:15-07:00,0042,,https://www.lapoliciaca.com/nota-roja/mujer-mato-a-su-amante-porque-iba-a-dejarla/
+Nuevo León,Montemorelos,2018-10-10T12:12:37-07:00,0043,,https://www.lapoliciaca.com/nota-roja/mata-a-su-amigo-despues-de-violar-a-la-esposa/
+Estado de México,Ecatepec,2018-10-09T18:52:54-07:00,0044,,https://www.lapoliciaca.com/nota-roja/prefiero-que-mis-perritos-se-coman-la-carne-a-que-ellas-sigan-respirando-mi-oxigeno-video/
+Yucatán,Mérida,2018-10-08T18:17:38-07:00,0045,,https://www.lapoliciaca.com/nota-roja/mato-a-su-pareja-de-16-anos-y-dejo-el-cuerpo-en-un-terreno-baldio-video/
+Estado de México,Ecatepec,2018-10-07T17:16:28-07:00,0046,,https://www.lapoliciaca.com/nota-roja/mataron-y-cortaron-en-pedazos-a-por-lo-menos-10-mujeres-las-engancharon-por-internet/
+Oaxaca,Santiago Cacaloxtepec,2018-10-06T18:16:12-07:00,0047,ASALTO,https://www.lapoliciaca.com/nota-roja/acudio-con-brujo-para-saber-quien-le-habia-robado-una-memoria-usb-y-termino-violada/
+Durango,Durango,2018-10-05T21:44:28-07:00,0048,,https://www.lapoliciaca.com/nota-roja/dejo-que-su-pareja-violara-y-matara-a-su-bebe/
+Guerrero,Iguala,2018-10-05T19:41:30-07:00,0049,,https://www.lapoliciaca.com/nota-roja/mata-a-su-amigo-lo-hace-pedazos-y-lo-ofrenda-al-diablo/
+Quintana Roo,Playa del Carmen,2018-10-05T08:34:22-07:00,0050,,https://www.lapoliciaca.com/nota-roja/metio-en-la-cajuela-de-su-auto-a-su-novia-tras-una-pelea/
+Tamaulipas,Nuevo Laredo,2018-10-05T08:28:23-07:00,0051,,https://www.lapoliciaca.com/nota-roja/mataron-a-su-bebe-de-45-dias-de-nacida/
+Puebla,Puebla,2018-10-05T08:16:44-07:00,0052,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-embarazada-y-sus-dos-hijos/
+Sonora,Guaymas,2018-10-05T07:37:30-07:00,0053,,https://www.lapoliciaca.com/nota-roja/sicarios-acribillan-a-policias-municipales-en-guaymas-sonora-video/
+Puebla,Quecholac,2018-10-05T07:33:47-07:00,0054,ASALTO,https://www.lapoliciaca.com/nota-roja/captan-agresion-de-marinos-contra-pobladores-durante-operativo-antihuachicol-video/
+Veracruz,Chinameca,2018-10-05T07:28:28-07:00,0055,,https://www.lapoliciaca.com/nota-roja/mato-a-su-marido-luego-de-que-este-la-golpeara/
+Estado de México,Ecatepec,2018-10-05T07:07:52-07:00,0056,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposo-y-metio-el-cadaver-en-un-tambo/
+Guanajuato,San Miguel de Allende,2018-10-04T20:08:58-07:00,0057,,https://www.lapoliciaca.com/nota-roja/difunden-video-de-ataque-contra-esposo-de-sharis-cid-video/
+Querétaro,Corregidora,2018-10-04T18:44:51-07:00,0058,,https://www.lapoliciaca.com/nota-roja/encuentran-cadaver-de-mujer-con-un-bebe-en-brazos/
+Chihuahua,Ciudad Juárez,2018-10-03T20:09:45-07:00,0060,,https://www.lapoliciaca.com/nota-roja/ya-estoy-muerto-busquenme-en-el-semefo/
+Sonora,Hermosillo,2018-10-03T19:39:35-07:00,0061,,https://www.lapoliciaca.com/nota-roja/buscan-a-sujeto-que-se-grabo-realizando-disparos-al-aire-mientras-manejaba/
+Jalisco,Puerto Vallarta,2018-10-03T15:36:01-07:00,0062,ASALTO,https://www.lapoliciaca.com/nota-roja/dejan-cocodrilo-colgando-de-un-arbol-y-con-mensaje/
+Guanajuato,Yuriria,2018-10-02T20:45:59-07:00,0063,,https://www.lapoliciaca.com/nota-roja/madre-saco-a-su-hijo-de-un-anexo-llegan-a-casa-y-la-mata-a-golpes/
+Estado de México,Cuautitlán,2018-10-01T20:13:14-07:00,0064,,https://www.lapoliciaca.com/nota-roja/madre-mata-a-golpes-a-su-propio-hijo-de-6-meses-de-edad/
+Estado de México,Toluca,2018-10-01T18:27:16-07:00,0065,,https://www.lapoliciaca.com/nota-roja/discute-con-su-amigo-lo-mata-a-martillazos-y-se-queda-dormido/
+Tamaulipas,Tampico,2018-10-01T16:01:49-07:00,0066,,https://www.lapoliciaca.com/nota-roja/mato-a-universitaria-era-su-primo/
+Estados Unidos,Texas,2018-09-29T14:42:33-07:00,0067,,https://www.lapoliciaca.com/nota-roja/detienen-a-la-actriz-daniela-castro-por-robar-en-una-tienda/
+Veracruz,Veracruz,2018-09-28T14:57:12-07:00,0068,SECUESTRO,https://www.lapoliciaca.com/nota-roja/fue-a-una-entrevista-de-trabajo-y-desaparecio-ayer-la-encontraron-sin-vida/
+Yucatán,Kanasín,2018-09-27T13:26:37-07:00,0069,,https://www.lapoliciaca.com/nota-roja/le-descubrio-un-chupeton-a-su-esposa-de-15-anos-y-se-suicido-por-desilusion/
+Hidalgo,Tula,2018-09-26T15:33:33-07:00,0071,,https://www.lapoliciaca.com/nota-roja/se-suicida-nino-porque-sus-padres-lo-reganaron-por-no-hacer-tarea/
+Nuevo León,Monterrey,2018-09-25T11:48:20-07:00,0073,,https://www.lapoliciaca.com/nota-roja/mato-a-su-novia-embarazada-porque-pensaba-que-el-bebe-que-esperaba-no-era-suyo/
+Querétaro,Pedro Escobedo,2018-09-24T13:37:11-07:00,0074,,https://www.lapoliciaca.com/nota-roja/siguio-a-su-amado-al-otro-mundo/
+Nuevo León,Monterrey,2018-09-24T10:05:59-07:00,0075,,https://www.lapoliciaca.com/nota-roja/aficionados-de-rayados-golpean-desnudan-y-dejan-grave-a-fan-de-tigres-video/
+Durango,Mezquital,2018-09-23T15:02:06-07:00,0076,,https://www.lapoliciaca.com/nota-roja/arrolla-y-mata-a-su-bebe/
+Guanajuato,León,2018-09-22T11:05:18-07:00,0077,,https://www.lapoliciaca.com/nota-roja/ni-la-muerte-los-separo-se-fueron-juntos/
+Estado de México,Nezahualcóyotl,2018-09-22T09:51:14-07:00,0078,,https://www.lapoliciaca.com/nota-roja/padrastro-mata-a-martillazos-a-nina-de-11-anos/
+Guanajuato,Pénjamo,2018-09-22T09:31:47-07:00,0079,DISPAROS,https://www.lapoliciaca.com/nota-roja/sicarios-preguntan-por-un-joven-nadie-lo-delato-y-terminan-con-la-vida-de-cinco/
+Tamaulipas,Abasolo,2018-09-21T12:24:32-07:00,0080,,https://www.lapoliciaca.com/nota-roja/mata-a-golpes-a-su-esposa-tras-discusion-por-celos/
+San Luis Potosí ,San Luis Potosí,2018-09-21T11:48:06-07:00,0081,:DISPAROS,https://www.lapoliciaca.com/nota-roja/mato-a-una-joven-de-20-anos-por-un-loro/
+Estado de México,Toluca,2018-09-21T10:55:17-07:00,0082,,https://www.lapoliciaca.com/nota-roja/joven-es-violada-por-cinco-hombres-su-ex-novio-y-cuatro-amigos/
+Yucatán,Ticul,2018-09-21T10:26:41-07:00,0083,,https://www.lapoliciaca.com/nota-roja/muere-mujer-al-atragantarse-con-un-pedazo-de-empanada/
+Tamaulipas,Reynosa,2018-09-21T09:13:06-07:00,0084,DISPAROS,https://www.lapoliciaca.com/nota-roja/padre-disparo-a-maestro-por-haber-reganado-a-su-hija/
+Tamaulipas,Nuevo Laredo,2018-09-21T07:48:22-07:00,0086,,https://www.lapoliciaca.com/nota-roja/muere-adolescente-tras-pelear-con-sexoservidora-por-el-novio/
+Estado de México,Ecatepec,2018-09-20T13:22:45-07:00,0087,,https://www.lapoliciaca.com/nota-roja/mato-a-su-novia-tras-ir-a-celebrar-el-grito-de-independencia/
+San Luis Potosí,San Luis Potosí,2018-09-20T11:42:11-07:00,0088,,https://www.lapoliciaca.com/nota-roja/mato-a-sus-padres-con-ayuda-de-sus-amigos/
+Tabasco,Centro,2018-09-20T10:52:14-07:00,0089,,https://www.lapoliciaca.com/nota-roja/sujeto-mato-a-su-tio-por-el-amor-de-otro-hombre/
+Oaxaca,San Agustín Loxicha,2018-09-20T09:31:37-07:00,0090,,https://www.lapoliciaca.com/nota-roja/violan-y-privan-de-la-vida-a-estudiante-de-telesecundaria/
+Durango,Gómez Palacio,2018-09-20T08:34:30-07:00,0091,DISPAROS,https://www.lapoliciaca.com/nota-roja/nino-de-11-anos-se-quita-la-vida-en-vivienda-abandonada/
+San Luis Potosí,San Luis Potosí,2018-09-20T07:55:08-07:00,0092,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-y-confeso-el-crimen-a-su-hijo-poco-antes-de-huir/
+Baja California,Mexicali,2018-09-19T20:28:09-07:00,0093,,https://www.lapoliciaca.com/nota-roja/mata-a-su-ex-novia-en-un-motel-donde-acudieron-a-pasar-su-ultima-noche-video/
+Puebla,Puebla,2018-09-19T19:54:54-07:00,0094,ASALTO,https://www.lapoliciaca.com/nota-roja/nicole-pasara-35-anos-en-prision-por-matar-a-su-pareja-con-la-ayuda-de-su-amante/
+Sonora,San Luis Río Colorado,2018-09-19T10:43:09-07:00,0095,ASESINATO:DISPAROS,https://www.lapoliciaca.com/nota-roja/paga-su-entierro-en-funeraria-y-ahi-mismo-se-quita-la-vida/
+Nayarit,Tepic,2018-09-19T09:26:44-07:00,0096,,https://www.lapoliciaca.com/nota-roja/nino-de-5-anos-fue-a-comprar-un-dulce-y-termina-muerto/
+Veracruz,Tecolutla,2018-09-19T08:37:41-07:00,0097,DISPAROS,https://www.lapoliciaca.com/nota-roja/comando-armado-dispara-contra-una-familia-cuando-dormian-muere-un-nino-de-8-anos/
+Quintana Roo,Puerto Morelos,2018-09-19T07:37:48-07:00,0098,,https://www.lapoliciaca.com/nota-roja/alumno-golpea-a-su-companera-dentro-del-salon-de-clases-video/
+Tabasco,Huimanguillo,2018-09-18T09:59:26-07:00,0099,,https://www.lapoliciaca.com/nota-roja/a-machetazos-le-arranco-la-cabeza-a-una-mujer/
+Jalisco,San Pedro Tlaquepaque,2018-09-18T07:42:24-07:00,0100,,https://www.lapoliciaca.com/nota-roja/levantan-y-torturan-a-ocho-jovenes-uno-de-ellos-murio/
+Chihuahua,Ahumada,2018-09-17T22:46:02-07:00,0101,,https://www.lapoliciaca.com/nota-roja/angelica-fue-privada-de-la-vida-por-su-exesposo/
+Michoacán,Morelia,2018-09-17T21:29:51-07:00,0102,,https://www.lapoliciaca.com/nota-roja/mata-a-mecanico-por-no-reparar-su-carro-en-fecha-acordada/
+Estado de México,Ecatepec,2018-09-17T20:15:38-07:00,0103,,https://www.lapoliciaca.com/nota-roja/diana-tenia-23-anos-y-delincuentes-la-quemaron-viva-uno-ya-fue-capturado/
+Estado de México,Lerma,2018-09-17T08:36:40-07:00,0104,,https://www.lapoliciaca.com/nota-roja/discute-con-su-novia-y-la-mata-dentro-de-su-casa/
+Tabasco,Paraíso,2018-09-17T06:59:06-07:00,0105,,https://www.lapoliciaca.com/nota-roja/muere-chambelan-tras-acudir-a-sesion-de-fotos-con-la-quinceanera/
+Jalisco,San Pedro Tlaquepaque,2018-09-16T18:49:54-07:00,0106,,https://www.lapoliciaca.com/nota-roja/157-cadaveres-vagan-en-la-caja-de-un-trailer/
+Tamaulipas,Reynosa,2018-09-14T19:44:18-07:00,0108,,https://www.lapoliciaca.com/nota-roja/mato-a-su-padre-porque-se-lo-ordeno-el-diablo/
+Chihuahua,Ciudad Juárez,2018-09-14T07:53:19-07:00,0109,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-adolescente-que-salio-de-madrugada-con-un-amigo/
+Chihuahua,Chihuahua,2018-09-12T20:05:18-07:00,0112,,https://www.lapoliciaca.com/nota-roja/moviliza-a-policias-aparicion-de-la-llorona/
+Guanajuato,Irapuato,2018-09-12T20:00:54-07:00,0113,,https://www.lapoliciaca.com/nota-roja/hallan-a-bebe-viva-junto-a-los-cadaveres-de-tres-personas/
+Sonora,Hermosillo,2018-09-12T19:30:16-07:00,0114,,https://www.lapoliciaca.com/nota-roja/banarse-en-una-cascada-les-costo-la-vida-a-dos-hermanos/
+Jalisco,Lagos de Moreno,2018-09-12T19:00:50-07:00,0115,,https://www.lapoliciaca.com/nota-roja/tragedia-intentan-ayudar-a-menor-que-se-ahogaba-y-mueren/
+Nuevo León,San Nicolás,2018-09-12T18:02:11-07:00,0116,,https://www.lapoliciaca.com/nota-roja/mata-a-la-abogada-que-lo-defendio-durante-un-juicio/
+Estado de México,Ocoyoacac,2018-09-12T09:43:51-07:00,0117,,https://www.lapoliciaca.com/nota-roja/querian-quemar-viva-a-mujer-de-60-anos-por-ladrona/
+Nayarit,Tepic,2018-09-11T20:19:58-07:00,0118,SECUESTRO,https://www.lapoliciaca.com/nota-roja/captan-el-momento-en-que-agentes-falsos-secuestran-a-mujer-video/
+Nuevo León,Guadalupe,2018-09-11T18:49:18-07:00,0120,,https://www.lapoliciaca.com/nota-roja/violo-a-una-joven-y-videograbo-el-ataque/
+Hidalgo,Tepeapulco,2018-09-11T17:28:41-07:00,0121,,https://www.lapoliciaca.com/nota-roja/mata-a-su-esposa-porque-llego-a-su-casa-de-madrugada/
+Sonora,Hermosillo,2018-09-11T15:57:46-07:00,0122,,https://www.lapoliciaca.com/nota-roja/manana-me-voy-a-suicidar-fue-un-gusto-haberlos-conocido/
+Puebla,Puebla,2018-09-10T21:22:54-07:00,0123,:ASESINATO,https://www.lapoliciaca.com/nota-roja/hallan-sin-vida-a-nino-de-7-anos-su-hermanastro-lo-mato-y-enterro-el-cuerpo/
+Estado de México,Nezahualcóyotl,2018-09-09T18:21:47-07:00,0124,,https://www.lapoliciaca.com/nota-roja/encuentran-cadaver-de-bebe-en-banos-de-cinepolis/
+San Luis Potosí,Rioverde,2018-09-07T18:23:09-07:00,0126,,https://www.lapoliciaca.com/nota-roja/hallan-viva-entre-basura-y-escombro-a-menor-reportada-desaparecida-video/
+Veracruz,Maltrata,2018-09-07T16:38:27-07:00,0127,,https://www.lapoliciaca.com/nota-roja/rapina-les-cuesta-la-vida-a-cuatro-personas-video/
+Michoacán,Morelia,2018-09-07T15:19:34-07:00,0128,,https://www.lapoliciaca.com/nota-roja/por-trabajo-mal-hecho-cliente-mata-a-tiros-dueno-de-taller-mecanico/
+Guanajuato,León,2018-09-06T16:14:19-07:00,0129,,https://www.lapoliciaca.com/nota-roja/vendedor-de-seguros-estafa-a-medico-y-luego-lo-manda-matar/
+Tamaulipas,Nuevo Laredo,2018-09-05T18:37:12-07:00,0130,,https://www.lapoliciaca.com/nota-roja/tren-amputa-piernas-a-joven-madre-y-su-recien-nacido/
+Jalisco,Puerto Vallarta,2018-09-05T17:49:21-07:00,0131,,https://www.lapoliciaca.com/nota-roja/rescatan-restos-de-hombre-que-fue-devorado-por-un-cocodrilo/
+Nuevo León,Apodaca,2018-09-05T15:54:17-07:00,0132,,https://www.lapoliciaca.com/nota-roja/muere-nino-al-intentar-salvar-a-su-amigo-video/
+Zacatecas,Fresnillo,2018-09-05T15:10:46-07:00,0133,SECUESTRO,https://www.lapoliciaca.com/nota-roja/fingio-embarazo-y-que-le-extrajeron-al-bebe-para-retener-a-su-pareja/
+Coahuila,Saltillo,2018-09-04T16:11:45-07:00,0134,ASALTO,https://www.lapoliciaca.com/nota-roja/finge-ser-maestro-para-robar-celulares-en-universidad/
+Sinaloa,Culiacán,2018-09-04T15:12:53-07:00,0135,,https://www.lapoliciaca.com/nota-roja/hallan-acribillado-a-reo-que-se-fugo-de-un-penal-en-sinaloa/
+Chihuahua,Ciudad Juárez,2018-09-03T20:32:37-07:00,0136,,https://www.lapoliciaca.com/nota-roja/mata-mecanico-a-cliente-porque-le-pidio-que-le-regresara-su-auto/
+Veracruz,Naranjos,2018-09-03T19:40:38-07:00,0137,:SECUESTRO,https://www.lapoliciaca.com/nota-roja/pretendian-linchar-a-payaso-solo-por-estar-cerca-de-una-escuela/
+Jalisco,Guadalajara,2018-09-03T18:16:00-07:00,0138,,https://www.lapoliciaca.com/nota-roja/se-robo-una-carroza-funebre-con-todo-y-cadaver/
+San Luis Potosí,Real de Catorce,2018-09-03T17:01:05-07:00,0140,,https://www.lapoliciaca.com/nota-roja/por-tomarse-una-selfie-mujer-y-nina-mueren-arrolladas-por-el-tren/
+Estados Unidos,Arizona,2018-09-03T15:41:15-07:00,0141,,https://www.lapoliciaca.com/nota-roja/mato-a-su-exesposa-embarazada-y-a-un-hombre-rapto-a-sus-dos-hijos/
+Hidalgo,Tula,2018-09-02T20:52:27-07:00,0142,,https://www.lapoliciaca.com/nota-roja/pareja-quemada-viva-en-hidalgo-eran-inocentes/
+Aguascalientes,Aguascalientes,2018-09-02T19:59:40-07:00,0143,,https://www.lapoliciaca.com/nota-roja/mato-a-su-vecino-porque-le-robaba-la-luz/
+Estado de México,Ixtapaluca,2018-09-01T15:55:20-07:00,0144,,https://www.lapoliciaca.com/nota-roja/nino-de-siete-anos-muere-sepultado-mientras-buscaba-comida-en-basurero/
+Hidalgo,Tula de Allende,2018-08-31T18:23:03-07:00,0145,,https://www.lapoliciaca.com/nota-roja/queman-viva-a-pareja-acusada-de-roba-chicos-ahora-en-hidalgo/
+Baja California,Tijuana,2018-08-31T17:38:39-07:00,0146,,https://www.lapoliciaca.com/nota-roja/desaparecio-junto-con-su-hija-a-la-menor-la-hallaron-deambulando-en-la-calle-a-la-madre-muerta/
+Guanajuato,Apaseo el Alto,2018-08-31T15:34:25-07:00,0147,DISPAROS,https://www.lapoliciaca.com/nota-roja/sicarios-matan-a-tres-jovenes-por-grabar-ejecucion/
+Guerrero,Zihuatanejo,2018-08-30T18:05:33-07:00,0148,SECUESTRO:ASESINATO,https://www.lapoliciaca.com/nota-roja/maestro-fue-a-guerrero-a-buscar-a-un-hijo-secuestrado-lo-mataron-junto-a-otro-hijo-y-su-yerno/
+Puebla,Acatlán de Osorio,2018-08-30T12:22:16-07:00,0149,SECUESTRO,https://www.lapoliciaca.com/nota-roja/madre-vio-por-facebook-como-quemaban-vivo-a-su-hijo-y-clama-piedad/
+Nuevo León,Monterrey,2018-08-29T19:01:47-07:00,0151,,https://www.lapoliciaca.com/nota-roja/por-golpear-con-cinturon-a-su-hijo-de-10-anos-madre-va-a-la-carcel/
+Morelos,Cuernavaca,2018-08-29T18:49:48-07:00,0152,,https://www.lapoliciaca.com/nota-roja/localizan-cadaver-de-quinceanera-que-habia-sido-reportada-desaparecida/
+Puebla,Acatlán de Osorio,2018-08-29T18:40:35-07:00,0153,,https://www.lapoliciaca.com/nota-roja/queman-vivos-a-dos-hombres-acusados-de-ser-roba-chicos/
+Yucatán,Kanasín,2018-08-29T17:26:24-07:00,0154,,https://www.lapoliciaca.com/nota-roja/mato-a-su-amante-porque-termino-su-relacion-con-el/
+Guanajuato,Apaseo el Grande,2018-08-28T17:20:58-07:00,0155,DISPAROS,https://www.lapoliciaca.com/nota-roja/le-apunto-a-la-cabeza-a-su-esposa-se-escucho-un-disparo-el-murio/
+Sinaloa,Culiacán,2018-08-28T17:16:03-07:00,0156,,https://www.lapoliciaca.com/nota-roja/confesiones-de-un-ex-sicario/
+Chihuahua,Parral,2018-08-28T16:26:05-07:00,0157,,https://www.lapoliciaca.com/nota-roja/jovencita-fue-cortada-en-pedazos-por-supuestamente-robar-ninos/
+Estado de México,Toluca,2018-08-28T14:25:55-07:00,0158,,https://www.lapoliciaca.com/nota-roja/le-corto-el-cuello-a-su-vecinito-de-10-anos/
+Aguascalientes,Aguascalientes,2018-08-27T21:18:26-07:00,0159,,https://www.lapoliciaca.com/nota-roja/cuelgan-a-presunto-ladron-de-un-poste/
+Estado de México,Naucalpan,2018-08-27T19:54:12-07:00,0160,,https://www.lapoliciaca.com/nota-roja/mama-da-su-vida-para-salvar-a-su-bebe/
+Chiapas,Villa Corzo,2018-08-27T19:25:21-07:00,0161,,https://www.lapoliciaca.com/nota-roja/ninos-mueren-ahogados-cuando-su-papa-intento-cruzar-un-arroyo-crecido/
+Coahuila,Torreón,2018-08-27T17:26:51-07:00,0162,,https://www.lapoliciaca.com/nota-roja/vecinos-matan-a-joven-acusado-de-envenenar-a-sus-perros/
+San Luis Potosí,Aquismón,2018-08-27T16:21:27-07:00,0163,,https://www.lapoliciaca.com/nota-roja/tu-mataste-a-tu-hija-verdad/
+Tabasco,Villahermosa,2018-08-25T16:05:05-07:00,0164,,https://www.lapoliciaca.com/nota-roja/detienen-a-presunto-violador-serial-violada-a-pacientes-del-imss/
+Puebla,Huejotzingo,2018-08-25T16:03:57-07:00,0165,,https://www.lapoliciaca.com/nota-roja/hallan-cortada-en-pedazos-a-mujer-que-desaparecio-tras-salir-a-la-tienda/
+Quintana Roo,Felipe Carrillo Puerto,2018-08-25T15:10:29-07:00,0166,,https://www.lapoliciaca.com/nota-roja/adolescente-mata-a-su-novia-y-su-suegra-tras-una-discusion/
+Estado de México,Villa Victoria,2018-08-25T15:04:49-07:00,0167,,https://www.lapoliciaca.com/nota-roja/matan-a-dos-jovenes-mientras-tenian-relaciones-cerca-de-un-riachuelo/
+Estado de México,Tultepec,2018-08-23T14:17:43-07:00,0169,,https://www.lapoliciaca.com/nota-roja/dejan-encerrados-a-dos-ninos-y-mueren-quemados-en-incendio/
+Tabasco,Centro,2018-08-22T16:28:10-07:00,0170,,https://www.lapoliciaca.com/nota-roja/se-mato-sobre-la-tumba-de-su-hijita/
+Durango,Lerdo,2018-08-21T15:51:29-07:00,0173,,https://www.lapoliciaca.com/nota-roja/mato-a-su-tia-porque-puso-en-duda-la-paternidad-de-uno-de-sus-hijos/
+Guerrero,Zihuatanejo,2018-08-21T14:37:47-07:00,0174,,https://www.lapoliciaca.com/nota-roja/ejecutan-a-joven-mujer-por-abrir-la-boca-de-mas/
+Estado de México,Teotihuacán,2018-08-20T19:45:36-07:00,0175,,https://www.lapoliciaca.com/nota-roja/militar-encuentra-a-su-esposa-con-amante-y-lo-mata-a-martillazos/
+Tamaulipas,Reynosa,2018-08-20T13:24:45-07:00,0176,SECUESTRO,https://www.lapoliciaca.com/nota-roja/mujer-finge-su-muerte-para-salvar-su-vida/
+Chihuahua,Ciudad Juárez,2018-08-18T19:04:35-07:00,0177,ASALTO,https://www.lapoliciaca.com/nota-roja/mantuvo-cadaver-de-nino-en-un-closet-de-su-vivienda-casi-5-dias/
+Nayarit,Bahía de Banderas,2018-08-18T18:58:22-07:00,0178,DISPAROS,https://www.lapoliciaca.com/nota-roja/fue-a-visitar-a-su-novia-la-mata-y-luego-se-suicida/
+Zacatecas,Fresnillo,2018-08-18T18:42:54-07:00,0179,SECUESTRO,https://www.lapoliciaca.com/nota-roja/reo-mata-a-otro-por-haber-violado-a-un-familiar-cercano/
+Estado de México,Chimalhuacán,2018-08-18T17:44:39-07:00,0180,,https://www.lapoliciaca.com/nota-roja/joven-heroe-salvo-a-un-nino-de-morir-ahogado-la-mama-fallecio-video/
+Tamaulipas,Ciudad Victoria,2018-08-18T14:55:20-07:00,0181,,https://www.lapoliciaca.com/nota-roja/se-quita-la-vida-al-ya-no-aguantar-a-su-suegra/
+San Luis Potosí ,San Luis Potosí,2018-08-17T17:48:28-07:00,0182,,https://www.lapoliciaca.com/nota-roja/matan-a-dos-hombres-desnudos-y-los-cuelgan-de-un-puente-peatonal/
+<span class="st">Yucatán</span>,Cozumel,2018-08-16T11:42:20-07:00,0183,,https://www.lapoliciaca.com/nota-roja/por-un-error-paso-11-anos-presa-en-estados-unidos/
+Veracruz,Coatzacoalcos,2018-08-15T15:07:33-07:00,0184,,https://www.lapoliciaca.com/nota-roja/matan-a-anciano-por-supuestamente-toquetear-a-mujeres-en-la-calle/
+Chihuahua,Ciudad Juárez,2018-08-14T16:19:48-07:00,0185,,https://www.lapoliciaca.com/nota-roja/mataron-a-rafita-de-un-golpe-en-la-cabeza/
+Aguascalientes,Asientos,2018-08-14T15:45:11-07:00,0186,,https://www.lapoliciaca.com/nota-roja/matan-a-empleada-domestica-e-intentan-hacer-pasar-el-hecho-como-suicidio/
+Tamaulipas,Ciudad Victoria,2018-08-13T20:33:12-07:00,0188,,https://www.lapoliciaca.com/nota-roja/quinceanera-y-su-familia-mueren-en-accidente-despues-de-la-fiesta/
+Yucatán,Muna,2018-08-13T20:29:26-07:00,0189,,https://www.lapoliciaca.com/nota-roja/desentierra-a-su-amigo-y-se-lleva-el-cadaver-a-su-casa/
+Chihuahua,Ciudad Juárez,2018-08-13T20:27:01-07:00,0190,,https://www.lapoliciaca.com/nota-roja/hallan-muerto-a-nino-de-6-anos-que-desaparecio-al-salir-a-la-tienda/
+Quintana Roo,Cancún,2018-08-13T15:34:49-07:00,0191,,https://www.lapoliciaca.com/nota-roja/sujeto-arroja-acido-afuera-de-tienda-para-correr-a-mujer-indigena/
+Querétaro,Querétaro,2018-08-13T10:14:24-07:00,0192,,https://www.lapoliciaca.com/nota-roja/brujo-mato-a-clienta-que-le-reclamo-que-su-hechizo-no-funciono/
+San Luis Potosí,Matlapa,2018-08-13T08:17:44-07:00,0193,,https://www.lapoliciaca.com/nota-roja/enfurecida-mujer-le-prendio-fuego-a-su-pareja-video/
+Sonora,Nogales,2018-08-10T10:08:22-07:00,0194,,https://www.lapoliciaca.com/nota-roja/mato-a-golpes-a-su-bebito-de-tres-meses-porque-no-dejaba-de-llorar/
+Sonora,Hermosillo,2018-08-09T11:12:25-07:00,0196,,https://www.lapoliciaca.com/nota-roja/mata-a-su-mujer-y-dias-despues-se-entrega-y-confiesa-el-crimen/
+Jalisco,Tlajomulco de Zúñiga,2018-08-09T09:42:50-07:00,0197,DISPAROS,https://www.lapoliciaca.com/nota-roja/hallan-10-cuerpos-dentro-de-una-casa-en-jalisco-siete-estaban-enterrados/
+Hidalgo,Ixmiquilpan,2018-08-08T18:29:00-07:00,0198,,https://www.lapoliciaca.com/nota-roja/mujer-mato-a-su-perro-y-se-lo-sirvio-como-comida-a-su-marido/
+Guerrero,Chilpancingo,2018-08-08T18:15:10-07:00,0199,,https://www.lapoliciaca.com/nota-roja/tiran-cuerpo-de-una-mujer-a-una-barranca/
+Estado de México,Otzolotepec,2018-08-08T18:10:58-07:00,0200,,https://www.lapoliciaca.com/nota-roja/mato-a-su-exesposo-con-la-ayuda-de-otra-mujer-y-de-su-nueva-pareja/
+Yucatán,Mérida,2018-08-08T14:51:38-07:00,0201,,https://www.lapoliciaca.com/nota-roja/cae-homicida-porque-lo-ataco-su-tigre-de-bengala/
+Chihuahua,Chihuahua,2018-08-08T11:33:33-07:00,0203,,https://www.lapoliciaca.com/nota-roja/matan-en-hospital-a-doctora-con-8-meses-de-embarazo-dejan-cadaver-en-el-bano/
+Durango,El Oro,2018-08-08T10:08:11-07:00,0204,,https://www.lapoliciaca.com/nota-roja/hallan-muertos-en-la-habitacion-de-un-hotel-a-un-joven-y-una-exreina-de-belleza/
+Puebla,Puebla,2018-08-08T08:40:21-07:00,0205,,https://www.lapoliciaca.com/nota-roja/festejaba-su-cumpleanos-y-el-mismo-dia-ve-morir-a-su-novia/
+Aguascalientes,Jesús María,2018-08-07T16:21:54-07:00,0206,SECUESTRO,https://www.lapoliciaca.com/nota-roja/mata-a-golpes-a-su-hija-de-tres/
+Chihuahua,Ciudad Juárez,2018-08-07T12:21:58-07:00,0208,ASALTO,https://www.lapoliciaca.com/nota-roja/ordeno-matar-con-sana-a-los-que-supuestamente-ejecutaron-a-su-hijo/
+Puebla,Puebla,2018-08-07T10:11:28-07:00,0209,,https://www.lapoliciaca.com/nota-roja/foto-en-facebook-destapa-violacion-de-nina-de-9-anos/
+Puebla,Puebla,2018-08-07T09:15:58-07:00,0210,,https://www.lapoliciaca.com/nota-roja/gizeh-fue-apunalada-y-desollada-viva-por-su-enamorada-obsesiva/
+Estado de México,Toluca,2018-08-06T21:10:52-07:00,0211,,https://www.lapoliciaca.com/nota-roja/mato-a-sujeto-porque-se-burlo-por-el-suicidio-de-dos-familiares/
+Jalisco,Guadalajara,2018-08-06T12:05:24-07:00,0212,,https://www.lapoliciaca.com/nota-roja/encuentra-10-cadaveres-enterrados-en-el-patio-de-su-casa/
+Estado de México,La Paz,2018-08-04T09:54:08-07:00,0214,,https://www.lapoliciaca.com/nota-roja/novios-acuerdan-suicidarse-pero-ella-se-arrepiente-y-el-hombre-resulta-herido-tras-lanzarse-al-vacio/
+Chihuahua,Ciudad Juárez,2018-08-03T20:44:20-07:00,0215,,https://www.lapoliciaca.com/nota-roja/hallan-11-personas-muertas-dentro-de-una-casa-en-ciudad-juarez/
+San Luis Potosí,Soledad de Graciano Sánchez,2018-08-03T19:20:33-07:00,0216,,https://www.lapoliciaca.com/nota-roja/violo-y-mato-a-su-cunada-en-visperas-de-navidad/
+Estado de México,Valle de Chalco,2018-08-03T10:31:07-07:00,0217,,https://www.lapoliciaca.com/nota-roja/golpeo-y-violo-a-su-propia-madre/
+Michoacán,Lázaro Cárdenas,2018-08-03T09:00:14-07:00,0218,,https://www.lapoliciaca.com/nota-roja/por-quemar-gente-en-facebook-lo-amarran-y-le-dejan-cartulinas/
+Nuevo León,Monterrey,2018-08-03T08:13:50-07:00,0219,,https://www.lapoliciaca.com/nota-roja/muere-ladron-al-quedar-atorado-en-ventana/
+Puebla,Puebla,2018-08-02T19:14:12-07:00,0220,,https://www.lapoliciaca.com/nota-roja/mujer-calcino-y-mato-a-su-ex-pareja/
+Jalisco,Tuxpan,2018-08-02T19:06:39-07:00,0221,DISPAROS,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposo-para-poder-cobrar-un-seguro-de-vida/
+Chihuahua,Ciudad Juárez,2018-08-02T18:33:14-07:00,0222,,https://www.lapoliciaca.com/nota-roja/juego-de-ninos-termina-en-tragedia/
+Estado de México,Ecatepec,2018-08-02T10:55:41-07:00,0223,,https://www.lapoliciaca.com/nota-roja/pastor-religioso-violo-a-cuatro-menores-en-un-refugio/
+San Luis Potosí,San Luis Potosí,2018-08-02T10:22:16-07:00,0224,DISPAROS,https://www.lapoliciaca.com/nota-roja/mato-a-jovencita-cuando-llevaba-serenata-a-su-madre-el-10-de-mayo/
+Morelos,Cuernavaca,2018-08-02T10:18:56-07:00,0225,,https://www.lapoliciaca.com/nota-roja/intento-frustrar-robo-a-tienda-y-mato-a-ladron-es-acusado-de-homicidio-video/
+Tamaulipas,Matamoros,2018-08-02T09:51:27-07:00,0226,DISPAROS,https://www.lapoliciaca.com/nota-roja/captan-en-video-enfrentamiento-entre-militares-y-sicarios/
+Baja California,Tijuana,2018-08-01T10:54:54-07:00,0227,DISPAROS,https://www.lapoliciaca.com/nota-roja/mi-papa-mato-a-mi-mama/
+Morelos,Tetela Del Volcán,2018-08-01T08:34:03-07:00,0228,,https://www.lapoliciaca.com/nota-roja/pobladores-detienen-y-linchan-a-presunto-extorsionador/
+Durango,Durango,2018-07-31T18:40:12-07:00,0229,,https://www.lapoliciaca.com/nota-roja/todos-sobreviven-despues-que-avion-se-estrello-en-durango/
+Estado de Mexico,Chimalhuacán,2018-07-31T17:13:04-07:00,0230,,https://www.lapoliciaca.com/nota-roja/peleo-con-su-mama-se-fue-de-casa-y-ya-no-regreso-la-violaron-y-asfixiaron/
+Zacatecas,Genaro Codina,2018-07-31T10:56:54-07:00,0231,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-jovencita-de-16-anos-que-desaparecio-con-su-bebe/
+Durango,Mezquital,2018-07-31T08:59:49-07:00,0232,,https://www.lapoliciaca.com/nota-roja/mato-a-su-primo-por-celos/
+Baja California,Tijuana,2018-07-30T18:29:36-07:00,0233,DISPAROS,https://www.lapoliciaca.com/nota-roja/provoca-balacera-mata-a-su-esposa-y-toma-a-su-hijo-como-rehen/
+Tabasco,Macuspana ,2018-07-30T09:02:02-07:00,0235,,https://www.lapoliciaca.com/nota-roja/matan-a-ninos-de-1-y-8-anos-y-a-sus-abuelos/
+Estado de México,Tlalnepantla,2018-07-27T19:31:02-07:00,0236,,https://www.lapoliciaca.com/nota-roja/nancy-salio-con-amigos-y-ya-no-regreso-a-casa/
+Puebla,Cholula,2018-07-27T18:01:03-07:00,0237,,https://www.lapoliciaca.com/nota-roja/raymundo-mato-a-sus-dos-hijos-dentro-de-un-hotel-y-luego-se-suicido/
+San Luis Potosí,Ciudad Valles,2018-07-27T10:57:03-07:00,0238,,https://www.lapoliciaca.com/nota-roja/su-novio-la-mato-y-fingio-ser-ella-para-ocultar-el-crimen/
+Yucatán,Mérida,2018-07-18T18:33:12-07:00,0239,,https://www.lapoliciaca.com/nota-roja/delinquia-para-aparentar-ser-rudo-hasta-que-lo-mataron-y-se-descubrio-su-secreto/
+Tamaulipas,Altamira,2018-07-17T15:16:13-07:00,0240,,https://www.lapoliciaca.com/nota-roja/arrebatan-la-vida-a-una-nina-de-7-anos/
+Durango,Durango,2018-07-16T17:48:54-07:00,0242,,https://www.lapoliciaca.com/nota-roja/nino-de-12-anos-mato-a-su-prima-de-9-para-vengarse-de-su-tio/
+Sonora,Ciudad Obregón,2018-07-16T16:03:29-07:00,0244,DISPAROS,https://www.lapoliciaca.com/nota-roja/suplico-a-mi-nino-no-y-entonces-lo-mataron-dentro-de-una-iglesia/
+Nuevo León,Pesquería,2018-07-16T13:15:06-07:00,0245,,https://www.lapoliciaca.com/nota-roja/se-entrega-a-la-policia-tras-quitarle-la-vida-a-su-esposa/
+Chihuahua,Chihuahua,2018-07-14T14:21:01-07:00,0246,,https://www.lapoliciaca.com/nota-roja/buscaban-salvar-una-vida-pero-encontraron-la-muerte-a-manos-de-un-enfermero/
+Puebla,Puebla,2018-07-14T13:27:10-07:00,0247,,https://www.lapoliciaca.com/nota-roja/zendy-guadalupe-la-estudiante-de-enfermeria-que-fue-degollada-camino-a-la-escuela/
+Yucatán,Mérida,2018-07-13T18:37:39-07:00,0248,,https://www.lapoliciaca.com/nota-roja/mato-al-hombre-que-lo-contrato-para-darle-amor/
+Yucatán,Mérida,2018-07-13T18:33:44-07:00,0249,,https://www.lapoliciaca.com/nota-roja/la-mato-su-telefono-celular/
+Guerrero,Chilpancingo,2018-07-13T18:05:08-07:00,0250,ASESINATO,https://www.lapoliciaca.com/nota-roja/violan-y-privan-de-la-vida-a-una-menor-de-15-anos/
+Quintana Roo,Chetumal,2018-07-13T17:09:35-07:00,0251,,https://www.lapoliciaca.com/nota-roja/haber-cortado-a-su-novio-posesivo-le-costo-la-vida-a-jovencita-y-a-su-hermana/
+Tabasco,Huimanguillo,2018-07-13T16:03:16-07:00,0252,DISPAROS,https://www.lapoliciaca.com/nota-roja/romance-termina-en-tragedia/
+Hidalgo,Tulancingo,2018-07-06T14:52:44-07:00,0253,,https://www.lapoliciaca.com/nota-roja/vivian-con-cadaver-humano/
+Nuevo León,Monterrey,2018-07-05T21:50:13-07:00,0254,,https://www.lapoliciaca.com/nota-roja/detienen-a-pareja-que-prostituia-a-nina-de-11-anos/
+Guanajuato,León,2018-07-05T21:44:17-07:00,0255,,https://www.lapoliciaca.com/nota-roja/mata-a-su-esposa-y-a-su-cunado-lesiona-a-su-cunada-y-se-suicida-frente-a-sus-hijos/
+Puebla,Puebla,2018-07-05T20:19:52-07:00,0256,,https://www.lapoliciaca.com/nota-roja/mujer-mata-a-su-madre-y-apunala-a-su-hija-de-12-anos/
+Guerrero,Chilpancingo,2018-07-05T19:55:00-07:00,0257,,https://www.lapoliciaca.com/nota-roja/hallan-muerto-en-una-barranca-a-nino-de-10-anos/
+Hidalgo,Atotonilco El Grande,2018-07-03T15:11:27-07:00,0258,,https://www.lapoliciaca.com/nota-roja/muere-jovencita-que-escapo-con-su-novio/
+Sinaloa,Culiacán,2018-06-29T15:33:34-07:00,0259,,https://www.lapoliciaca.com/nota-roja/le-aposto-a-mexico-en-su-juego-contra-suecia-perdio-hasta-la-libertad/
+Morelos,Temixco,2018-06-26T16:28:15-07:00,0261,,https://www.lapoliciaca.com/nota-roja/mata-a-su-pareja-e-hijastro-por-un-celular/
+Hidalgo,Zimapán,2018-06-26T14:12:35-07:00,0262,,https://www.lapoliciaca.com/nota-roja/hallan-muertas-a-dos-mujeres-que-fueron-levantadas-en-centro-nocturno/
+Nuevo León,Sabinas Hidalgo,2018-06-25T17:39:52-07:00,0263,,https://www.lapoliciaca.com/nota-roja/mata-a-su-suegra-porque-lo-corrio-de-la-casa/
+Estado de México,Zumpango,2018-06-25T16:04:05-07:00,0265,,https://www.lapoliciaca.com/nota-roja/matan-a-joven-mujer-y-le-arrancan-piel-del-rostro/
+Sonora,Hermosillo,2018-06-22T15:35:19-07:00,0266,,https://www.lapoliciaca.com/nota-roja/le-corto-la-cabeza-a-su-mama-y-luego-se-quito-la-vida/
+Hidalgo,Pachuca,2018-06-21T14:35:12-07:00,0267,,https://www.lapoliciaca.com/nota-roja/pierde-la-vida-por-olvidar-las-llaves-de-su-casa/
+Sinaloa,Guasave,2018-06-20T14:24:39-07:00,0269,DISPAROS,https://www.lapoliciaca.com/nota-roja/le-amputan-pierna-por-negligencia-se-suicida-afuera-del-imss-y-deja-carta-para-pena-nieto/
+Estado de México,Cuautitlán,2018-06-19T19:58:50-07:00,0270,,https://www.lapoliciaca.com/nota-roja/mujer-trastornada-mata-a-golpes-a-su-propia-hija-de-4-anos/
+Nuevo León,Salinas Victoria,2018-06-19T16:01:50-07:00,0271,,https://www.lapoliciaca.com/nota-roja/encuentra-a-esposa-abrazandose-y-besandose-con-su-amante-en-su-propia-casa-lo-mata/
+San Luis Potosí,Matlapa,2018-06-18T18:26:55-07:00,0272,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-despues-de-que-le-confesara-que-lo-habia-enganado-con-su-hermano/
+Chihuahua,Ciudad Juárez,2018-06-18T17:04:31-07:00,0273,,https://www.lapoliciaca.com/nota-roja/mato-a-su-pareja-porque-llego-tarde-y-borracha/
+Tabasco,Huimanguillo,2018-06-18T16:30:14-07:00,0274,,https://www.lapoliciaca.com/nota-roja/mujer-mata-a-su-esposo-por-celos/
+Estado de México,Ecatepec,2018-06-14T16:45:36-07:00,0275,,https://www.lapoliciaca.com/nota-roja/joven-madre-se-suicida-frente-a-sus-hijas-deja-una-carta-llena-de-odio/
+Estado de México,Toluca,2018-06-12T14:11:39-07:00,0276,SECUESTRO,https://www.lapoliciaca.com/nota-roja/aprovechaba-sus-atributos-para-seducir-a-hombres-y-luego-secuestrarlos/
+Morelos,Cuernavaca,2018-06-11T16:23:12-07:00,0277,,https://www.lapoliciaca.com/nota-roja/hallan-calcinada-a-estudiante-de-odontologia-reportada-desaparecida/
+Tabasco,Centro,2018-06-11T15:37:04-07:00,0278,,https://www.lapoliciaca.com/nota-roja/mueren-dos-parejas-en-la-habitacion-de-un-motel/
+San Luis Potosí,San Luis Potosí,2018-06-05T16:45:14-07:00,0280,,https://www.lapoliciaca.com/nota-roja/mato-a-mujer-dentro-de-un-motel-y-la-envolvio-en-una-sabana/
+Tamaulipas,Ciudad Victoria,2018-06-03T19:31:36-07:00,0282,DISPAROS,https://www.lapoliciaca.com/nota-roja/hallan-en-el-fondo-de-un-barranco-los-cuerpos-de-seis-mujeres/
+Tabasco,Centla,2018-05-30T17:13:12-07:00,0283,ASALTO,https://www.lapoliciaca.com/nota-roja/hallan-a-presunto-ladron-sentado-y-con-la-cabeza-colgando/
+Chihuahua,Ciudad Juárez,2018-05-29T16:08:03-07:00,0284,,https://www.lapoliciaca.com/nota-roja/mato-a-su-novia-y-tiro-el-cuerpo-cerca-de-un-circo/
+Estado de México,Tlalnepantla,2018-05-28T14:19:11-07:00,0285,DISPAROS,https://www.lapoliciaca.com/nota-roja/sorprende-a-su-esposa-con-su-amante-dentro-de-un-hotel-y-la-mata/
+Michoacán,Hidalgo,2018-05-24T13:42:50-07:00,0287,,https://www.lapoliciaca.com/nota-roja/hallan-muertos-a-tres-jovenes-en-la-habitacion-de-un-motel/
+Veracruz,Tamiahua,2018-05-22T12:59:06-07:00,0288,,https://www.lapoliciaca.com/nota-roja/hallan-cuerpo-de-un-naufrago-dentro-de-una-nevera/
+Coahuila,Saltillo,2018-05-22T12:24:23-07:00,0289,,https://www.lapoliciaca.com/nota-roja/no-es-justo-que-le-haya-quitado-la-vida-a-mi-hija-ella-tenia-mucho-por-vivir/
+Tabasco,Huimanguillo,2018-05-22T11:31:25-07:00,0290,,https://www.lapoliciaca.com/nota-roja/le-quito-la-vida-al-esposo-de-su-amiga/
+Nuevo León,Rayones,2018-05-21T12:31:21-07:00,0291,,https://www.lapoliciaca.com/nota-roja/trailero-no-soporta-el-suicidio-de-su-hijo-y-conduce-hacia-la-muerte/
+Veracruz,Coatzacoalcos,2018-05-21T10:36:31-07:00,0292,,https://www.lapoliciaca.com/nota-roja/pareja-de-esposos-matan-a-embarazada-porque-no-quiso-abortar/
+Hidalgo,Chapulhuacán,2018-05-17T15:37:59-07:00,0293,,https://www.lapoliciaca.com/nota-roja/pasante-de-medicina-reportada-desaparecida-es-hallada-calcinada/
+Nuevo León,Santa Catarina,2018-05-16T19:51:18-07:00,0294,,https://www.lapoliciaca.com/nota-roja/mata-a-su-bebe-recien-nacida-porque-no-dejaba-de-llorar/
+Morelos,Cuernavaca,2018-05-16T19:48:55-07:00,0295,,https://www.lapoliciaca.com/nota-roja/dos-meses-antes-de-casarse-mato-y-calcino-a-su-prometida/
+Estado de México,Tecámac,2018-05-15T15:43:19-07:00,0297,DISPAROS,https://www.lapoliciaca.com/nota-roja/matan-a-una-pareja-y-les-dejan-mensaje-a-el-por-sancho-y-a-ella-por/
+Veracruz,Coatzacoalcos,2018-05-14T14:58:20-07:00,0298,,https://www.lapoliciaca.com/nota-roja/detienen-a-mujer-por-vender-la-virginidad-de-su-hija-de-12-anos/
+Sonora,Hermosillo,2018-05-14T12:53:25-07:00,0299,,https://www.lapoliciaca.com/nota-roja/termina-muerto-tras-enojarse-porque-no-le-gusto-la-comida-que-le-sirvieron-en-un-restaurante/
+Oaxaca,Oaxaca,2018-05-14T12:18:12-07:00,0300,,https://www.lapoliciaca.com/nota-roja/mato-a-su-marido-porque-la-golpeaba/
+Veracruz,Poza Rica,2018-05-11T15:59:25-07:00,0301,ASALTO,https://www.lapoliciaca.com/nota-roja/rapta-a-su-hija-la-mata-y-luego-se-quita-la-vida/
+Veracruz,Xalapa,2018-05-09T15:37:56-07:00,0302,,https://www.lapoliciaca.com/nota-roja/estaba-obsesionado-con-su-amiga-la-violo-la-mato-y-despues-tiro-el-cuerpo-en-un-predio-baldio/
+Estado de México,Tultitlán,2018-05-08T12:36:57-07:00,0303,ASALTO,https://www.lapoliciaca.com/nota-roja/arrestan-a-feminicida-minutos-antes-de-casarse-por-la-iglesia/
+Hidalgo,Tulancingo,2018-05-07T09:39:28-07:00,0304,,https://www.lapoliciaca.com/nota-roja/mata-a-su-mama-y-la-entierra-en-horno-para-barbacoa/
+Guanajuato,León,2018-05-04T14:35:22-07:00,0305,ASALTO,https://www.lapoliciaca.com/nota-roja/mata-a-su-primo-tras-discusion-por-un-partido-de-futbol/
+Estado de México,Donato Guerra,2018-05-03T12:46:39-07:00,0306,DISPAROS,https://www.lapoliciaca.com/nota-roja/cacha-en-la-movida-a-su-exesposa-con-su-primo-y-lo-mata/
+Tabasco,Villahermosa,2018-05-02T11:16:08-07:00,0308,,https://www.lapoliciaca.com/nota-roja/asaltantes-le-cortan-la-mano-por-no-traer-dinero/
+Coahuila,Saltillo,2018-05-01T14:57:38-07:00,0309,,https://www.lapoliciaca.com/nota-roja/el-estupido-de-rodolfo-mato-a-mi-nino-y-se-mato-el/
+Estado de México,Zumpango,2018-05-01T11:49:29-07:00,0310,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-e-hijos-por-una-supuesta-infidelidad-de-la-mujer/
+Tabasco,Centro,2018-05-01T11:38:16-07:00,0311,:SECUESTRO,https://www.lapoliciaca.com/nota-roja/queman-vivo-a-presunto-ladron-video/
+Nayarit,Tepic,2018-04-30T12:22:03-07:00,0312,,https://www.lapoliciaca.com/nota-roja/mama-y-bebe-fueron-quemadas-vivas-por-joven-veterinario/
+Estado de México,Ecatepec,2018-04-30T11:28:48-07:00,0313,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-joven-mujer-cinco-dias-despues-de-que-se-reporto-su-desaparicion/
+Guerrero,Acapulco,2018-04-30T11:28:37-07:00,0314,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-mujer-que-fue-raptada-en-primaria-de-acapulco/
+Chihuahua,Ciudad Juárez,2018-04-27T15:38:51-07:00,0315,,https://www.lapoliciaca.com/nota-roja/mato-a-su-esposa-y-la-enterro-en-el-patio-de-su-casa-luego-la-desenterro-y-ahi-fue-descubierto/
+Estado de México,Chimalhuacán,2018-04-26T15:26:26-07:00,0316,,https://www.lapoliciaca.com/nota-roja/padres-olvidan-llaves-de-su-casa-brincan-a-su-hijo-de-7-anos-y-sus-perros-lo-matan/
+Tabasco,Villahermosa,2018-04-25T13:26:35-07:00,0317,,https://www.lapoliciaca.com/nota-roja/intentan-linchar-en-penal-de-tabasco-a-tres-presuntos-homicidas-de-un-nino-video/
+Nuevo León,Lampazos de Naranjo,2018-04-25T12:39:34-07:00,0318,,https://www.lapoliciaca.com/nota-roja/mato-a-su-pareja-e-invento-que-encapuchados-la-habian-privado-de-la-vida-en-un-asalto/
+Estado de México,Cuautitlán Izcalli,2018-04-24T08:19:48-07:00,0319,,https://www.lapoliciaca.com/nota-roja/tu-fuiste-el-que-abuso-de-ella-le-gritan-a-sacerdote-antes-de-matarlo/
+Nuevo León,Monterrey,2018-04-23T21:34:10-07:00,0320,,https://www.lapoliciaca.com/nota-roja/como-escena-de-pelicula-clientes-y-empleados-frustran-asalto-en-carniceria-video/
+Jalisco,Guadalajara,2018-04-23T20:32:39-07:00,0321,SECUESTRO,https://www.lapoliciaca.com/nota-roja/estudiantes-desaparecidos-fueron-disueltos-en-acido/
+Guerrero,Acapulco,2018-04-23T19:51:49-07:00,0322,,https://www.lapoliciaca.com/nota-roja/grupo-criminal-le-toma-la-palabra-a-el-bronco-y-mutila-a-supuesto-extorsionador/
+Estado de México,Ecatepec,2018-04-23T10:24:15-07:00,0323,,https://www.lapoliciaca.com/nota-roja/yo-los-mate-yo-los-mate-a-los-tres-y-fue-con-puro-cuchillo-video/
+Hidalgo,Tula De Allende,2018-04-21T10:53:33-07:00,0324,ASALTO,https://www.lapoliciaca.com/nota-roja/la-olvidaron-en-casa-hallan-cadaver-de-mujer-que-murio-hace-dos-anos/
+Guerrero,Chilpancingo,2018-04-17T09:31:13-07:00,0325,DISPAROS,https://www.lapoliciaca.com/nota-roja/matan-a-mujer-embarazada-y-a-su-hija-de-6-anos/
+Estado de México,Ixtapan de la Sal,2018-04-16T20:29:16-07:00,0326,,https://www.lapoliciaca.com/nota-roja/mujer-mato-a-su-alumno-de-computacion/
+Michoacán,Morelia,2018-04-16T18:36:30-07:00,0327,,https://www.lapoliciaca.com/nota-roja/la-mato-la-mujer-a-la-que-habia-contratado-para-eliminar-a-su-rival-de-amores/
+Nuevo León,Montemorelos,2018-04-16T09:47:57-07:00,0328,ASESINATO,https://www.lapoliciaca.com/nota-roja/dos-anos-de-prision-le-dieron-por-matar-su-amiga-y-piden-salga-libre-por-buena-conducta/
+Oaxaca,San Francisco Ixhuatán,2018-04-16T08:53:01-07:00,0329,,https://www.lapoliciaca.com/nota-roja/capturan-a-violador-y-lo-arrojan-a-una-jaula-con-cocodrilos-video/
+Coahuila,Saltillo,2018-04-16T08:46:53-07:00,0330,,https://www.lapoliciaca.com/nota-roja/por-que-lo-hiciste-flaca-por-que/
+Tabasco,Cárdenas,2018-04-16T08:45:15-07:00,0331,SECUESTRO,https://www.lapoliciaca.com/nota-roja/hallan-muerto-a-otro-nino-de-2-anos-que-habia-sido-reportado-como-extraviado/
+Coahuila,Acuña,2018-04-16T08:45:01-07:00,0332,,https://www.lapoliciaca.com/nota-roja/se-quita-la-vida-frente-a-la-casa-de-su-ex-porque-no-lo-dejo-entrar-a-dormir/
+Guerrero,Chilpancingo,2018-04-16T08:02:05-07:00,0333,ASALTO,https://www.lapoliciaca.com/nota-roja/asaltantes-matan-de-asfixia-a-bebe-de-7-meses-durante-robo-a-casa/
+Guanajuato,Irapuato,2018-04-15T17:05:14-07:00,0334,,https://www.lapoliciaca.com/nota-roja/agredio-a-esposo-porque-ni-la-pelo-durante-un-trio/
+Durango,Pueblo Nuevo,2018-04-15T16:02:08-07:00,0335,,https://www.lapoliciaca.com/nota-roja/mandaron-matar-a-su-amigo-para-cobrar-seguro-de-vida/
+Jalisco,Tlajomulco de Zúñiga,2018-04-15T14:57:27-07:00,0336,,https://www.lapoliciaca.com/nota-roja/violaba-a-menores-y-grababa-el-abuso-luego-subia-el-material-a-redes-sociales/
+Michoacán,Morelia,2018-04-14T08:48:23-07:00,0337,,https://www.lapoliciaca.com/nota-roja/fue-una-mujer-detienen-a-la-homicida-de-candidata-a-diputada-en-michoacan/
+Chiapas,Cintalapa,2018-04-14T07:41:54-07:00,0338,,https://www.lapoliciaca.com/nota-roja/se-quito-la-vida-por-encontrar-a-su-amada-en-brazos-de-otro/
+Tabasco,Villahermosa,2018-04-13T10:09:03-07:00,0339,SECUESTRO,https://www.lapoliciaca.com/nota-roja/matan-a-nino-de-3-anos-y-dejan-su-cuerpo-en-una-caja-de-carton/
+Yucatán,Kanasín,2018-04-13T09:15:50-07:00,0340,,https://www.lapoliciaca.com/nota-roja/celoso-sujeto-le-quita-la-vida-a-un-amigo-de-su-esposa/
+Guerrero,Taxco,2018-04-13T07:44:19-07:00,0341,DISPAROS,https://www.lapoliciaca.com/nota-roja/mata-a-su-hermano-por-pleito-entre-su-esposa-y-su-cunada/
+Michoacán,Lázaro Cárdenas,2018-04-12T19:59:34-07:00,0342,,https://www.lapoliciaca.com/nota-roja/se-le-muere-su-pareja-en-plena-luna-de-miel/
+Michoacán,Morelia,2018-04-12T18:24:29-07:00,0344,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-candidata-del-partido-verde-en-michoacan/
+Estado de México,Huixquilucan,2018-04-12T07:46:04-07:00,0345,,https://www.lapoliciaca.com/nota-roja/dispara-a-su-companero-de-secundaria-y-luego-se-quita-la-vida/
+Estado de México,Ecatepec,2018-04-12T06:55:12-07:00,0346,,https://www.lapoliciaca.com/nota-roja/reto-al-asesino-de-mi-hija-aqui-lo-espero-que-venga-por-mi/
+Sinaloa,Culiacán,2018-04-10T21:54:05-07:00,0347,,https://www.lapoliciaca.com/nota-roja/hallan-bajo-un-puente-el-cuerpo-de-una-joven-reportada-como-desaparecida/
+Chihuahua,Ciudad Juárez,2018-04-10T18:43:05-07:00,0348,ASESINATO,https://www.lapoliciaca.com/nota-roja/mata-hombre-a-su-esposa-y-luego-se-suicida-su-hija-de-9-anos-descubrio-la-macabra-escena/
+Puebla,Puebla,2018-04-10T18:27:35-07:00,0349,,https://www.lapoliciaca.com/nota-roja/escribe-mensaje-con-su-sangre-antes-de-quitarse-la-vida/
+Estado de México,Coacalco,2018-04-10T17:54:10-07:00,0350,,https://www.lapoliciaca.com/nota-roja/daniel-le-quito-la-vida-a-su-esposa-enfrente-de-sus-hijos-lo-sentencian-a-70-anos-de-prision/
+Durango,Durango,2018-04-10T08:36:52-07:00,0351,,https://www.lapoliciaca.com/nota-roja/ahogo-a-adolescente-de-15-anos-porque-pidio-auxilio-cuando-intento-violarla/
+Puebla,San Simón Yehualtepec,2018-04-10T08:36:44-07:00,0352,ASALTO,https://www.lapoliciaca.com/nota-roja/cansados-de-la-inseguridad-pobladores-queman-vivos-a-cuatro-asaltantes/
+Estado de México,Teoloyucan,2018-04-10T08:29:11-07:00,0353,,https://www.lapoliciaca.com/nota-roja/obligaba-a-nina-embarazada-a-prostituirse/
+Coahuila,Saltillo,2018-04-10T07:48:50-07:00,0355,SECUESTRO,https://www.lapoliciaca.com/nota-roja/violador-fue-atrapado-por-su-victima-siete-meses-despues/
+Tamaulipas,Reynosa,2018-04-10T07:17:04-07:00,0356,,https://www.lapoliciaca.com/nota-roja/nunca-se-imagino-que-era-su-tia-a-quien-sacaban-muerta-de-un-hotel/
+Sonora,Hermosillo,2018-04-10T07:00:09-07:00,0357,,https://www.lapoliciaca.com/nota-roja/pierde-la-vida-por-molestar-a-la-esposa-de-su-amigo/
+Tamaulipas,Reynosa,2018-04-09T20:42:22-07:00,0358,,https://www.lapoliciaca.com/nota-roja/mata-a-su-vecino-por-no-invitarle-una-cerveza/
+Veracruz,Coatzacoalcos,2018-04-09T20:36:14-07:00,0359,,https://www.lapoliciaca.com/nota-roja/tiran-cadaver-de-mujer-desnuda-en-camino-de-terraceria-al-parecer-fue-violada/
+Nayarit,Bahía de Banderas,2018-04-09T19:21:18-07:00,0360,,https://www.lapoliciaca.com/nota-roja/jovencita-pierde-la-vida-al-salir-disparada-de-juego-mecanico/
+Chihuahua,Ciudad Juárez,2018-04-09T18:47:48-07:00,0361,ASESINATO,https://www.lapoliciaca.com/nota-roja/hallan-muerto-en-su-celda-a-sujeto-que-violo-a-tres-hermanitas-y-mato-a-una-de-ellas/
+Coahuila,Torreón,2018-04-09T02:38:35-07:00,0362,,https://www.lapoliciaca.com/nota-roja/por-celos-mujer-apunala-y-mata-a-su-esposo-era-policia/
+Nuevo León,Santa Catarina,2018-04-09T02:28:42-07:00,0363,,https://www.lapoliciaca.com/nota-roja/viola-y-mata-a-su-vecina-delante-de-su-hijo-de-7-anos/
+Tabasco,Nacajuca,2018-04-09T02:13:23-07:00,0364,,https://www.lapoliciaca.com/nota-roja/violan-y-matan-a-mujer-con-8-meses-de-embarazo-delante-de-su-hijo-de-4-anos/
+Aguascalientes,Aguascalientes,2018-04-09T02:12:45-07:00,0365,,https://www.lapoliciaca.com/nota-roja/rescatan-a-nino-que-era-encadenado-a-un-arbol-en-el-patio-de-su-domicilio/
+Sinaloa,Guasave,2018-04-08T21:38:17-07:00,0366,,https://www.lapoliciaca.com/nota-roja/detienen-a-profesor-de-gimnasia-por-abusar-sexualmente-de-sus-alumnas/
+Nuevo León,San Pedro Garza García,2018-04-06T20:13:13-07:00,0367,,https://www.lapoliciaca.com/nota-roja/camaras-de-seguridad-captan-ejecucion-en-restaurante-de-nuevo-leon-video/
+Oaxaca,San Jerónimo Tlacochahuaya,2018-04-06T19:43:39-07:00,0368,,https://www.lapoliciaca.com/nota-roja/matan-a-mujer-y-la-entamban-le-dieron-un-disparo-en-su-parte-intima/
+Jalisco,Zapopan,2018-04-06T19:42:59-07:00,0369,DISPAROS,https://www.lapoliciaca.com/nota-roja/padre-dispara-en-la-cabeza-a-sus-3-hijos-y-luego-se-quita-la-vida-solo-dos-sobrevivieron/
+Oaxaca ,San Jerónimo Tlacochahuaya,2018-04-06T19:42:41-07:00,0370,DISPAROS,https://www.lapoliciaca.com/nota-roja/la-matan-y-desaparecen-a-su-bebe-de-16-dias-de-nacida/
+Nuevo León,Monterrey,2018-04-06T07:42:30-07:00,0371,,https://www.lapoliciaca.com/nota-roja/mato-a-su-amante-en-la-habitacion-de-un-hotel/
+Hidalgo,Tulancingo,2018-04-06T07:14:23-07:00,0372,,https://www.lapoliciaca.com/nota-roja/lo-detienen-por-sostener-relaciones-con-una-nina-48-anos-menor-que-el/
+Estado de México,Zumpango,2018-04-06T06:59:28-07:00,0373,ASALTO,https://www.lapoliciaca.com/nota-roja/asaltaban-tiendas-oxxo-y-violaban-a-las-empleadas/
+Veracruz,Lerdo de Tejada,2018-04-05T20:01:53-07:00,0376,ASESINATO,https://www.lapoliciaca.com/nota-roja/yo-tengo-ropita-de-bebe-voy-a-tener-varon-y-tu-nina-te-la-voy-a-regalar/
+Veracruz,Río Blanco,2018-04-05T18:43:09-07:00,0377,,https://www.lapoliciaca.com/nota-roja/tras-regano-de-su-madre-se-suicida-adolescente-arrojandose-a-las-vias-del-tren/
+Puebla,Tlatlauquitepec,2018-04-05T07:05:04-07:00,0378,,https://www.lapoliciaca.com/nota-roja/violan-a-adolescente-en-telesecundaria-su-maestra-le-dijo-que-se-callara/
+Tamaulipas,Altamira,2018-04-04T20:54:17-07:00,0382,,https://www.lapoliciaca.com/nota-roja/jessica-estaba-consciente-aun-cuando-la-abrieron-con-un-cuchillo-de-cocina-para-robarle-su-bebe/
+Chihuahua,Ciudad Juárez,2018-04-04T20:19:14-07:00,0383,,https://www.lapoliciaca.com/nota-roja/jovencita-le-quito-la-vida-a-su-hermano-tras-discutir-por-la-cochera/
+Veracruz,Alvarado,2018-04-04T19:43:38-07:00,0384,SECUESTRO,https://www.lapoliciaca.com/nota-roja/matan-a-otra-mujer-embarazada-para-extraerle-a-su-bebe-ahora-en-veracruz/
+Morelos,Temixco,2018-04-04T06:06:22-07:00,0385,,https://www.lapoliciaca.com/nota-roja/nina-de-14-anos-mata-a-su-bebe-recien-nacida-tras-provocarse-el-parto/
+Tamaulipas,Tampico,2018-04-03T17:50:13-07:00,0386,,https://www.lapoliciaca.com/nota-roja/mataron-a-jovencita-con-ocho-meses-de-embarazo-para-extraerle-a-su-bebe/
+Veracruz,Ciudad Isla,2018-03-29T21:03:38-07:00,0387,,https://www.lapoliciaca.com/nota-roja/hiere-a-su-novia-y-le-quita-la-vida-a-su-suegra-intento-enterrarlas-en-el-patio-de-una-casa/
+Durango,Durango,2018-03-28T21:22:25-07:00,0388,,https://www.lapoliciaca.com/nota-roja/sorprenden-a-primos-hermanos-teniendo-relaciones-en-un-auto-los-detienen-tras-persecucion/
+Guanajuato,Irapuato,2018-03-28T20:42:33-07:00,0389,SECUESTRO,https://www.lapoliciaca.com/nota-roja/detienen-a-la-cantante-la-diva-del-corrido-acusada-de-secuestro/
+Durango,Gómez Palacio,2018-03-28T20:14:28-07:00,0390,,https://www.lapoliciaca.com/nota-roja/desgarrador-le-quitan-la-vida-a-recien-nacido-de-un-golpe-en-la-cabeza-y-lo-arrojan-a-un-canal/
+Oaxaca,Salina Cruz,2018-03-28T20:10:59-07:00,0391,,https://www.lapoliciaca.com/nota-roja/llego-ebrio-a-su-casa-y-comenzo-a-golpear-a-su-mujer-eso-le-costo-la-vida/
+Estado de México,Otumba,2018-03-28T19:13:17-07:00,0392,,https://www.lapoliciaca.com/nota-roja/violan-y-le-cortan-el-cuello-a-jovencita/
+Puebla,Puebla,2018-03-28T12:50:18-07:00,0394,,https://www.lapoliciaca.com/nota-roja/pierde-la-vida-por-intentar-asaltar-al-dueno-de-un-porsche-queria-su-rolex/
+Colima,Tecomán,2018-03-28T09:56:46-07:00,0395,ASALTO,https://www.lapoliciaca.com/nota-roja/ultima-a-su-esposa-agrede-a-sus-hijas-y-despues-se-quita-la-vida/
+Estado de México,La Paz,2018-03-27T23:13:22-07:00,0396,,https://www.lapoliciaca.com/nota-roja/torturan-hasta-la-muerte-a-una-mujer-en-su-propia-casa/
+Chiapas,Catazajá,2018-03-27T23:12:53-07:00,0397,,https://www.lapoliciaca.com/nota-roja/asesinan-y-calcinan-a-una-joven-desaparecida/
+Estado de México,Ecatepec,2018-03-27T23:12:29-07:00,0398,DISPAROS,https://www.lapoliciaca.com/nota-roja/le-quitan-la-vida-por-andar-con-una-mujer-casada/
+Nuevo León,Guadalupe,2018-03-27T02:33:29-07:00,0399,ASALTO,https://www.lapoliciaca.com/nota-roja/hallan-calcinada-a-adolescente-embarazada-reportada-desaparecida/
+Estado de México,Toluca,2018-03-26T21:29:12-07:00,0400,,https://www.lapoliciaca.com/nota-roja/mata-a-su-esposo-con-un-hacha-mientras-dormia-lo-sepulto-en-el-patio/
+Puebla,Santa María Coronango,2018-03-26T18:04:30-07:00,0401,,https://www.lapoliciaca.com/nota-roja/beatriz-perdio-la-vida-tras-confesarle-a-su-esposo-que-lo-enganaba-con-el-vecino/
+Quintana Roo ,Tulum,2018-03-24T23:05:52-07:00,0402,,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-familia-de-estados-unidos-en-tulum/
+Estado de Mexico,Chimalhuacán,2018-03-23T05:32:19-07:00,0403,,https://www.lapoliciaca.com/nota-roja/violo-y-despues-le-quito-la-vida-a-una-menor-de-edad/
+Michoacán,Zacapu,2018-03-23T05:30:46-07:00,0404,ASESINATO,https://www.lapoliciaca.com/nota-roja/mata-a-su-ex-pareja-en-un-mercado-por-haberlo-abandonado/
+Guerrero,Acapulco,2018-03-23T00:27:36-07:00,0406,,https://www.lapoliciaca.com/nota-roja/sujetos-armados-asaltan-y-rapan-a-estudiantes-y-maestras-de-telesecundaria/
+Tlaxcala,Apizaco,2018-03-22T14:19:17-07:00,0407,ASESINATO,https://www.lapoliciaca.com/nota-roja/hallan-muerta-a-ninera-que-fue-evidenciada-golpeando-a-dos-bebes-video/
+Chiapas,Cacahoatán,2018-03-22T02:42:31-07:00,0408,,https://www.lapoliciaca.com/nota-roja/no-soporto-mas-violencia-y-le-corto-la-yugular-a-su-marido/
+Puebla,Puebla,2018-03-20T14:53:16-07:00,0410,,https://www.lapoliciaca.com/nota-roja/muere-nina-de-8-anos-por-comer-pollo-descompuesto/
+Querétaro,Colón,2018-03-20T09:01:49-07:00,0412,,https://www.lapoliciaca.com/nota-roja/nino-abuso-de-su-prima-de-6-anos-la-mato-y-la-enterro-en-el-patio-de-su-casa/
+Puebla,Puebla,2018-03-20T03:05:32-07:00,0413,,https://www.lapoliciaca.com/nota-roja/pobladores-queman-vivo-a-delincuente-porque-estaban-hartos-de-el/
+Guanajuato,León,2018-03-20T03:05:18-07:00,0414,,https://www.lapoliciaca.com/nota-roja/perro-pitbull-defendio-su-casa-y-le-arranco-oreja-a-ladron/
+Oaxaca,Puerto Escondido,2018-03-19T13:55:10-07:00,0415,,https://www.lapoliciaca.com/nota-roja/choque-de-paracaidas-deja-una-mujer-sin-vida-el-accidente-fue-captado-en-video/
+Chiapas,Cintalapa,2018-03-19T13:38:40-07:00,0416,,https://www.lapoliciaca.com/nota-roja/joven-mato-a-machetazos-a-su-mama-y-a-su-hermanita-de-3-anos/
+Estado de México,Nezahualcóyotl,2018-03-19T13:15:55-07:00,0417,,https://www.lapoliciaca.com/nota-roja/fatima-estaba-embarazada-de-gemelos-y-fue-asesinada-por-su-esposo/
+Aguascalientes,Aguascalientes,2018-03-18T20:48:26-07:00,0418,ASESINATO,https://www.lapoliciaca.com/nota-roja/hallan-sin-vida-en-campo-de-futbol-a-jovencita-reportada-desaparecida/
+Chiapas,Tapachula,2018-03-18T20:43:32-07:00,0419,,https://www.lapoliciaca.com/nota-roja/hallo-la-muerte-mientras-esperaba-recibir-programa-prospera/
+Estado de México,Ecatepec,2018-03-16T16:43:16-07:00,0420,,https://www.lapoliciaca.com/nota-roja/ladron-se-atora-en-la-chimenea-de-una-rosticeria-y-muere-calcinado/
+Yucatán,Mérida,2018-03-16T09:08:29-07:00,0422,,https://www.lapoliciaca.com/nota-roja/estuvo-muerto-cuatro-meses-en-una-autopista-y-nadie-se-percato/
+Coahuila,Torreón,2018-03-16T08:59:58-07:00,0423,DISPAROS,https://www.lapoliciaca.com/nota-roja/delante-de-sus-hijos-asesino-a-su-ex-pareja-y-a-la-madre-de-esta/
+Veracruz,Agua Dulce,2018-03-16T08:19:26-07:00,0424,,https://www.lapoliciaca.com/nota-roja/detienen-a-sujeto-tras-abandonar-a-su-esposa-el-mismo-dia-de-la-boda/
+Nuevo León,Juárez,2018-03-15T01:49:47-07:00,0427,,https://www.lapoliciaca.com/nota-roja/lanza-golpe-a-rival-y-este-lo-mata-a-balazos-video/
+Chihuahua,Guachochi,2018-03-15T01:11:07-07:00,0428,,https://www.lapoliciaca.com/nota-roja/el-diablo-asesino-a-tres-hombres-porque-le-negaron-un-trago/
+Jalisco,Guadalajara,2018-03-14T23:52:11-07:00,0430,ASESINATO:DISPAROS,https://www.lapoliciaca.com/nota-roja/karina-la-universitaria-asesinada-frente-a-su-pequena-hija/
+Michoacán,Uruapan,2018-03-14T14:13:47-07:00,0431,,https://www.lapoliciaca.com/nota-roja/detienen-a-sujeto-acusado-de-asesinar-a-su-esposa-y-sus-dos-hijos/
+Nuevo León,Monterrey,2018-03-12T11:36:03-07:00,0434,,https://www.lapoliciaca.com/nota-roja/muere-pareja-en-la-habitacion-de-un-motel/
+Michoacán,Uruapan,2018-03-12T09:21:11-07:00,0435,,https://www.lapoliciaca.com/nota-roja/por-que-mataron-a-mi-familia-con-tanta-sana/
+Estado de México,Tecámac,2018-03-09T07:37:24-07:00,0436,,https://www.lapoliciaca.com/nota-roja/justiciero-hinca-y-mata-a-presuntos-asaltantes/
+Chihuahua,Ciudad Juárez,2018-03-09T00:53:27-07:00,0438,:ASESINATO,https://www.lapoliciaca.com/nota-roja/llorando-ante-las-camaras-pidio-ayuda-para-localizar-a-su-pareja-desaparecida-el-la-asesino-video/
+Durango,Guanaceví,2018-03-08T09:37:59-07:00,0439,,https://www.lapoliciaca.com/nota-roja/terrible-asesino-a-golpes-a-su-bisabuela/
+Veracruz,Tuxpan,2018-03-08T08:58:03-07:00,0440,,https://www.lapoliciaca.com/nota-roja/ama-de-casa-fue-hallada-muerta-y-desnuda-a-orillas-de-un-rio/
+Estado de México,Huehuetoca,2018-03-07T19:50:04-07:00,0441,,https://www.lapoliciaca.com/nota-roja/mato-a-su-pareja-sentimental-y-a-la-mascota-de-ella/
+Coahuila,Torreón,2018-03-07T19:10:24-07:00,0442,ASESINATO,https://www.lapoliciaca.com/nota-roja/alexis-fue-asesinado-a-golpes-por-su-padrastro-su-perrita-bambi-lo-espera-afuera-de-su-casa/
+Estado de México,Ecatepec,2018-03-07T09:39:40-07:00,0445,ASESINATO,https://www.lapoliciaca.com/nota-roja/joven-hallada-brutalmente-asesinada-es-kenny-una-modelo-venezolana/
+Veracruz,Veracruz,2018-03-07T09:37:07-07:00,0447,,https://www.lapoliciaca.com/nota-roja/hallan-cuerpo-de-recien-nacida-dentro-de-una-bolsa/
+Guanajuato,León,2018-03-07T09:36:58-07:00,0448,ASESINATO,https://www.lapoliciaca.com/nota-roja/muere-madre-que-asesino-a-sus-tres-hijos-dejo-un-recado-postumo/

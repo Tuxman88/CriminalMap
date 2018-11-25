@@ -1,10 +1,10 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2018-04-29T19:39:34
+# Project created by QtCreator 2018-11-24T13:56:16
 #
 #-------------------------------------------------
 
-QT += core gui
+QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -22,23 +22,22 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # You can also select to disable deprecated APIs only up to a certain version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
+CONFIG += c++11
 
 SOURCES += \
-   src/main.cc \
-    src/gui/windows/mainwindow.cc \
-    src/gui/components/panelmain.cc \
-    src/gui/components/panelmap.cc \
-    src/gui/components/paneloptions.cc \
-    src/core/maincore.cc \
-    src/core/sitesscanner.cc
+   main.cpp \
+   src/gui/mainwindow.cc \
+   src/gui/pluginsviewer.cc \
+    src/base/plugin.cc \
+    src/core/pluginsmanager.cc
 
 HEADERS += \
-   src/base/base.hh \
-   src/core/core.hh \
-   src/gui/gui.hh \
-    src/gui/windows/mainwindow.hh \
-    src/gui/components/panelmain.hh \
-    src/gui/components/panelmap.hh \
-    src/gui/components/paneloptions.hh \
-    src/core/maincore.hh \
-    src/core/sitesscanner.hh
+   src/gui/mainwindow.hh \
+   src/gui/pluginsviewer.hh \
+    src/base/plugin.hh \
+    src/core/pluginsmanager.hh
+
+# Default rules for deployment.
+qnx: target.path = /tmp/$${TARGET}/bin
+else: unix:!android: target.path = /opt/$${TARGET}/bin
+!isEmpty(target.path): INSTALLS += target

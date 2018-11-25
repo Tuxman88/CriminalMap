@@ -279,7 +279,7 @@ CleanFolders
 
 echo "* Downloading XML files."
 # Download enough contents as to fill
-for i in {1..5}
+for i in {1..2}
 do
    output_file=""
    

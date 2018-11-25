@@ -1,10 +1,10 @@
 # ifndef MAINWINDOW_HH_
 # define MAINWINDOW_HH_
 
-# include <QMessageBox>
 # include <QMainWindow>
 
-# include "../components/panelmain.hh"
+# include "pluginsviewer.hh"
+# include "../core/pluginsmanager.hh"
 
 namespace Gui
 {
@@ -16,19 +16,17 @@ namespace Gui
          explicit MainWindow ( void );
          virtual ~MainWindow ( void );
 
-      signals:
-         void scanSites ( void );
+      private slots:
+         void scanPlugins ( void );
 
       private:
+         void buildComponents ( void );
          void buildGui ( void );
          void buildConnections ( void );
 
-      private slots:
-         void notifyScanning ( void );
-
       private:
-         Gui::PanelMain* mPanelMain;
-         QMessageBox* mScanningDialog;
+         Gui::PluginsViewer* mPluginsViewer;
+         Core::PluginsManager* mPluginsManager;
    };
 }
 

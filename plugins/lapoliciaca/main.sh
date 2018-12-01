@@ -144,7 +144,37 @@ function GetURL ()
             fi
          fi
          
-         if [[ "${lowercase_string}" == *dispararon* ]]; then
+         if [[ "${lowercase_string}" == *homicid* ]]; then
+            if [[ "${keys_found}" != *ASESINATO* ]]; then
+               if [ "${keys_found}" == "NONE" ]; then
+                  keys_found=ASESINATO
+               else
+                  keys_found="${keys_found}:ASESINATO"
+               fi
+            fi
+         fi
+         
+         if [[ "${lowercase_string}" == *mata* ]]; then
+            if [[ "${keys_found}" != *ASESINATO* ]]; then
+               if [ "${keys_found}" == "NONE" ]; then
+                  keys_found=ASESINATO
+               else
+                  keys_found="${keys_found}:ASESINATO"
+               fi
+            fi
+         fi
+         
+         if [[ "${lowercase_string}" == *mato* ]]; then
+            if [[ "${keys_found}" != *ASESINATO* ]]; then
+               if [ "${keys_found}" == "NONE" ]; then
+                  keys_found=ASESINATO
+               else
+                  keys_found="${keys_found}:ASESINATO"
+               fi
+            fi
+         fi
+         
+         if [[ "${lowercase_string}" == *disparar* ]]; then
             if [[ "${keys_found}" != *DISPAROS* ]]; then
                if [ "${keys_found}" == "NONE" ]; then
                   keys_found=DISPAROS

@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -25,17 +25,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
-   main.cpp \
-   src/gui/mainwindow.cc \
-   src/gui/pluginsviewer.cc \
-    src/base/plugin.cc \
-    src/core/pluginsmanager.cc
+   src/main.cc \
+    src/gui/mainwindow.cc \
+    src/gui/mainpanel.cc \
+    src/core/dbparse.cc
 
 HEADERS += \
-   src/gui/mainwindow.hh \
-   src/gui/pluginsviewer.hh \
-    src/base/plugin.hh \
-    src/core/pluginsmanager.hh
+   src/gui/gui.hh \
+   src/core/core.hh \
+   src/base/base.hh \
+    src/gui/mainwindow.hh \
+    src/gui/mainpanel.hh \
+    src/core/dbparse.hh \
+    src/base/crime.hh
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
